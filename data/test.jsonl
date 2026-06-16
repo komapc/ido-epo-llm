@@ -1,0 +1,1000 @@
+{"instruction": "Translate Ido to Esperanto:", "input": "Suflez plu forte!", "output": "Blovu pli forte!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni facis l'amoro.", "output": "Ni amoris.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Boato renversiĝis.", "output": "Batelo kulbutis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Liberez Bretonia!", "output": "Liberigu Bretonion!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Komunismo vinkos.", "output": "Komunismo venkos.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Dankon.", "output": "Me dankas tu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi feliĉas vidi vin.", "output": "Me joyas vidar tu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi estas pretaj?", "output": "Ka vi esas pronta?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Balayez la plankosulo.", "output": "Balau la plankon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Uzu la retejon Tatoeba.", "output": "Uzez Tatoeba.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Malvarmegas.", "output": "Frostas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Voluntez tacar.", "output": "Bonvolu silenti.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu mi konas vin?", "output": "Ka me konocas vu?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tom iĝis riĉa.", "output": "Tom divenis richa.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La viro banas sin.", "output": "La homulo balnas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom havas fureti.", "output": "Tom havas furojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi mortis hieraŭ.", "output": "Me mortis hiere.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu malodoras.", "output": "Vi aĉe odoras.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi volas kisi vin.", "output": "Me volas kisar tu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi jesis.", "output": "Elu dicis yes.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu es ebria!", "output": "Vi estas ebriaj!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kio estas hajko?", "output": "Quo es haiko?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Fek al tio.", "output": "Futuesez to.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni amas vin, Tomo.", "output": "Ni amoras tu, Tom.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Kad ilu venos?", "output": "Ĉu li venos?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La pano estas bruna.", "output": "La pano esas bruna.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi estas bonega ideo.", "output": "Esas bonega ideo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La suno brilas.", "output": "La suno brilas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me balnas omnadie.", "output": "Mi banas min ĉiutage.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas generalo.", "output": "Mi estas generalo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Oni bezonas monarkojn.", "output": "Onu bezonas reji.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom volas restar.", "output": "Tomo deziras resti.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vi malodoras.", "output": "Vi malbonodoras.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi mortigis Dion.", "output": "Me mortigis deo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estas por vi!", "output": "To esas por tu!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi ne timas ŝin.", "output": "El ne pavoras el.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Li retrodonis ol.", "output": "Ili redonis ĝin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li sekvas ilin.", "output": "Il sequas eli.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi estas malĝentilaj.", "output": "Vu es nepolita.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La pano esas bruna.", "output": "La pano estas bruna.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi amas ŝin.", "output": "Tu amas il.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vi pavoras mortar.", "output": "Vi timas morti.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas preta.", "output": "Me esas pronta.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni estas hebreoj.", "output": "Ni esas Judi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Sen komento.", "output": "Sen komento.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me prenas tomato.", "output": "Mi prenas tomaton.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ica esas nivo-homo.", "output": "Ĉi tio estas neĝulo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La ŝipo sinkas.", "output": "La navo sinkas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La arbo falas.", "output": "La arboro falas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Salas konis ŝin.", "output": "Salas konocis el.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom esas malulo.", "output": "Tomo estas malica homo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il esas kun ilu.", "output": "Li estas kun li.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni havas du hundojn.", "output": "Ni havas du hundi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiu estis Tomo?", "output": "Qua esis Tom?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ilu havas inkubi.", "output": "Li havas inkubojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vu iris ad Italia.", "output": "Vi iris al Italio.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li malkuraĝas.", "output": "Il es poltrona.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Anke co pasos.", "output": "Ankaŭ tio pasos.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me manjis piro.", "output": "Mi manĝis piron.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ico esas Tatoeba.", "output": "Tio estas Tatoeba.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas hike.", "output": "Mi estas tie ĉi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom inhalis.", "output": "Tomo enspiris.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi amas vian katinon.", "output": "Me amas tua kato.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La volfo ululas.", "output": "La lupo ululas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi malbone legas.", "output": "Vu male lektas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kial tio ekzistas?", "output": "Pro quo to existas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Yanni konsentis.", "output": "Janio konsentis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me nomesas Hugo.", "output": "Mia nomo estas Hugo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me es politikisto.", "output": "Mi estas politikisto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El lavas sua jupo.", "output": "Ŝi lavas sian jupon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi malamas kaj amas.", "output": "Me odias ed amas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne povas venar.", "output": "Mi ne povas veni.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Leono estas besto.", "output": "Leono esas animalo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Li es okupata.", "output": "Ili estas okupataj.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me lasis li irar.", "output": "Mi lasis ilin iri.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me vidis nulu.", "output": "Mi ne vidis iun.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni ridis.", "output": "Ni ridegis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Futuesez!", "output": "Fiku vin!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La somero venas.", "output": "Komenciĝas somero.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ico es Tatoeba.", "output": "Tio estas Tatoeba.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me es anke patro.", "output": "Ankaŭ mi estas patro.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi bone kuiras.", "output": "Vu esas bona koquero.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni esis korekta.", "output": "Ni pravis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne esas fatigita.", "output": "Mi ne estas laca.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Eble li venos.", "output": "Forsan il venos.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Same mi.", "output": "Anke me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La giganto vekiĝis!", "output": "La giganto vekis!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Manjo ne malsanas.", "output": "Maria ne esas malada.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu iu alia iras?", "output": "Ka irgu altra iros?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il ne lojas hike.", "output": "Ŝi ne loĝas ĉi tie.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu tio ĉi estas sango?", "output": "Ka to esas sango?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ne vekigez la kato.", "output": "Ne veku la katinon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me vidis la rejino.", "output": "Mi vidis la reĝinon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ha lo!", "output": "Saluto!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Manjo surdetas.", "output": "Maria esas surdeta.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Helpu!", "output": "Helpo!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El esas tre ruzoza.", "output": "Ŝi estas tre ruza.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Lo ne importas.", "output": "Tio ne gravas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi estas riĉulino.", "output": "Tu esas richino.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Pro quo ilu siflas?", "output": "Kial li fajfas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Eniru, mi insistas.", "output": "Enirez. Me insistas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi estas justa.", "output": "Ol es yusta.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni ne trovis li.", "output": "Ni ne trovis ilin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi estas ilia lando.", "output": "Ol esas lia lando.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi estas ĉiam fumanta.", "output": "Elu sempre fumas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi volas fiki?", "output": "Ka tu volas futuar?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El esas febla.", "output": "Ŝi estas malforta.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kie li vivas?", "output": "Ube il habitas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni irez!", "output": "Ni ekiru!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi volas lerni.", "output": "Me volas lernar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kie vi ludis ŝakon?", "output": "Ube tu ludis shako?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi estas mortanta.", "output": "Vu mortas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne estas pigra.", "output": "Me ne esas ociema.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili samaĝas.", "output": "Li havas la sama evo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom amas kati.", "output": "Tomo tre ŝatas katojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi venu.", "output": "Tu mustas venar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne vartos plu.", "output": "Mi ne plu atendos.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi estis malglata.", "output": "Ol esis desglata.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Dankego.", "output": "Multan dankon!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas gangstero.", "output": "Tom es kriministo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi mortigis la viron.", "output": "Me ocidis la viro.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Kato skribis co.", "output": "Kato skribis tion.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni strangas.", "output": "Ni esas stranja.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La ĉielo bluas.", "output": "La ciel' esas blua.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi parolas.", "output": "El parolas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li malŝategis mensogi.", "output": "Il odiis mentiar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi estas malĝentilaj.", "output": "Vi es nepolita.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Til rivido!", "output": "Adiaŭ!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Zorgu pri mia fotilo.", "output": "Gardez mea kamero.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Bone, ni faros ĝin!", "output": "Bone, ni facos ol!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉi tio estas neĝulo.", "output": "Ica esas nivo-homo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vu bone boxas.", "output": "Vi bone boksas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili vidas lin.", "output": "Ili vidas ilu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Esis nulu ibe.", "output": "Tie estis neniu.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quante vu evas?", "output": "Kiom jaraĝa vi estas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mia kato amas min.", "output": "Mea kato amas me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estas vero!", "output": "To esas vero!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Unionesez kun ni.", "output": "Kuniĝu al ni.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni manĝas panon.", "output": "Ni manjas pano.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To ne esis pri tu.", "output": "Tio ne temis pri vi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kio estas pandemio?", "output": "Quo esas pandemio?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kuraĝiĝu!", "output": "Kurajo!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "On abominas me.", "output": "Oni abomenas min.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quon vu regardas?", "output": "Al kio vi rigardas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me prizas ito.", "output": "Tio plaĉas al mi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quo eventas hike?", "output": "Kio okazas tie ĉi?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amas hundi.", "output": "Mi ŝatas hundojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ol redesas.", "output": "Ĝi ruĝas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi piediras.", "output": "Elu marchas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi amas vian katon.", "output": "Me amas vua kato.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ne fulez me.", "output": "Ne tretu sur min.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Examenez tu.", "output": "Ekzamenu vin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Examenez tu.", "output": "Provu vin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom volis mortar.", "output": "Tomo volis morti.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Anke me.", "output": "Same mi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni iros al Toronto.", "output": "Ni vehos a Toronto.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni vivas en socio.", "output": "Ni vivas en socio.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Akvon, mi petas.", "output": "Aquon me pregas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me dankas tu multe!", "output": "Multan dankon!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu mi odoraĉas?", "output": "Ka me malodoras?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas laca.", "output": "Me esas fatigita.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu esas malada.", "output": "Vi estas malsana.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝis revido!", "output": "Adio!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amas Tatoeba.", "output": "Mi amas Tatoeban.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ca esas amuza.", "output": "Estas plezuro.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Kub-ludez!", "output": "Ĵetu la ĵetkubojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kion vi estas faranta?", "output": "Quon tu facas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kio komfortigas vin?", "output": "Quo komfortigas vu?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni ne havas fishi.", "output": "Ni ne havas fiŝojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me es elfo.", "output": "Mi estas elfo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili redonis ĝin.", "output": "Li ridonis ol.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estis en Parizo.", "output": "Me esis en Paris.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi estas kun li.", "output": "El es kun il.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi sekvas ilin.", "output": "El sequas ili.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi estas anĝelo!", "output": "Tu esas anjelo!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi uzas Firefox'on.", "output": "Me uzas Firefox.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me venas.", "output": "Mi venas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amoras el.", "output": "Mi amas rin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Kad vu komprenis?", "output": "Ĉu vi komprenis ĝin?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Mary ridis multe.", "output": "Maria multe ridis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Sufiĉas por hodiaŭ.", "output": "Por hodie suficas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni malŝatas araneojn.", "output": "Ni odias aranei.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Bob kapablas kuiri.", "output": "Bob povas koquar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka me esas stranja?", "output": "Ĉu mi estas stranga?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Usa esas mala.", "output": "Usono estas malbona.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La turbo aklamis.", "output": "La amaso hurais.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vi malodoras.", "output": "Vi odoraĉas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La telefono sonas.", "output": "La telefonilo sonas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Desaparez, infanti!", "output": "Malaperu, infanoj!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne esas Kanadano.", "output": "Mi ne estas kanada.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi tre dankas vin!", "output": "Me dankas vu multe!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom es fidela.", "output": "Tomo fidelas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi surhavas gantojn.", "output": "Elu portas ganti.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi estas kuracistino.", "output": "El esas mediko.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi iras labori.", "output": "Me iras laborar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiu estas via ĉefo?", "output": "Qua esas tua chefo?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Omna kati belesas.", "output": "Ĉiuj katoj belas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio ŝin kolerigas.", "output": "Ico iracigas elu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas transgenra.", "output": "Me esas transgenra.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "On nultempe savas.", "output": "Oni neniam scias.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me violacis el.", "output": "Mi seksatencis ŝin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni bezonas reguli.", "output": "Ni bezonas regulojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Frapu min.", "output": "Frapez me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quala bela gambi!", "output": "Kiaj belaj gamboj!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio ne estas Ido.", "output": "To ne esas Ido.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne plu atendos.", "output": "Me ne vartos plu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ne ekzistas infero.", "output": "Ne existas inferno.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quo esas faxuro?", "output": "Kio estas faksilo?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi memoras?", "output": "Ka tu memoras?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi dormas stare.", "output": "Me dormas stacante.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni ne estas liberaj.", "output": "Ni ne esas libera.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi cedas.", "output": "Me donas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ne necesas rapidi.", "output": "Ne es necesa hastar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni ne konas ŝin.", "output": "Ni ne konocas el.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li gravas.", "output": "Il esas importanta.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kia perdulo!", "output": "Quala perdero!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi estas malsaĝa.", "output": "Tu es stupida.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo sonĝis.", "output": "Tom sonjis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne povas salti.", "output": "Me ne povas saltar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi estas riĉa.", "output": "Tu esas richa.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amas banani.", "output": "Mi ŝategas bananojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il esis tre fatigita.", "output": "Li estis tre laca.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi iras Anglujon.", "output": "Me iros ad Anglia.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ne batez me!", "output": "Ne batu min!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La hundo durstas.", "output": "La hundo soifas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El esas putanino.", "output": "Ŝi estas ĉiesulino.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li maĉas tabakon.", "output": "Il mastikas tabako.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Futuesez tu!", "output": "Fikiĝu!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas blinda.", "output": "Mi estas blinda.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu neĝas ĉi tie?", "output": "Ka nivas hike?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom vinkis me.", "output": "Tomo venkis min.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La tero vivas.", "output": "La sulo vivas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili mortigos vin!", "output": "Li mortigos tu!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Neniu interesiĝas.", "output": "Nulu interesesas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas animalo.", "output": "Mi estas besto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉiam io restas.", "output": "Ulo sempre restas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Dansez kun me!", "output": "Dancu kun mi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Parolu!", "output": "Parolez!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne questionis.", "output": "Mi ne demandis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La suno estis brilanta.", "output": "La suno brilis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estas ĝusta.", "output": "Vu esas korekta.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Esas tre bona.", "output": "Tio estas tre bona.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni ne bezonas vin.", "output": "Ni ne bezonas vi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La ĉielo estas blua.", "output": "La cielo es blua.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tie estas puto.", "output": "Esas puteo ibe.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka tu volas rizo?", "output": "Ĉu vi volas rizon?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vu ne povas natar.", "output": "Vi ne rajtas naĝi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo amas katojn.", "output": "Tom amas kati.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka tu es vekanta?", "output": "Ĉu vi estas vekiĝinta?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu ne povas.", "output": "Vi ne povas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiom multaj mortis?", "output": "Quanta mortinti?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas fiera pri tu.", "output": "Mi fieras je vi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Faligez ol.", "output": "Faligu tion.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi venas.", "output": "Me venas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kaptu tion.", "output": "Sizez to.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Kurvigez ol.", "output": "Fleksu ĝin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kio plorigas vin?", "output": "Pro quo tu ploras?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il heredis la domo.", "output": "Li heredis la domon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To es stulta!", "output": "Tio estas stulta!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li demandis min.", "output": "Il questionis me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Venez adhike!", "output": "Venu ĉi tien.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni estas inoj.", "output": "Ni esas mulieri.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ilu ploris pro joyo.", "output": "Li ploris pro ĝojo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La somero venas.", "output": "Venas somero.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El volas automobilo.", "output": "Ŝi volas aŭton.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estas malbonaĵo.", "output": "To es malajo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi uzas Fajrovulpon.", "output": "Me uzas Firefox.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me lavas me.", "output": "Mi duŝas min.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Alice ridetis.", "output": "Alice ridetis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Lu esas blinda.", "output": "Li estas blinda.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Frapu Tomon.", "output": "Frapez Tom.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo traktis ĝin.", "output": "Tom traktis ol.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vu sufokas?", "output": "Ĉu vi sufokiĝas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me questionus li.", "output": "Mi demandus ilin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me volas dormar.", "output": "Mi volas dormi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni iru al Marso.", "output": "Ni iros a Marso.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Multa plezuro!", "output": "Multan plezuron!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To esas libro.", "output": "Tio ĉi estas libro.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Lunatiko!", "output": "Frenezulino!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas adoleskanto.", "output": "Tom esas yuno.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To ne es sango.", "output": "Ĝi ne estas sango.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quala bela vidajo!", "output": "Kia bela elvido!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Homoj estas homoj.", "output": "La homi esas homi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne povas.", "output": "Mi ne kapablas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Li kreskis.", "output": "Ili kreskis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kia belega floro!", "output": "Quala bela floro!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Pro quo ilu ne sucias?", "output": "Kial li fajfas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il lernas rapide.", "output": "Ŝi rapide lernas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka me esas leda?", "output": "Ĉu mi estas malbela?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Jesuo ĝenas min.", "output": "Iesu iritas me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Amba homo esas vivanta.", "output": "Ambaŭ vivas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Marcus batis Julia.", "output": "Marko batis Julian.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu fetidesas.", "output": "Vi fetoras.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi parolas bone.", "output": "Tu parolas bone.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me prizas pruni.", "output": "Mi ŝategas prunojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Qua akuzas tu?", "output": "Kiu akuzas vin?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Deo kreis me tala.", "output": "Dio kreis min ĉi tia.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li bezonas monon.", "output": "Ilu bezonas pekunio.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me lektos libro.", "output": "Mi legos libron.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mia nomo estas Karlo.", "output": "Me nomesas Carlos.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Parolu, Davido.", "output": "Parolez, David.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ibe tu esis!", "output": "Tie vi estis!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka nivas hike?", "output": "Ĉu neĝas ĉi tie?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me tenis la flori.", "output": "Mi tenis la florojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "L'amoro riplenigas.", "output": "Amo replenigas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi deziras kafon.", "output": "Me deziras kafeo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne respondis.", "output": "Me ne respondis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiom mortis?", "output": "Quanta mortinti?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Atendu momenton.", "output": "Vartez momento.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quo eventis?", "output": "Kio okazis?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi volonte promenas.", "output": "Me prizas promenar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Petro amis Johanan.", "output": "Peter amis Jane.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kredu Tomon.", "output": "Kredez Tom.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ulinido!", "output": "Putaninfiliacho!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Pluvas en Suedia.", "output": "Pluvas en Svedujo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To esas lombriko.", "output": "Tio estas lumbriko.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas stultulo.", "output": "Tom esas stulto.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Unionesez kun me!", "output": "Aliĝu al mi!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me vidis serpento.", "output": "Mi vidis serpenton.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom remas.", "output": "Tomo remas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li bele kantas.", "output": "Il kantas bone.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne havas aquo.", "output": "Mi ne havas akvon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi bezonas martelon.", "output": "Me bezonas martelo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi estas laca?", "output": "Ka vu esas fatigita?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Mea nomo esas Robin.", "output": "Mi nomiĝas Robin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Veturu kun ni.", "output": "Vehez kun ni.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Sendube li eraris.", "output": "Sendube il eroris.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ilu juis biciklagar.", "output": "Li ŝatis bicikli.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi sufokiĝas?", "output": "Ka vu sufokas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi stultas.", "output": "Me esas stupida.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ne esas salo.", "output": "Ne estas salo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi akceptas tion.", "output": "Me aceptas to.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas kristano.", "output": "Tom esas Kristano.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka li dicis to?", "output": "Ĉu ili diris tion?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi nomiĝas Pierre.", "output": "Me nomesas Pierre.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me aceptas.", "output": "Mi akceptas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas putanino.", "output": "Mi estas ĉiesulo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estis malfacila.", "output": "Ol esis desglata.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Danko!", "output": "Mi dankas al vi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Atentu la aŭton.", "output": "Atentez l'automobilo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka tu mortigis el?", "output": "Ĉu vi mortigis ŝin?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kia bela ĝardeno!", "output": "Quala bela gardeno!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Anke me vidis lo!", "output": "Ankaŭ mi vidis tion!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ne lasu min sola!", "output": "Ne lasez me sola.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi mortigis dion.", "output": "Me mortigis deo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Sed kial?", "output": "Ma pro quo?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio ne helpas!", "output": "To ne helpas!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas kun vi.", "output": "Me esas kun tu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quante vu evas?", "output": "Kiu estas via aĝo?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Lu ploris.", "output": "Ŝli ploris.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Danko!", "output": "Dankon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Oni bezonas reĝojn.", "output": "Ni bezonas reji.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me lernas nulo.", "output": "Mi ne lernas ion.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Salas konis rin.", "output": "Salas konocis eli.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vi esas pronta?", "output": "Ĉu vi estas preta?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Estas iom da nebulo.", "output": "Esas kelka nebulo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ilu jus arivis.", "output": "Li ĵus alvenis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Retrofrapez.", "output": "Refrapu.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me es kindo.", "output": "Mi estas infano.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El multe sportas.", "output": "Ŝi multe sportludas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me mustis irar.", "output": "Mi devis ekiri.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ne esas espero.", "output": "Ne estas espero.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni ludos futbalo.", "output": "Ni piedpilkados.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Iraco solvas nulo.", "output": "Kolero solvas nenion.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Salas konis rin.", "output": "Salas konocis lu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Pluvas en Svedio.", "output": "Pluvas en Suedia.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi komencas laciĝi?", "output": "Ka vi fatigeskas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La pomon manĝas mi.", "output": "La pomon manjas me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amas vorti.", "output": "Mi ŝatas vortojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Desegnu cirklon.", "output": "Desegnez cirklo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vivez Ido!", "output": "Vivu Ido!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quale tu standas?", "output": "Kiel iras viaj aferoj?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo ne estas reala.", "output": "Tom ne esas reala.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Oni bezonas gereĝojn.", "output": "Ni bezonas reji.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas hejme.", "output": "Me esas heme.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vi es felica?", "output": "Ĉu vi feliĉas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kie estas Mary?", "output": "Ube esas Mary?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li parolas malbone.", "output": "Il parolas male.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom halucinas.", "output": "Tomo halucinas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Nulatempe mentiez.", "output": "Neniam mensogu.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo mutiĝis.", "output": "Tom muteskis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Nenio helpos.", "output": "Nulo helpos.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Bone regardez!", "output": "Rigardu bone!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi nomiĝas Tomo.", "output": "Mea nomo esas Tom.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Salas konocis li.", "output": "Salas konis ilin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi estas tie?", "output": "Ka tu esas ibe?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kaj kie estas Tomo?", "output": "Ed ube esas Tom?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi kaptis la muŝojn.", "output": "Me kaptis la mushi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo fekis.", "output": "Tom merdifis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo malofte parolis.", "output": "Tom rare parolis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La aquo divenis reda.", "output": "La akvo ruĝiĝis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Esas puteo ibe.", "output": "Tie estas puto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas bonulo.", "output": "Tom esas bono.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ol esas bela poemo.", "output": "Ĝi estas bela poemo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ek!", "output": "Ni irez!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu violacis el!", "output": "Vi stupris ŝin!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Marcus batis Julia.", "output": "Marko venkis Julian.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas muelisto.", "output": "Tom esas muelisto.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Co esas automobilo.", "output": "Jen aŭto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quo esas?", "output": "Kio estas ĉi tio?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me bezonas sitelo.", "output": "Mi bezonas sitelon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Elu dicis yes.", "output": "Ŝi jesis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Jes, mi scias.", "output": "Yes, me savas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quo es me?", "output": "Kio mi estas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Donez ol ad il.", "output": "Donu al ŝi tion.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Li amas tu.", "output": "Ili amas vin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni es pastori.", "output": "Ni estas ŝafistoj.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi amas vin?", "output": "Ka vu amas vu?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Prenu oranĝon!", "output": "Prenez oranjo!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi avertos lin.", "output": "Me avertos il.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me lasis li irar.", "output": "Mi lasis ilin foriri.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas surda.", "output": "Me esas surda.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amas la suno.", "output": "Mi tre ŝatas la sunon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vu es vekanta?", "output": "Ĉu vi estas maldorma?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni esas amiki.", "output": "Ni estas amikinoj.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Gratulojn.", "output": "Gratuli!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiu dento doloras?", "output": "Qua dento doloras?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mia nomo estas Ivano.", "output": "Mea nomo es Ivan.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni esas Afrikani.", "output": "Ni estas afrikanoj.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La nubo estas griza.", "output": "La nubo es griza.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me nun esas heme.", "output": "Mi nun estas hejme.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vu bezonas laborar.", "output": "Vi bezonas labori.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni bezonas reĝinon.", "output": "Ni bezonas rejino.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me purigabas uno.", "output": "Mi purigis unu.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kion vi faris tie?", "output": "Quon tu facis ibe?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi sufokiĝas?", "output": "Ka tu sufokas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La supo estas frida.", "output": "La supo esas kolda.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni komencu!", "output": "Adavane!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Savo esas povo.", "output": "La scio estas potenco.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi batis lin.", "output": "El vinkis il.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Suficas por hodie.", "output": "Sufiĉas por hodiaŭ.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom havas kati.", "output": "Tomo havas katojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu esas richa.", "output": "Vi estas riĉa.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi manĝis sablon.", "output": "Me manjis sablo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni esas studenti.", "output": "Ni estas studentoj.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Li ne esis malada.", "output": "Ili ne malsanis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me nomesas Tom.", "output": "Mi estas Tom.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni iros a Toronto.", "output": "Ni iros al Toronto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me volas fisho.", "output": "Mi volas fiŝaĵon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amas la suno.", "output": "Mi amas sunon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu esas kanalio!", "output": "Vi estas kanajlo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Jesuo malamas vin.", "output": "Iesu odias tu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ŝatas hundojn.", "output": "Me amas hundi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni bezonas reĝojn.", "output": "Ni bezonas reji.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi perdis ŝtrumpon.", "output": "Me perdis kalzeto.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estis malfacila.", "output": "To esis desfacila.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne estas mortinta.", "output": "Me ne es mortinta.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il mortigos me.", "output": "Li mortigos min.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu tio estas batilo?", "output": "Ka co esas batilo?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Esis nokto.", "output": "Estis nokto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu es jeneroza.", "output": "Vi estas malavara.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi timas morti.", "output": "Tu pavoras mortar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi perdas.", "output": "Me perdas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas edziniĝinta.", "output": "Me esas mariajita.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne havas nevino.", "output": "Mi ne havas nevinon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo iras.", "output": "Tom iras.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il studiis Judaismo.", "output": "Li studis judismon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka la luno brilas?", "output": "Ĉu la luno brilas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne esas kurajoza.", "output": "Mi ne estas kuraĝa.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kipro estas insulo.", "output": "Chipro esas insulo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Lu es mea kuzo.", "output": "Li estas mia kuzo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quo esas joyo?", "output": "Kio estas ĝojo?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Lu ne jenos vu.", "output": "Ili ne ĝenos vin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi timas akvon.", "output": "Me pavoras aquo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi estas studento.", "output": "Elu esas skolanino.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Bonan matenon!", "output": "Bona matino!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Agrablan vojaĝon!", "output": "Bona voyajo!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu amoras el.", "output": "Vi amas ŝin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas genitoro.", "output": "Mi havas infanojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝis la revido!", "output": "Til la rivido!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Respondu al mi.", "output": "Respondez a me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Manĝu kaj trinku.", "output": "Manjez e drinkez.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉiuj fajfas.", "output": "Lo interesas nulu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ok e du esas dek.", "output": "Ok kaj du estas dek.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tom estas hipokritulo.", "output": "Tom es hipokrito.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi estas tre malalta.", "output": "Ol esas tre basa.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne estas katino.", "output": "Me ne esas katino.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il falis en la rivero.", "output": "Ĝi falis riveren.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo fikis min.", "output": "Tom futuis me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi sekvis lin.", "output": "Me sequis il.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu mustas venar.", "output": "Vi devas veni.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ambaŭ estas knabinoj.", "output": "Amba esas puerini.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Saluton!", "output": "Hola!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amas la suno.", "output": "Mi amas la sunon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Nulu es ferpekta.", "output": "Neniu estas ferpekta.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ok kaj du estas dek.", "output": "Ok e du esas dek.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El es Palestinano.", "output": "Ŝi estas palestinano.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me violacis il.", "output": "Mi seksperfortis lin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne estas preta.", "output": "Me ne esas pronta.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La ciel' esas blua.", "output": "La ĉielo estas blua.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La viro estas nuda.", "output": "La viro esas nuda.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Co koncernas vi.", "output": "Tio ĉi koncernas vin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La uceli kantas.", "output": "Birdoj kantas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me havas fratini.", "output": "Mi havas fratinojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tempo esas pekunio.", "output": "Tempo egalas monon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me vidis muso.", "output": "Mi vidis muson!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne kantis.", "output": "Mi ne kantis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li estis pala.", "output": "Il esis pala.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Gravas paroli.", "output": "Importas parolar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Esas ja sis kloki.", "output": "Jam estas la sesa.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas Hungariana.", "output": "Mi estas hungarino.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas tre alta.", "output": "Mi estas tre alta.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me savas erorir.", "output": "Mi scias, ke mi eraris.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Alfrontu la realon.", "output": "Afrontez lo reala.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ŝatas Pepsion.", "output": "Me amas Pepsi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me povas flugar.", "output": "Mi scipovas flugi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quon tu serchas?", "output": "Pri kio vi serĉas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Li volas aquo.", "output": "Ili deziras akvon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ja esas pronta.", "output": "Mi jam estas preta.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi perdis libron.", "output": "Elu perdis libro.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas malsana.", "output": "Me maladesas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ma pro quo?", "output": "Tamen kial?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ulu lojas ibe.", "output": "Iu loĝas tie.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tiu estas Karlo.", "output": "Ta esas Carl.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vu volas vivar?", "output": "Ĉu vi volas vivi?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Certe iu amas vin.", "output": "Certe ulu amas vu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi estas ebriaj!", "output": "Tu es ebria!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me manjas pano.", "output": "Mi manĝas panon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Revu.", "output": "Revez.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi gravedas.", "output": "Me esas gravida.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Sizez Tom.", "output": "Ekkaptu Tomon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me uzis ol.", "output": "Mi uzis ĝin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Sizez la fundo.", "output": "Ekkaptu la malsupron.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni intencis baniĝi.", "output": "Ni volis balnar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Futuez tu!", "output": "Fek' al vi!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me vidas muliero.", "output": "Mi vidas virinon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li mem provis ĝin.", "output": "Il ipsa probis lo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas ne feliĉa.", "output": "Me ne esas felica.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi tiel fortas.", "output": "Tu esas tale forta.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Li ne regardas.", "output": "Ili ne rigardas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni irez a Marso.", "output": "Ni veturos al Marso.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiom belaj floroj!", "output": "Quala bela flori!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom hipas.", "output": "Tomo suferas je singulto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Malaperu, infanoj!", "output": "Desaparez, infanti!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi estas tre lerta.", "output": "El esas tre habila.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas sorĉistino.", "output": "Me esas sorcistino.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi ne estis malriĉa.", "output": "El ne esis povra.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Omno esas aranjita.", "output": "Ĉio estas aranĝita.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me deziras aquo.", "output": "Mi deziras akvon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom esas baptisto.", "output": "Tomo estas baptisto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Mary ne esas viro.", "output": "Manjo ne estas viro.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Esas fulmini.", "output": "Fulmas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vu bezonas laborar.", "output": "Oni bezonas labori.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili estas kun mi.", "output": "Li esas kun me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vunditi vundas altri.", "output": "Vunditoj vundas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El odias su.", "output": "Ŝi malamas sin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom esas fornisto.", "output": "Tomo estas bakisto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ta es nia vicino.", "output": "Li estas nia najbaro.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Dio estas ĉie.", "output": "Deo esas omnaloke.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Foriru nun.", "output": "Forirez nun.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Merdo.", "output": "Merdo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me parolis unesme.", "output": "Mi parolis unue.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vu fetidesas.", "output": "Vi odoraĉas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni estas popoj.", "output": "Ni esas popi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Danko!", "output": "Dankon!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il esis amiko mea.", "output": "Li estis amiko mia.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi amas min.", "output": "El amas me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me havas krampi.", "output": "Mi havas kramfojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili ŝatas tion.", "output": "Li prizas to.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Jen moskeo.", "output": "To esas moskeo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi timas la maron.", "output": "El pavoras la maro.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La suno brulas.", "output": "La suno brulas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li estas kun vi.", "output": "Il es kun vu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vi ne konacas Tom.", "output": "Vi ne konas Tomon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo vendis panon.", "output": "Tom vendis pano.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Fek al vi!", "output": "Futuez tu!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quante kustas ico?", "output": "Kiom tio kostas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me prizas milito.", "output": "Mi ŝatas militon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kio estas fiŝo?", "output": "Quo esas fisho?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu esas benediko.", "output": "Vi estas beno.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Fleksu ĉi tion.", "output": "Kurvigez co.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo esploros tion.", "output": "Tom exploros to.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ankaŭ mi estas patro.", "output": "Anke me es patro.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Voluntez forirar!", "output": "Bonvolu foriri!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "De kie vi revenas?", "output": "De ube tu venas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni festu.", "output": "Ni festez.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi estas donacema.", "output": "Tu es jeneroza.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Parolu pli klare.", "output": "Parolez plu klare.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi havis koŝmarojn.", "output": "Tu havis koshmari.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kuraĝon!", "output": "Kurajo!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ico esas desfacila.", "output": "Tio estas malfacila.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni ne konas ilin.", "output": "Ni ne konocas el.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo fekas.", "output": "Tom merdifas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo gravas.", "output": "Tom esas importanta.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Gardez mea kamero.", "output": "Zorgu pri mia fotilo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amoras tu.", "output": "Mi amas vin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi scias kien iri.", "output": "Me savas ube irar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ulu amas la hundo.", "output": "Iu amas la hundon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Glorio ad Ukraina!", "output": "Gloron al Ukrainio!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El foriros balde.", "output": "Ŝi foriros baldaŭ.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni ne estas riĉaj.", "output": "Ni ne esas richa.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To es tro chera!", "output": "Tio tro multekostas!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kio estas homo?", "output": "Quo esas persono?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vinkez le Giants!", "output": "Ni venku la Giants!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi malamis seksumon.", "output": "El odiis koito.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas certa.", "output": "Me esas certa.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Katoj estas bestoj.", "output": "Kati es animali.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne havas animon.", "output": "Me ne havas anmo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ol es nova.", "output": "Ĝi novas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vekez!", "output": "Vekiĝu!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝuu viajn feriojn!", "output": "Juez via vakanco!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quon el lektas?", "output": "Kion ŝi legas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi havas poŝtaĵojn.", "output": "Tu havas posto.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Nulatempe.", "output": "Neniam.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Elu savas to.", "output": "Ŝi scias tion.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li estas anĝelo!", "output": "Il esas anjelo!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tiu biero bongustas.", "output": "Ica biro esas bona.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Traktez elu bone.", "output": "Bone prizorgu ŝin!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom esas stulto.", "output": "Tomo estas simplulo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Komencez serchar.", "output": "Komencu serĉi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vi prizas pomi.", "output": "Vi ŝatas pomojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ektimis.", "output": "Me timeskis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Bonvenon.", "output": "Bonvenez.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Dio ne mensogas.", "output": "Deo ne mentias.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vi esas fatigita?", "output": "Ĉu vi estas laca?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo kalviĝas.", "output": "Tom kalveskas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li estis kun ŝi.", "output": "Il esis kun el.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili kapitulacas.", "output": "Li kapitulacas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi vidas la sunon.", "output": "Me vidas la suno.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vu esas fatigita?", "output": "Ĉu vi lacas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Bonvenon ĉe Tatoebao.", "output": "Bonveno a Tatoeba!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La domo esas blanka.", "output": "La domo blankas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi nomiĝas Duŝana.", "output": "Me nomesas Dushana.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li ĵus alvenis.", "output": "Ilu jus arivis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni ne konocas el.", "output": "Ni ne konas ŝin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Manjo ridetetis.", "output": "Maria poke ridetis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni estas pastoroj.", "output": "Ni es pastori.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Neniu devas foriri.", "output": "Nulu mustas forirar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom tardigesis.", "output": "Tomo malfruiĝis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Bovi mujas.", "output": "Bovoj muĝas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Adportez teo.", "output": "Alportu teon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas Vikingo.", "output": "Mi estas vikingino.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi traktis ĝin.", "output": "Me traktis ol.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu pluvemas?", "output": "Ka la vetero es pluvoza?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne estas kanada.", "output": "Me ne esas Kanadano.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi maldormas?", "output": "Ka vu es vekanta?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tiam ni ekploris.", "output": "Lore ni ploreskis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Armu vin.", "output": "Armizez vi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Oportas ke vu irez.", "output": "Pli bone vi iru.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne kredas vin!", "output": "Me ne kredas vu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esis kun tu.", "output": "Mi estis kun vi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ta es nia vicino.", "output": "Tiu estas nia najbaro.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Virinoj estas belaj.", "output": "Mulieri esas bela.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Eble Tomo foriris.", "output": "Forsan Tom departis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo kaŭris.", "output": "Tom squatis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Du e du esas quar.", "output": "Du kaj du estas kvar.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To ne esas posibla.", "output": "Tio ne estas ebla.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili estas melonoj.", "output": "Ti esas meloni.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni volas probar.", "output": "Ni volas provi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio malfacilas.", "output": "Ico esas desfacila.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El esas jemelo.", "output": "Ŝi estas dunaskito.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Eble neĝos ĉi-vespere.", "output": "Nivus ta vespere.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Mushi manjas kakuro.", "output": "Muŝoj manĝas fekon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kaj vi?", "output": "E vu?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni drinkez kafeo.", "output": "Ni kafumu.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li preferas legi.", "output": "Il preferas lektar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi legas libron.", "output": "Me lektas libro.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne komendis to.", "output": "Mi ne mendis ĉi tion.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu malodoras.", "output": "Vi malbonodoras.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne ĉarmas!", "output": "Me ne esas miniona!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi ankoraŭ manĝas.", "output": "Tu ankore manjas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quon vu deziras?", "output": "Kion vi deziras?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu havas hipo.", "output": "Vi singultas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li faras tion.", "output": "Il facas to.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Probez movar!", "output": "Provu moviĝi!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Bonan matenon, Mike.", "output": "Bona matino, Mike.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Esis tre obskura.", "output": "Estis tre mallume.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ŝatas tion.", "output": "Me prizas ito.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kie estas Bostono?", "output": "Ube esas Boston?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Frenezulo!", "output": "Lunatiko!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom certe venos.", "output": "Tomo certe venos.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La birdoj demetas ovojn.", "output": "L'uceli ovifas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me nur jus komencis.", "output": "Mi ĵus komencis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Merdo.", "output": "Fekaĵo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne bedaŭras tion.", "output": "Me ne regretas to.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El sequas li.", "output": "Ŝi sekvas ilin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il esas ebriacha.", "output": "Li estas ebriega.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Oni malamas min.", "output": "Me odiesas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Yen mea nova libro.", "output": "Jen mia nova libro.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas maĉisto.", "output": "Tom esas shovinisto.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi parolas kun ni.", "output": "El parolas kun ni.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka tu fartigas?", "output": "Ĉu vi estas lacaj?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Mea nomo es Ivan.", "output": "Mia nomo estas Ivano.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom esas kurioza.", "output": "Tomo estas scivolema.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili estas gejaj.", "output": "Li es homeosexuali.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Manjez!", "output": "Manĝu!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiel bela ĉielarko!", "output": "Quala bela cielarko!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tenu vin firme.", "output": "Tenez vu ferme.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiu estis kun vi?", "output": "Qua esis kun tu?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Lektez libro!", "output": "Legu libron!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Parolu pli laŭte.", "output": "Parolez plu laute!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El odiis koito.", "output": "Ŝi malamis seksumon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quo esas joko?", "output": "Kio estas ŝerco?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne lacas.", "output": "Me ne esas fatigita.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom ludas citaro.", "output": "Tomo citras.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili ĉiuj scias tion.", "output": "Li omna savas co.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Maria uzas la viri.", "output": "Maria uzas virojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To esas komploto.", "output": "Tio estas komploto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estas via libro.", "output": "To esas tua libro.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ŝatas kudradon.", "output": "Me prizas sutar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni konservemas.", "output": "Ni esas konservema.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝis la revido!", "output": "Chao!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ekirez.", "output": "Iru eksteren.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni ne savas.", "output": "Ni ne scias.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estas bonega ideo.", "output": "Esas bonega ideo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "L'uceli es reda.", "output": "La birdoj estas ruĝaj.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To esas moskeo.", "output": "Tio ĉi estas moskeo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Esez yusta.", "output": "Agu juste.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne kredas vu.", "output": "Mi ne kredas vin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amas papilioni.", "output": "Mi ŝategas papiliojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Nulu prizas me.", "output": "Neniu ŝatas min.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ili esas kristani.", "output": "Ili estas kristanoj.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo havas amikinojn.", "output": "Tom havas amikuli.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu ne darfas mortigar!", "output": "Ne mortigu!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li estas kamboĝano.", "output": "Il es Kambodjano.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me nomesas Ivan.", "output": "Mia nomo estas Ivano.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni bezonas reĝon.", "output": "Ni bezonas rejo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Nenio gravas.", "output": "Nulo importas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi estas kalvaj?", "output": "Ka vu es kalva?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Pomo estas frukto.", "output": "Pomo esas frukto.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Yanni batis Skura.", "output": "Janio batis Skuran.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi ronkis.", "output": "El ronkis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Jes, certe.", "output": "Yes, certe.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quon tu respondis?", "output": "Kion vi respondis?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me nomesas Ivan.", "output": "Mi nomiĝas Ivan.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi traktis tion.", "output": "Me traktis ol.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne esas bebeo.", "output": "Mi ne estas suĉinfano.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Serĉu la veron.", "output": "Serchez lo vera.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi ĵus foriris.", "output": "El jus ekiris.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi malamas ĉion.", "output": "Vu odias omno.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La giganto vekis!", "output": "La giganto vekiĝis!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ili vidas olu.", "output": "Ili vidas ĝin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiom jaraĝa vi estas?", "output": "Quante vu evas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Liberigez Kornwal!", "output": "Liberigu Kornvalon!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiuj vi estas?", "output": "Qua esas vu?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mia nomo estas Sara.", "output": "Me nomesas Sara.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Askoltez atencoze.", "output": "Streĉu la orelojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Co esas urso.", "output": "Ĉi tio estas urso.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quon vu regardas?", "output": "Kion vi rigardas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estas pipo.", "output": "To esas pipo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tom mensogas.", "output": "Tom mentias.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Parolez!", "output": "Parolu.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝis la!", "output": "Til rivido!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "On abominas me.", "output": "Oni malamas min.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Sal!", "output": "Hola!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio ĉi estas libro.", "output": "Ico esas libro.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo fastis.", "output": "Tom fastis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Adio!", "output": "Adiaŭ!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Putaninfiliacho!", "output": "Vi filo de putino!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni vehas a Toronto.", "output": "Ni iros al Toronto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ne surtretu min.", "output": "Ne fulez me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu tio estas araneo?", "output": "Ka to esas araneo?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi komencis krii.", "output": "El krieskis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi sentas soifon?", "output": "Ka vu durstas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ŝatus promeni.", "output": "Me prizus promenar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Futuesez!", "output": "Fikiĝu!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne komprenas.", "output": "Me ne komprenas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Dankon!", "output": "Danko!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi pravas.", "output": "Tu esas justa.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il es kun vi.", "output": "Li estas kun vi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Lakto esas desagreabla.", "output": "Lakto estas aĉa.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas malsana.", "output": "Tom es malada.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu esas tro tarda.", "output": "Vi tro malfruas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Fidez a tu ipsa.", "output": "Fidu al vi mem!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me vidas la bordo.", "output": "Mi vidas la randon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ica biro esas bona.", "output": "Tiu biero bongustas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li estas kun li.", "output": "Il esas kun ilu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi jam voĉdonis?", "output": "Ka tu ja votis?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Parolez Esperanto!", "output": "Parolu Esperante.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka to esas stato?", "output": "Ĉu ĝi estas ŝtato?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni esas studenti.", "output": "Ni estas lernantoj.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El havas hundo.", "output": "Ŝi havas hundon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu bone boxas.", "output": "Vi estas bona boksisto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li sekvas ilin.", "output": "Il sequas oli.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La cielo es blua.", "output": "La ĉielo estas blua.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas ateisto.", "output": "Mi estas ateisto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni ĉiuj mortos.", "output": "Ni omna mortos.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "De ube tu venas?", "output": "De kie vi estas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me timas dentisti.", "output": "Mi timas dentistojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "En es prepoziciono.", "output": "En estas prepozicio.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li krucosignis.", "output": "Il facis la krucosigno.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La milito venos.", "output": "La milito venos.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi havas la ŝlosilon.", "output": "Me havas la klefo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo furzis.", "output": "Tom flatuis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Saluton, mondo!", "output": "Saluto, mondo!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Dankon.", "output": "Me dankas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi estas virbovo.", "output": "Ol es tauro.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka il ne hungras?", "output": "Ĉu li ne malsatas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Nek me, nek vu savas.", "output": "Neniu el ni scias.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi volas oranĝon?", "output": "Ka vu volas oranjo?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La yunini ploris.", "output": "La knabinoj ploris.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estas urso.", "output": "To esas urso.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Islamo esas bela.", "output": "Islamo estas bela.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vu es vekanta?", "output": "Ĉu vi maldormas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me volas stacar.", "output": "Mi volas stari.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Elu sempre fumas.", "output": "Ŝi estas ĉiam fumanta.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Sendube il eroris.", "output": "Sendube li eraris.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Demandu.", "output": "Questionez.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi rekomendis Tomon.", "output": "Me rekomendis Tom.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili estas pigraj.", "output": "Li esas ociema.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vu komencas.", "output": "Vi komencas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To esas libro.", "output": "Tio estas libro.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kaj kiel vi?", "output": "E vu?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kio estas amo?", "output": "Quo es amoro?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu vi lacas?", "output": "Ka tu fartigas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La amaso hurais.", "output": "La turbo aklamis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li havas inkubojn.", "output": "Ilu havas inkubi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me povas vehar.", "output": "Mi scipovas ŝofori.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vartez hike.", "output": "Atendu ĉi tie.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La vinko esos nia.", "output": "La venko estos nia.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Frapu forte.", "output": "Frapez forte.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La rado turniĝas.", "output": "La roto turnas su.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝis revido!", "output": "Chao!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Bateli povas sinkar.", "output": "Boatoj povas sinki.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tiu estas mia kuzo.", "output": "Il es mea kuzulo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne povas manĝi.", "output": "Me ne povas manjar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me duris lektar.", "output": "Mi daŭrigis la legadon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Janio venkis Skuran.", "output": "Yanni batis Skura.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Neniu estas kontenta.", "output": "Nulu es kontenta.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esis kun vi.", "output": "Mi estis kun vi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il prizas futbalar.", "output": "Li ŝatas piedpilki.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas Tom.", "output": "Mi estas Tom.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi frue tagmanĝis.", "output": "Elu frue dejunis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Fidu min!", "output": "Fidez a me!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La suno brilas.", "output": "La suno brilas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il batis el.", "output": "Li batis ŝin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom mortas.", "output": "Tomo estas mortanta.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quo esas pandemio?", "output": "Kio estas pandemio?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estas geja.", "output": "Me es geyala.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi volas vojaĝi.", "output": "Me volas voyajar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo ekkuregis.", "output": "Tom kureskis rapide.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il esas ebriega.", "output": "Li estas fiebria.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi povas atendi.", "output": "Me povas vartar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Li mortigos tu!", "output": "Oni mortigos vin!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Frenezulino!", "output": "Demento!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Jen la atendejo.", "output": "Hike esas la varteyo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Bonan matenon!", "output": "Bona matino.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ta ne esas vorto.", "output": "Tio ne estas vorto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Lo ne esas posibla.", "output": "Tio estas neebla.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne povas ganar.", "output": "Mi ne povas gajni.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas Hungariana.", "output": "Mi estas hungaro.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tom estis perdita.", "output": "Tom esis perdita.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Dio estas malbona.", "output": "Deo esas mala.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vu parolas Ido?", "output": "Ĉu vi parolas Idon?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni havas nur teo.", "output": "Ni havas nur teon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "L'amoro chanjas omno.", "output": "Amo ŝanĝas ĉion.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni iros al Marso.", "output": "Ni irez a Marso.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Aquon me pregas.", "output": "Akvon, mi petas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Jes, mi aŭskultis.", "output": "Yes, me askoltis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Sendube el eroris.", "output": "Sendube ŝi eraris.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Kad ulu vidis to?", "output": "Ĉu iu vidis tion?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu ekzistas Dio?", "output": "Ka Deo existas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ŝatas vin.", "output": "Me prizas tu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Arestu lin.", "output": "Arestez il.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Pauzo!", "output": "Paŭzon!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Li mortigos vi!", "output": "Ili mortigos vin!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li devas foriri.", "output": "Il devas irar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Samio mensogis.", "output": "Sami mentiis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me durigis.", "output": "Mi daŭrigis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quante tu evas?", "output": "Kiom vi aĝas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me vidis Tom.", "output": "Mi vidis Tomon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Mulieri esas bela.", "output": "Virinoj estas belaj.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me amas fungi.", "output": "Mi ŝategas fungojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi nomiĝas Ludoviko.", "output": "Me nomesas Ludwig.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Parolu pli laŭte!", "output": "Parolez plu laute!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il savas ta libro.", "output": "Li scias tiun libron.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kia bela elvido!", "output": "Quala bela vidajo!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il vidis alko.", "output": "Li vidis alkon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Kande vu arivis?", "output": "Kiam vi alvenis?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo fekis.", "output": "Tom fekifis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom ne facas kafeo.", "output": "Tomo ne faras kafon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ilu regardas a ni.", "output": "Li rigardas nin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Trump esas stupida.", "output": "Trump estas stulta.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Min trafis malvarmumo.", "output": "Me kaptis gripo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi estas arĥaika.", "output": "Ol esas arkaika.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Neĝas.", "output": "Nivas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Evidente!", "output": "Evidente!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Bonege!", "output": "Bona laboro!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi odoraĉas.", "output": "Vu malodoras.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ilu drinkas.", "output": "Li drinkas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Manĝu fekon!", "output": "Manjez merdo!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il es perfekta.", "output": "Li estas perfekta.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vu esas che Tom?", "output": "Ĉu vi estas ĉe Tomo?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu mi stinkaĉas?", "output": "Ka me malodoras?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li estas dikkaca.", "output": "Ilua picho es dika.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vu es nepolita.", "output": "Vi estas malĝentila.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Lasu Bob kuiri.", "output": "Bob povas koquar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Betty mortigis lin.", "output": "Betty mortigis il.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĉu Dio estas io?", "output": "Ka Deo existas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Laŭdu Satanon!", "output": "Laudez Satano!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me vidis nulu.", "output": "Mi vidis neniun.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni iras a Toronto.", "output": "Ni iras al Toronto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me odias fragi.", "output": "Mi malamas fragojn.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To esas ne-afabla.", "output": "Tio estas malafabla.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Neregebliĝu.", "output": "Divenez neguvernebla.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Yen olu.", "output": "Jen.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ne batu min!", "output": "Ne batez me!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me deziras kafeo.", "output": "Mi volas kafon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas sorĉisto.", "output": "Tom es magiisto.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me kaptis gripo.", "output": "Min trafis malvarmumo.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kial vi venas?", "output": "Pro quo tu venas?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo amas hundojn.", "output": "Tom amas hundi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi serĉas feliĉon.", "output": "Me serchas feliceso.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mia kato malsanas.", "output": "Mea kato esas malada.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vi halucinas.", "output": "Vi halucinas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La lago es granda.", "output": "La lago estas granda.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Parolez plu laute.", "output": "Parolu pli laŭte.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi malfacilas.", "output": "Ico esas desfacila.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni loĝas en Rusio.", "output": "Ni lojas en Rusia.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas budhisto.", "output": "Tom esas budisto.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni ĉasas demonojn.", "output": "Ni chasas demoni.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Restu du minutojn!", "output": "Restez du minuti!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La vivo es bona!", "output": "La vivo estas bona!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kakaĵo.", "output": "Merdo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas tre durstoza.", "output": "Mi soifegas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Evidente!", "output": "Kompreneble.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Kenji tenisas.", "output": "Kenji ludas tenison.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tu gasifis.", "output": "Vi furzis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Batu Tomon.", "output": "Frapez Tom.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me vekigas il.", "output": "Mi vekas lin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni bezonas regulojn.", "output": "Ni bezonas reguli!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kioma horo?", "output": "Qua kloko es?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo estas naivulo.", "output": "Tom esas naivego.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka tu volas vivar?", "output": "Ĉu vi volas vivi?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi ŝatas pomojn.", "output": "Vu prizas pomi.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quo esas tua utileso?", "output": "Al kio vi utilas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi serĉas neniun.", "output": "Me serchas nulu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "To esas libro.", "output": "Ĉi tio estas libro.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me es normala.", "output": "Mi estas norma.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio fojfoje okazas.", "output": "To eventas kelkfoye.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Kurvigez ol.", "output": "Kurbigu ĝin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Voluntez enirar.", "output": "Eniru, mi petas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Levu viajn ŝultrojn.", "output": "Levez la shultri.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ni ludas ludo.", "output": "Ni ludas ludon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi feliĉas!", "output": "Me esas felica.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi ne veras.", "output": "Ol ne es reala.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vu halucinas.", "output": "Vi halucinas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi estis seksperfortita.", "output": "Me violacesis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi malamas reptiliojn.", "output": "Me odias repteri.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne ŝatas tiun ĉi.", "output": "Me ne prizas ito.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ni ankoraŭ ne scias.", "output": "Ni ankore ne savas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka to esas Ido?", "output": "Ĉu tio estas Ido?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom esas sedentaria.", "output": "Tomo estas sidema.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ŝi superis lin.", "output": "El vinkis il.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom volas kantar.", "output": "Tomo volas kanti.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Jes.", "output": "Yes.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me volas savar.", "output": "Mi volas scii.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili kuŝigis sin.", "output": "Li kushis su.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka vu es kalva?", "output": "Ĉu vi estas senhara?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Donu la pasvorton.", "output": "Donez la pasvorto.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi funkcias.", "output": "To funcionas.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Akvo estas likva.", "output": "Aquo es liquida.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi luktis.", "output": "Me luktis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ne kapablas naĝi.", "output": "Me ne povas natar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il lernas rapide.", "output": "Li lernas rapide.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili mensogis al ni.", "output": "Eli mentiis a ni.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me trovis el.", "output": "Mi trafis ŝin.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li havas du katojn.", "output": "Il havas du kati.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Mennad esas bela.", "output": "Menado estas bela.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi duŝas min.", "output": "Me lavas me.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Il vagas.", "output": "Li vagas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Kun granda plezuro!", "output": "Tre plezure!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas miroboto.", "output": "Mi estas duonroboto.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Quon tu koquas?", "output": "Kion vi kuirantas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ili kreskis.", "output": "Li kreskis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tom estas homo.", "output": "Tom esas homo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li mortis.", "output": "Il mortis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Li konsideros tion.", "output": "Lu konsideros ica.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi ĝojas vidi vin.", "output": "Me joyas vidar tu.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Kiu akuzas vin?", "output": "Qua akuzas tu?", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne povas vidar.", "output": "Mi ne povas vidi.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Eku!", "output": "Ni irez!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi bezonis paŭzon.", "output": "Me bezonis pauzo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Lu ploris.", "output": "Ri ploris.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi foriru.", "output": "Tu mustas irar.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Vi havas problemon.", "output": "Vi havas problemo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "El esas mala kantero.", "output": "Ŝi kantas malbone.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me lektis la libro.", "output": "Mi legis la libron.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Vinkez le Giants!", "output": "Venku la \"Ĝajenc\"-on!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Fek al ĉio!", "output": "Futuesez omno.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas katulo.", "output": "Mi estas kato.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ho Dio mia!", "output": "Ho, Deo mea!", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Mi amas ĉevalojn.", "output": "Me amas kavali.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Qua kloko es?", "output": "La kioma horo estas nun?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Fantastika!", "output": "Malaĉe!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Co tre importas.", "output": "Tio gravegas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tom estas teroristo.", "output": "Tom es teroristo.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me ne esas famoza.", "output": "Mi ne estas fama.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me esas volfo.", "output": "Mi estas lupino.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Tom kontributis.", "output": "Tomo kontribuis.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "La suno brilis.", "output": "La suno brilis.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Me kompros vino.", "output": "Mi aĉetos vinon.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "La kato esas granda.", "output": "La kato grandas.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tomo kuŝas.", "output": "Tom mentias.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ho Deo!", "output": "Ho Dio!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Tio estas via libro.", "output": "To esas vua libro.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Staceskez!", "output": "Stariĝu!", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Ka me kalveskas?", "output": "Ĉu mi kalviĝas?", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Ido to Esperanto:", "input": "Esas tre obskura.", "output": "Estas tre mallume.", "src_lang": "ido", "tgt_lang": "epo", "provenance": "tatoeba", "weight": 3}
+{"instruction": "Translate Esperanto to Ido:", "input": "Ĝi estas blato.", "output": "Ol es blato.", "src_lang": "epo", "tgt_lang": "ido", "provenance": "tatoeba", "weight": 3}
