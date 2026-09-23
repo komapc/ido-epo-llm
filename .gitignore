@@ -1,0 +1,10 @@
+# Regeneratable — rebuild with data/*.py (see README run order)
+data/cache/
+data/out/
+**/__pycache__/
+*.pyc
+# Training artifacts
+train/outputs/
+*.zip
+ido-epo-lora/
+ido-epo-merged/
