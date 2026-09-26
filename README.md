@@ -3,8 +3,8 @@
 Ido↔Esperanto parallel data for fine-tuning a neural translation engine
 plus the pipeline that builds it (clone into the apertium-dev workspace as `llm/`).
 
-- `data/train.jsonl` — 33,742 instruction pairs (Tatoeba real ×3 weight + Apertium synthetic)
-- `data/val.jsonl`   — 1,000 real held-out pairs
+- `data/train.jsonl` — 34,813 instruction pairs (Tatoeba real ×3 weight + Apertium synthetic)
+- `data/val.jsonl`   — 1,002 real held-out pairs
 - `data/test.jsonl`  — 1,000 real held-out pairs (eval split)
 
 Real pairs derive from [Tatoeba](https://tatoeba.org) (CC-BY 2.0 FR — attribution
@@ -83,7 +83,7 @@ This repo is cloned into the apertium-dev workspace as `llm/` (the scripts
 resolve `apertium-ido-epo` etc. via `parents[1]`). The notebook `git clone`s
 this repo and reads `data/{train,val,test}.jsonl`. To refresh:
 ```bash
-cp data/out/{train,val,test}.jsonl data/ && git commit -am "dataset: refresh" && git push
+cp data/out/{train,val,test}.jsonl data/ && python3 data/check_split.py && git commit -am "dataset: refresh" && git push
 ```
 Then open `finetune_colab.ipynb` on Colab (T4), run all cells → `preds.jsonl`.
 
@@ -91,3 +91,10 @@ Then open `finetune_colab.ipynb` on Colab (T4), run all cells → `preds.jsonl`.
 ```bash
 python3 eval/eval_chrf.py --apertium --pred preds.jsonl   # LLM vs Apertium baseline
 ```
+The scorer refuses preds whose `input`s don't line up row-by-row with
+`data/test.jsonl`, so predictions made on another split can't be scored by accident.
+
+`python3 data/check_split.py` (also run in CI) fails if the published
+`data/{train,val,test}.jsonl` share any sentence text. Before 2026-09-26 the
+committed split predated the union-find fix and ~90% of val/test texts were in
+train, so any model trained on it has inflated scores.

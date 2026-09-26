@@ -35,7 +35,8 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parents[1]
-TEST = REPO / "llm" / "data" / "out" / "test.jsonl"
+# The published split the notebook predicts on (data/out/ is the local build).
+TEST = REPO / "llm" / "data" / "test.jsonl"
 PAIR_DIR = REPO / "apertium-ido-epo"
 MODE = {("ido", "epo"): "ido-epo", ("epo", "ido"): "epo-ido"}
 FAIL = ("*", "#", "@")
@@ -109,7 +110,9 @@ def bleu(hyps, refs, n=4) -> float:
             hg = Counter(tuple(ht[i:i + k + 1]) for i in range(len(ht) - k))
             rg = Counter(tuple(rt[i:i + k + 1]) for i in range(len(rt) - k))
             p_num[k] += sum((hg & rg).values())
-            p_den[k] += max(sum(hg.values()), 1)
+            # No max(…, 1): a sentence shorter than k+1 tokens has no k-grams,
+            # and counting a phantom one capped identical output below 100.
+            p_den[k] += sum(hg.values())
     if min(p_num) == 0:
         return 0.0
     logp = sum(math.log(p_num[k] / p_den[k]) for k in range(n)) / n
@@ -167,8 +170,18 @@ def main() -> None:
               f"{sum(fail_mask)}/{len(rows)} ({100*sum(fail_mask)/len(rows):.1f}%) inputs")
 
     if args.pred:
-        preds = [json.loads(l)["output"] for l in args.pred.read_text(encoding="utf-8").splitlines() if l.strip()]
-        assert len(preds) == len(rows), f"{len(preds)} preds vs {len(rows)} test rows"
+        pred_rows = [json.loads(l) for l in args.pred.read_text(encoding="utf-8").splitlines() if l.strip()]
+        if len(pred_rows) != len(rows):
+            raise SystemExit(f"{len(pred_rows)} preds vs {len(rows)} test rows")
+        # Same row count is not enough: two different 1000-row test files
+        # pass that check. Preds carry their input; require it to line up.
+        if not all("input" in p for p in pred_rows):
+            raise SystemExit("preds lack 'input'; regenerate them with the current notebook")
+        off = [i for i, (p, r) in enumerate(zip(pred_rows, rows)) if p["input"] != r["input"]]
+        if off:
+            raise SystemExit(f"{len(off)}/{len(rows)} preds don't match {args.test} by input "
+                             f"(first at row {off[0]}) — scored against a different test set?")
+        preds = [p["output"] for p in pred_rows]
         print("LLM:")
         report("overall", preds, refs)
         if apertium_hyps is not None:
