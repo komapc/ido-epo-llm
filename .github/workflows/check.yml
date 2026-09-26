@@ -1,0 +1,14 @@
+name: check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  split:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: No sentence text shared across train/val/test
+        run: python3 data/check_split.py
