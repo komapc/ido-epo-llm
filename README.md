@@ -2,6 +2,7 @@
 
 Ido↔Esperanto parallel data for fine-tuning a neural translation engine
 plus the pipeline that builds it (clone into the apertium-dev workspace as `llm/`).
+The current Apertium-based translator is live at [tradukilo.lipu.dev](https://tradukilo.lipu.dev/).
 
 - `data/train.jsonl` — 34,813 instruction pairs (Tatoeba real ×3 weight + Apertium synthetic)
 - `data/val.jsonl`   — 1,002 real held-out pairs
