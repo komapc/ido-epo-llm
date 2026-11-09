@@ -91,9 +91,9 @@ dropped. The Kaggle predictions are in `eval/preds/`. To re-score:
 
 ## Serving (deferred)
 
-The NLLB model is published (see above) but not served yet. To serve it, add an `engine` field to the worker's `/api/translate`
-handler and fan out to whatever backend hosts the adapter (serverless GPU vs.
-hosted API decided then). The frontend already has room for a side-by-side
+The NLLB model is published (see above) but not served yet. To serve it, add an
+`engine` field to the worker's `/api/translate` handler and fan out to whatever
+backend hosts the model. 600M params run on CPU; the backend is decided then. The frontend already has room for a side-by-side
 compare UI to gather preference data for a later DPO pass.
 
 ## Run order
