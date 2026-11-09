@@ -1,0 +1,1000 @@
+{"input": "Ni esas plu forta.", "output": "Ni estas pli forta."}
+{"input": "Ni estas pli fortaj.", "output": "Ni esas plu forta."}
+{"input": "Tu violacis el!", "output": "Vi violacis ĝin!"}
+{"input": "Vi seksatencis ŝin!", "output": "Tu seksas el!"}
+{"input": "Tu violacis el!", "output": "Vi violacis ĝin!"}
+{"input": "Vi stupris ŝin!", "output": "Tu stupris el!"}
+{"input": "Vi violacis el!", "output": "Vi violacis ŝin!"}
+{"input": "Vi seksatencis ŝin!", "output": "Tu seksas el!"}
+{"input": "Vi violacis el!", "output": "Vi violacis ŝin!"}
+{"input": "Vi stupris ŝin!", "output": "Tu stupris el!"}
+{"input": "Homi mentias.", "output": "Homoj mentiĝas."}
+{"input": "Homoj mensogas.", "output": "Homi mentias."}
+{"input": "Lakto esas desagreabla.", "output": "Lakto estas malfacila."}
+{"input": "Lakto estas aĉa.", "output": "Lakto esas cara."}
+{"input": "Lakto esas desagreabla.", "output": "Lakto estas malfacila."}
+{"input": "Lakto estas naŭza.", "output": "Lakto esas nausa."}
+{"input": "Forsan Tom departis.", "output": "Forsa Tomo foriris."}
+{"input": "Eble Tomo foriris.", "output": "Probable Tom foriris."}
+{"input": "Esis nokto.", "output": "Estis nokto."}
+{"input": "Estis la nokto.", "output": "Esas la nokto."}
+{"input": "Esis nokto.", "output": "Estis nokto."}
+{"input": "Estis nokte.", "output": "Esas nokte."}
+{"input": "Esis nokto.", "output": "Estis nokto."}
+{"input": "Estis nokto.", "output": "Esas nokto."}
+{"input": "Esis nokto.", "output": "Estis nokto."}
+{"input": "Noktis.", "output": "Noktesis."}
+{"input": "Esis nokto.", "output": "Estis nokto."}
+{"input": "Noktiĝis.", "output": "Noktesis."}
+{"input": "Deo existas.", "output": "Deo ekzistas."}
+{"input": "Dio ekzistas.", "output": "Deo existas."}
+{"input": "To esas sensencajo.", "output": "Tio estas sencenco."}
+{"input": "Ĝi estas sensencaĵo.", "output": "Ol esas sensenca."}
+{"input": "Li vidis kuniklo.", "output": "Ili vidis kuniklon."}
+{"input": "Ili vidis kuniklon.", "output": "Li vidis kuniko."}
+{"input": "Ni vidos.", "output": "Ni vidas."}
+{"input": "Ni vidos.", "output": "Ni vidas."}
+{"input": "Ni lernas skribar.", "output": "Ni lernas skribi."}
+{"input": "Ni lernas skribi.", "output": "Ni lernas skribar."}
+{"input": "Me mustas vidar ol.", "output": "Mi devas vidi ĝin."}
+{"input": "Mi devas vidi ĝin.", "output": "Me devas vider ol."}
+{"input": "Me mustas vidar ol.", "output": "Mi devas vidi ĝin."}
+{"input": "Mi vidu lin.", "output": "Me vidis il."}
+{"input": "Me mustas vidar to.", "output": "Mi devas vidi tion."}
+{"input": "Mi devas vidi ĝin.", "output": "Me devas vider ol."}
+{"input": "Me mustas vidar to.", "output": "Mi devas vidi tion."}
+{"input": "Tion mi vidu!", "output": "To me esas!"}
+{"input": "Me ne invitis tu.", "output": "Mi ne invitis vin."}
+{"input": "Mi ne invitis vin.", "output": "Me ne invitis tu."}
+{"input": "Me ne invitis vu.", "output": "Mi ne invitis vin."}
+{"input": "Mi ne invitis vin.", "output": "Me ne invitis tu."}
+{"input": "Ca artiklo putris.", "output": "Tiu artikolo putris."}
+{"input": "Tiu ĉi varo putris.", "output": "Ca varo putris."}
+{"input": "El lavas sua jupo.", "output": "Ŝi lavas sian ŝuon."}
+{"input": "Ŝi lavas sian jupon.", "output": "El lavas sua jupon."}
+{"input": "Tom komencis lektar.", "output": "Tomo komencis legi."}
+{"input": "Tomo komencis legi.", "output": "Tom komencis lektar."}
+{"input": "Li esis ociera.", "output": "Ili estis malŝatega."}
+{"input": "Ili estis pigraj.", "output": "Li esis pigra."}
+{"input": "Quo esas vorto?", "output": "Kio estas vorto?"}
+{"input": "Kio estas vorto?", "output": "Quo esas vorto?"}
+{"input": "La vetero es sunoza.", "output": "La vetero estas suna."}
+{"input": "Estas suna vetero.", "output": "Esas suna vetero."}
+{"input": "La vetero es sunoza.", "output": "La vetero estas suna."}
+{"input": "Suna estas la vetero.", "output": "Suna esas la vetero."}
+{"input": "Ito esas harpo.", "output": "Tio estas harpo."}
+{"input": "Jen harpo.", "output": "Jen harpo."}
+{"input": "Ito esas harpo.", "output": "Tio estas harpo."}
+{"input": "Ĝi estas harpo.", "output": "Ol esas harpo."}
+{"input": "El pavoras la maro.", "output": "Ŝi timas la maron."}
+{"input": "Ŝi timas la maron.", "output": "Elu timas la maro."}
+{"input": "Il vagas.", "output": "Li vagas."}
+{"input": "Li vagas.", "output": "Il vagas."}
+{"input": "Nulu facas ulo.", "output": "Neniu fias ulu."}
+{"input": "Neniu faras ion.", "output": "Nulu facas nulo."}
+{"input": "Ne mentiez.", "output": "Ne mentiu."}
+{"input": "Ne mensogu.", "output": "Ne mentez."}
+{"input": "Ol esas blua.", "output": "Tio estas blua."}
+{"input": "Ĝi estas blua.", "output": "Ol esas blua."}
+{"input": "Kati es animali.", "output": "Katoj estas bestoj."}
+{"input": "Katoj estas bestoj.", "output": "Kati esas bestii."}
+{"input": "Donez exemplo a me.", "output": "Donu al mi ekzemplon."}
+{"input": "Donu al mi ekzemplon.", "output": "Donac a me ekzemplo."}
+{"input": "Donez exemplo a me.", "output": "Donu al mi ekzemplon."}
+{"input": "Indiku al mi ekzemplon.", "output": "Indikez a me ekzemplo."}
+{"input": "Tom volas dansar.", "output": "Tomo volas danĝi."}
+{"input": "Tom volas danci.", "output": "Tom volas danzar."}
+{"input": "Tu heredos nulo.", "output": "Vi heredos nenion."}
+{"input": "Vi heredos nenion.", "output": "Tu heredos nulo."}
+{"input": "Deo es mortinta.", "output": "Dio estas mortinta."}
+{"input": "Dio estas mortinta.", "output": "Deo esas mortinta."}
+{"input": "Alice ridetis.", "output": "Alice ridetis."}
+{"input": "Alice ridetis.", "output": "Alice ridis."}
+{"input": "Tom havas astmo.", "output": "Tomo havas astmon."}
+{"input": "Tom havas astmon.", "output": "Tom havas astmo."}
+{"input": "Me dormas stacante.", "output": "Mi dormas stacante."}
+{"input": "Mi dormas stare.", "output": "Me dormas stante."}
+{"input": "El esas kelke bela.", "output": "Ŝi estas iom bela."}
+{"input": "Ŝi estas iom bela.", "output": "El esas iom bela."}
+{"input": "Tu esas optimisto.", "output": "Vi estas optimisto."}
+{"input": "Vi estas optimisto.", "output": "Tu esas optimisto."}
+{"input": "Vu esas optimisto.", "output": "Vi estas optimisto."}
+{"input": "Vi estas optimisto.", "output": "Tu esas optimisto."}
+{"input": "Tu esas tro tarda.", "output": "Vi estas tro malfrue."}
+{"input": "Vi estas malfruaj.", "output": "Tu esas tro vekita."}
+{"input": "Tu esas tro tarda.", "output": "Vi estas tro malfrue."}
+{"input": "Vi malfruas.", "output": "Tu malfrusas."}
+{"input": "Tu esas tro tarda.", "output": "Vi estas tro malfrue."}
+{"input": "Vi tro malfruas.", "output": "Tu tro malfrueas."}
+{"input": "Me amas l'oranji!", "output": "Mi amas la oranĝojn!"}
+{"input": "Mi ŝategas oranĝojn!", "output": "Me prizas oranji!"}
+{"input": "Mary es autismoza.", "output": "Mari estas autismo."}
+{"input": "Manjo estas aŭtisma.", "output": "Manko esas autistika."}
+{"input": "Kato skribis co.", "output": "Kato skribis tion."}
+{"input": "Kato skribis tion.", "output": "Kato skribis to."}
+{"input": "Kato skribis co.", "output": "Kato skribis tion."}
+{"input": "Tion skribis kato.", "output": "To skribis kato."}
+{"input": "Ol es streta.", "output": "Tio estas streta."}
+{"input": "Ĝi estas mallarĝa.", "output": "Ol esas mallarja."}
+{"input": "Kande?", "output": "Kiam?"}
+{"input": "Kiam?", "output": "Quande?"}
+{"input": "Elu vendas shui.", "output": "Ŝi vendas ŝuojn."}
+{"input": "Ŝi vendas ŝuojn.", "output": "El vendas shui."}
+{"input": "Dolca sonji!", "output": "Dolĉaj sonĝoj!"}
+{"input": "Bonajn sonĝojn!", "output": "Bona sonji!"}
+{"input": "Dolca sonji!", "output": "Dolĉaj sonĝoj!"}
+{"input": "Dolĉajn sonĝojn!", "output": "Dolca sonjo!"}
+{"input": "Dolca sonji!", "output": "Dolĉaj sonĝoj!"}
+{"input": "Feliĉajn sonĝojn!", "output": "Feliĉa sonĝo!"}
+{"input": "Dolca sonji!", "output": "Dolĉaj sonĝoj!"}
+{"input": "Sonĝu bele!", "output": "Sonjez bela!"}
+{"input": "Me ne demandos ad el.", "output": "Mi ne petos al ŝi."}
+{"input": "Mi ne demandos ŝin.", "output": "Me ne demandos el."}
+{"input": "Me ne pregos el.", "output": "Mi ne petos lin."}
+{"input": "Mi ne demandos ŝin.", "output": "Me ne demandos el."}
+{"input": "La yunini vinkis.", "output": "La juninoj venkis."}
+{"input": "La knabinoj venkis.", "output": "La yunini vinkis."}
+{"input": "Cesez fingar.", "output": "Ĉesu fingi."}
+{"input": "Ĉesu afekti.", "output": "Cezez afektar."}
+{"input": "Cesez fingar.", "output": "Ĉesu fingi."}
+{"input": "Ĉesu ŝajnigi.", "output": "Stopez la shajnigo."}
+{"input": "Me ne povas venar.", "output": "Mi ne povas veni."}
+{"input": "Mi ne kapablas veni.", "output": "Me ne povas venar."}
+{"input": "Me ne povas venar.", "output": "Mi ne povas veni."}
+{"input": "Mi ne povas veni.", "output": "Me ne povas venar."}
+{"input": "Me amas Tatoeba.", "output": "Mi amas Tatoubeon."}
+{"input": "Mi amas Tatoeba.", "output": "Me amas Tatoueba."}
+{"input": "Me amas Tatoeba.", "output": "Mi amas Tatoubeon."}
+{"input": "Mi amas Tatoeban.", "output": "Me amas tatuebano."}
+{"input": "Me amas Tatoeba.", "output": "Mi amas Tatoubeon."}
+{"input": "Mi ŝatas Tatoeba-n.", "output": "Me prizas tatuebilo."}
+{"input": "Me amas Tatoeba.", "output": "Mi amas Tatoubeon."}
+{"input": "Mi ŝategas Tatoeban.", "output": "Me prizas Tatoebar."}
+{"input": "Traktez elu bone.", "output": "Traktu lin bone."}
+{"input": "Bone prizorgu ŝin!", "output": "Bone prizorgar el!"}
+{"input": "Traktez elu bone.", "output": "Traktu lin bone."}
+{"input": "Traktu ŝin bone.", "output": "Traktes el bone."}
+{"input": "Forsan il venos.", "output": "Ĉeestas, ke li venos."}
+{"input": "Eble li venos.", "output": "Probable il venos."}
+{"input": "Forsan il venos.", "output": "Ĉeestas, ke li venos."}
+{"input": "Li eble venos.", "output": "Il eble venos."}
+{"input": "Omno apartenas ad omni.", "output": "Ĉiuj apartenas al ĉiuj."}
+{"input": "Ĉio apartenas al ĉiuj.", "output": "Omno apartenas a omni."}
+{"input": "Omno apartenas ad omni.", "output": "Ĉiuj apartenas al ĉiuj."}
+{"input": "Ĉio estas ĉies.", "output": "Omno esas chieso."}
+{"input": "Tu esas richino.", "output": "Vi estas riĉa."}
+{"input": "Vi estas riĉulino.", "output": "Tu esas richulino."}
+{"input": "Ka tu ja votis?", "output": "Ĉu vi jam votis?"}
+{"input": "Ĉu vi jam balotis?", "output": "Ka vu jam votis?"}
+{"input": "Ka tu ja votis?", "output": "Ĉu vi jam votis?"}
+{"input": "Ĉu vi jam voĉdonis?", "output": "Ka vu ja votis?"}
+{"input": "Ka vu ja votis?", "output": "Ĉu vi jam votis?"}
+{"input": "Ĉu vi jam balotis?", "output": "Ka vu jam votis?"}
+{"input": "Ka vu ja votis?", "output": "Ĉu vi jam votis?"}
+{"input": "Ĉu vi jam voĉdonis?", "output": "Ka vu ja votis?"}
+{"input": "Ka to esas oro?", "output": "Ĉu tio estas oro?"}
+{"input": "Ĉu tio estas oro?", "output": "Ka to esas oro?"}
+{"input": "Ka ol es desglata?", "output": "Ĉu ĝi estas malŝata?"}
+{"input": "Ĉu tio estas malfacila?", "output": "Ka to esas difika?"}
+{"input": "Ka ol es desglata?", "output": "Ĉu ĝi estas malŝata?"}
+{"input": "Ĉu ĝi estas malglata?", "output": "Ka la gyo esas malgrata?"}
+{"input": "Il studiis Judaismo.", "output": "Li studis judaismon."}
+{"input": "Li studis judismon.", "output": "Il studias la judismo."}
+{"input": "Parolez plu laute!", "output": "Parolu plu laŭte!"}
+{"input": "Parolu pli laŭte!", "output": "Parolu plu laudo!"}
+{"input": "Parolez plu laute!", "output": "Parolu plu laŭte!"}
+{"input": "Parolu pli laŭte.", "output": "Parolu plu laue."}
+{"input": "Parolez plu laute.", "output": "Parolu plu malalta."}
+{"input": "Parolu pli laŭte!", "output": "Parolu plu laudo!"}
+{"input": "Parolez plu laute.", "output": "Parolu plu malalta."}
+{"input": "Parolu pli laŭte.", "output": "Parolu plu laue."}
+{"input": "To es malajo.", "output": "Tio estas malsano."}
+{"input": "Tio estas malbonaĵo.", "output": "To esas mala."}
+{"input": "Me parolas Germana.", "output": "Mi parolas germanan."}
+{"input": "Mi parolas germane.", "output": "Me parolas la Germana."}
+{"input": "Me parolas Germana.", "output": "Mi parolas germanan."}
+{"input": "Mi parolas la germanan lingvon.", "output": "Me parolas la Germana linguo."}
+{"input": "Me parolas Germana.", "output": "Mi parolas germanan."}
+{"input": "Mi parolas la germanan.", "output": "Me parolas la Germaniana."}
+{"input": "Tu drinkas.", "output": "Vi trinkas."}
+{"input": "Vi trinkas.", "output": "Tu drinkas."}
+{"input": "Mea hundo miaulas.", "output": "Mia hundo miaŭas."}
+{"input": "Mia hundo miaŭas.", "output": "Mea hundo miausas."}
+{"input": "Me manjis piro.", "output": "Mi manĝis piro."}
+{"input": "Mi manĝis piron.", "output": "Me manjis piron."}
+{"input": "Il habitas en Kyoto.", "output": "Li loĝas en Kioto."}
+{"input": "Li loĝas en Kioto.", "output": "Il lojas en Kioto."}
+{"input": "Me violacesis.", "output": "Mi violacasis."}
+{"input": "Mi estis seksperfortita.", "output": "Me esis seksperfortita."}
+{"input": "Ol es olda.", "output": "Tio estas maljuna."}
+{"input": "Tio estas malnova.", "output": "To esas antika."}
+{"input": "Ol es olda.", "output": "Tio estas maljuna."}
+{"input": "Tio malnovas.", "output": "To esas antika."}
+{"input": "Ol es olda.", "output": "Tio estas maljuna."}
+{"input": "Ĝi estas malnova.", "output": "Ol esas antika."}
+{"input": "Ol es olda.", "output": "Tio estas maljuna."}
+{"input": "Ĝi malnovas.", "output": "Ol esas vekanta."}
+{"input": "Quale tu standas?", "output": "Kiel vi stadas?"}
+{"input": "Kiel ci fartas?", "output": "Quale ca esas?"}
+{"input": "Quale tu standas?", "output": "Kiel vi stadas?"}
+{"input": "Kiel iras viaj aferoj?", "output": "Quale iras tua afieri?"}
+{"input": "Quale tu standas?", "output": "Kiel vi stadas?"}
+{"input": "Kiel vi fartas?", "output": "Quale tu fartas?"}
+{"input": "Quale tu standas?", "output": "Kiel vi stadas?"}
+{"input": "Kiel vi?", "output": "Quale tu?"}
+{"input": "Quale vu standas?", "output": "Kiel vi stadas?"}
+{"input": "Kiel ci fartas?", "output": "Quale ca esas?"}
+{"input": "Quale vu standas?", "output": "Kiel vi stadas?"}
+{"input": "Kiel vi fartas?", "output": "Quale tu fartas?"}
+{"input": "Quale vu standas?", "output": "Kiel vi stadas?"}
+{"input": "Kiel vi?", "output": "Quale tu?"}
+{"input": "Me laboras multe.", "output": "Mi laboras multe."}
+{"input": "Mi multe laboras.", "output": "Me laboras multe."}
+{"input": "Me serchas armo.", "output": "Mi serĉas armilon."}
+{"input": "Mi serĉas armilon.", "output": "Me serchas armilo."}
+{"input": "Me serchas armo.", "output": "Mi serĉas armilon."}
+{"input": "Mi serĉas batalilon.", "output": "Me serchas bataliono."}
+{"input": "La puero urinifas.", "output": "La puero urinifas."}
+{"input": "La infano pisas.", "output": "La infanto pisas."}
+{"input": "La puero urinifas.", "output": "La puero urinifas."}
+{"input": "La infano urinas.", "output": "La infanto urinas."}
+{"input": "Mea kato esas malada.", "output": "Mia kato estas malsana."}
+{"input": "Mia katino estas malsana.", "output": "Mea kato esas malsana."}
+{"input": "Mea kato esas malada.", "output": "Mia kato estas malsana."}
+{"input": "Mia katino malsanas.", "output": "Mea kato maladesas."}
+{"input": "Mea kato esas malada.", "output": "Mia kato estas malsana."}
+{"input": "Mia kato estas malsana.", "output": "Mea kato esas malsana."}
+{"input": "Mea kato esas malada.", "output": "Mia kato estas malsana."}
+{"input": "Mia kato malsanas.", "output": "Mea kato maladesas."}
+{"input": "Li interluktis.", "output": "Ili interluktis."}
+{"input": "Ili luktis.", "output": "Li luktis."}
+{"input": "Ube tu trovis ol?", "output": "Kie vi trovis tion?"}
+{"input": "Kie vi trovis ĝin?", "output": "Ube tu trovis ol?"}
+{"input": "Me esis kurioza.", "output": "Mi estis kurioza."}
+{"input": "Mi estis scivolema.", "output": "Me esis scivolema."}
+{"input": "Me esis kurioza.", "output": "Mi estis kurioza."}
+{"input": "Mi scivolis.", "output": "Me scivolis."}
+{"input": "Mea kato amas me.", "output": "Mia kato amas min."}
+{"input": "Mia kato amas min.", "output": "Mea kato amas me."}
+{"input": "La bulo esas ronda.", "output": "La bulo estas ronda."}
+{"input": "La pilko estas ronda.", "output": "La piko esas ronda."}
+{"input": "La dei esas falsa.", "output": "La dioj estas fajflaj."}
+{"input": "La dioj estas falsaj.", "output": "Dei esas falsi."}
+{"input": "Li ne povas agar.", "output": "Ili ne povas agi."}
+{"input": "Ili ne kapablas agi.", "output": "Li ne povas agar."}
+{"input": "Li ne povas agar.", "output": "Ili ne povas agi."}
+{"input": "Ili ne povas agi.", "output": "Li ne povas agar."}
+{"input": "Il esas fiera.", "output": "Li estas fiera."}
+{"input": "Li estas fiera.", "output": "Il esas fiera."}
+{"input": "Ni kredas il.", "output": "Ni kredas al li."}
+{"input": "Ni kredas lin.", "output": "Ni kredas il."}
+{"input": "Li esas infanti.", "output": "Ili estas infanoj."}
+{"input": "Ili estas infanoj.", "output": "Li esas infanti."}
+{"input": "Li esas pueri.", "output": "Ili estas infanoj."}
+{"input": "Ili estas infanoj.", "output": "Li esas infanti."}
+{"input": "Me esis en Paris.", "output": "Mi estis en Parizo."}
+{"input": "Mi estis en Parizo.", "output": "Me esis en Parizo."}
+{"input": "Lia kordio ruptesis.", "output": "Lia kordio rompiĝis."}
+{"input": "Lia koro rompiĝis.", "output": "Lua koro rompis."}
+{"input": "Me prizas tomati.", "output": "Mi ŝatas tomatojn."}
+{"input": "Mi ŝatas tomatojn.", "output": "Me prizas la tomati."}
+{"input": "Omni mortos.", "output": "Ĉiuj mortas."}
+{"input": "Ĉiu mortemas.", "output": "Omnu mortas."}
+{"input": "Omni mortos.", "output": "Ĉiuj mortas."}
+{"input": "Ĉiu mortos.", "output": "Omnu mortas."}
+{"input": "Omni mortos.", "output": "Ĉiuj mortas."}
+{"input": "Ĉiuj mortos.", "output": "Omni mortos."}
+{"input": "La bombo explodas.", "output": "La bombo explodas."}
+{"input": "La bombo eksplodas.", "output": "La bombo explodas."}
+{"input": "Elu ne pavoras irgo.", "output": "Ŝi ne timas iri."}
+{"input": "Ŝi ne timas ion ajn.", "output": "El ne timas nulo."}
+{"input": "Elu ne pavoras irgo.", "output": "Ŝi ne timas iri."}
+{"input": "Ŝi timas nenion.", "output": "Elu ne timas nulo."}
+{"input": "Ube tu naskis?", "output": "Kie vi naskiĝis?"}
+{"input": "Kie vi naskiĝis?", "output": "Ube tu naskis?"}
+{"input": "Ube vu naskis?", "output": "Kie vi naskiĝis?"}
+{"input": "Kie vi naskiĝis?", "output": "Ube tu naskis?"}
+{"input": "Ni devas agar!", "output": "Ni devas agi!"}
+{"input": "Endas al ni agi!", "output": "Agis a ni!"}
+{"input": "Ni devas agar!", "output": "Ni devas agi!"}
+{"input": "Ni devas agi!", "output": "Ni devas agar!"}
+{"input": "Me ne esis kun tu.", "output": "Mi ne estis kun vi."}
+{"input": "Mi ne estis kun vi.", "output": "Me ne esis kun tu."}
+{"input": "Me ne esis kun vu.", "output": "Mi ne estis kun vi."}
+{"input": "Mi ne estis kun vi.", "output": "Me ne esis kun tu."}
+{"input": "El esas mala kantero.", "output": "Ŝi estas malbona kanto."}
+{"input": "Ŝi kantas malbone.", "output": "Elu kantas mala."}
+{"input": "El male kantas.", "output": "Ŝi malplenas."}
+{"input": "Ŝi kantas malbone.", "output": "Elu kantas mala."}
+{"input": "Me nomesas Rikardo.", "output": "Mi nomiĝas Rikardo."}
+{"input": "Mi nomiĝas Rikardo.", "output": "Me nomesas Ricardo."}
+{"input": "Mea kati amas me.", "output": "Miaj katoj amas min."}
+{"input": "Miaj katoj amas min.", "output": "Mea kati amas me."}
+{"input": "Me iros sen tu.", "output": "Mi iru sen vi."}
+{"input": "Mi iros sen vi.", "output": "Me iros sen tu."}
+{"input": "La yunino skribas.", "output": "La knabino skribas."}
+{"input": "La junulino skribas.", "output": "La yunino skribas."}
+{"input": "Me ne esas fatigita.", "output": "Mi ne estas fatigita."}
+{"input": "Mi ne estas laca.", "output": "Me ne esas laca."}
+{"input": "Me ne esas fatigita.", "output": "Mi ne estas fatigita."}
+{"input": "Mi ne lacas.", "output": "Me ne lacas."}
+{"input": "Me serchas feliceso.", "output": "Mi serĉas feliĉon."}
+{"input": "Mi serĉas feliĉon.", "output": "Me serchas feliceso."}
+{"input": "Me esas felica.", "output": "Mi estas feliĉa."}
+{"input": "Mi estas feliĉa.", "output": "Me esas felica."}
+{"input": "Me esas felica.", "output": "Mi estas feliĉa."}
+{"input": "Mi estas ĝoja.", "output": "Me esas felica."}
+{"input": "Me esas felica.", "output": "Mi estas feliĉa."}
+{"input": "Mi feliĉas!", "output": "Me feliceskas!"}
+{"input": "Me esas felica.", "output": "Mi estas feliĉa."}
+{"input": "Mi feliĉas.", "output": "Me feliceskas."}
+{"input": "Me esas felica.", "output": "Mi estas feliĉa."}
+{"input": "Mi ĝojas.", "output": "Me feliceskas."}
+{"input": "Arestez il.", "output": "Stopu lin."}
+{"input": "Arestu lin.", "output": "Arrestez il."}
+{"input": "Me aceptas to.", "output": "Mi akceptas tion."}
+{"input": "Mi akceptas tion.", "output": "Me aceptas to."}
+{"input": "Deo esas omnaloke.", "output": "Dio estas ĉie."}
+{"input": "Alaho ĉieas.", "output": "Ala, omna chias."}
+{"input": "Deo esas omnaloke.", "output": "Dio estas ĉie."}
+{"input": "Dio estas ĉie.", "output": "Deo esas omni-ube."}
+{"input": "Tom inhalis.", "output": "Tomo inhalis."}
+{"input": "Tomo enspiris.", "output": "Tom spiris."}
+{"input": "Tom inhalis.", "output": "Tomo inhalis."}
+{"input": "Tomo inhalis.", "output": "Tom inhalis."}
+{"input": "Me nomesas Sally.", "output": "Mi nomiĝas Sally."}
+{"input": "Mi nomiĝas Sally.", "output": "Me nomesas Sally."}
+{"input": "Nivis en Ierusalem.", "output": "Nivis en Jeruzalemo."}
+{"input": "Neĝis en Jerusalemo.", "output": "Nivis en Jerusalem."}
+{"input": "Il es kato.", "output": "Li estas kato."}
+{"input": "Li estas kato.", "output": "Il esas kato."}
+{"input": "Il es katulo.", "output": "Li estas katulo."}
+{"input": "Li estas kato.", "output": "Il esas kato."}
+{"input": "Il preferas lektar.", "output": "Li preferas legi."}
+{"input": "Li preferas legi.", "output": "Il preferas lektar."}
+{"input": "Me ne prizas ito.", "output": "Mi ne ŝatas tion."}
+{"input": "Mi ne ŝatas tion.", "output": "Me ne prizas to."}
+{"input": "Me ne prizas ito.", "output": "Mi ne ŝatas tion."}
+{"input": "Mi ne ŝatas tiun ĉi.", "output": "Me ne prizas ca."}
+{"input": "Me ne prizas ito.", "output": "Mi ne ŝatas tion."}
+{"input": "Tio ne plaĉas al mi.", "output": "To ne plaĉas a me."}
+{"input": "Nivus ta vespere.", "output": "Nivuĝu tiel vespere."}
+{"input": "Eble neĝos hodiaŭ vespere.", "output": "Probable nejeros hodie vespero."}
+{"input": "Nivus ta vespere.", "output": "Nivuĝu tiel vespere."}
+{"input": "Eble neĝos ĉi-vespere.", "output": "Probable nejeros hike."}
+{"input": "Co esas urso.", "output": "Tio estas urso."}
+{"input": "Ĉi tio estas urso.", "output": "Ca esas urso."}
+{"input": "Ol es farino.", "output": "Tio estas faruno."}
+{"input": "Ĝi estas faruno.", "output": "Ol esas faruno."}
+{"input": "Me prenis la libro.", "output": "Mi prenis la libron."}
+{"input": "Mi prenis la libron.", "output": "Me kompris la libro."}
+{"input": "Kozi semblas bona.", "output": "Kojioj semblas bone."}
+{"input": "Aferoj aspektas bone.", "output": "Aferi aspektas bona."}
+{"input": "Iesu iritas me.", "output": "Jesu iritas min."}
+{"input": "Jesuo ĝenas min.", "output": "Yeso irgas me."}
+{"input": "Iesu vexas me.", "output": "Jesu vekis min."}
+{"input": "Jesuo ĝenas min.", "output": "Yeso irgas me."}
+{"input": "Me povas venar.", "output": "Mi povas veni."}
+{"input": "Mi povas veni.", "output": "Me povas venar."}
+{"input": "Li esas fishi.", "output": "Ili estas fiŝoj."}
+{"input": "Ili estas fiŝoj.", "output": "Li esas pesci."}
+{"input": "Ti es fishi.", "output": "Ĉi ti estas fiŝoj."}
+{"input": "Ili estas fiŝoj.", "output": "Li esas pesci."}
+{"input": "Ti es fishi.", "output": "Ĉi ti estas fiŝoj."}
+{"input": "Tiuj estas fiŝoj.", "output": "Ica esas peshi."}
+{"input": "Me konocas vu.", "output": "Mi konas vin."}
+{"input": "Mi konas vin.", "output": "Me konocas tu."}
+{"input": "Kantez, mea anmo.", "output": "Kantez, mia amo."}
+{"input": "Kantu, mia animo.", "output": "Kantez, mea animo."}
+{"input": "Il esis pala.", "output": "Li estis malbona."}
+{"input": "Li estis pala.", "output": "Il esis pala."}
+{"input": "Hastez, puero!", "output": "Hastez, puero!"}
+{"input": "Rapidu, ido!", "output": "Rapidez, ido!"}
+{"input": "Me esas fatigita nun.", "output": "Mi estas malvarma nun."}
+{"input": "Mi nun lacas.", "output": "Me nun lacas."}
+{"input": "El es de Francia.", "output": "Ŝi estas el Francio."}
+{"input": "Ŝi estas el Francujo.", "output": "Elu esas de Francia."}
+{"input": "El es de Francia.", "output": "Ŝi estas el Francio."}
+{"input": "Ŝi venas el Francio.", "output": "Elu venas de Francia."}
+{"input": "Me nun pensas altre.", "output": "Mi nun pensas alia."}
+{"input": "Mi nun pensas alie.", "output": "Me nun pensas altra."}
+{"input": "Me ne volas fumar.", "output": "Mi ne volas fumi."}
+{"input": "Mi ne volas fumi.", "output": "Me ne volas fumar."}
+{"input": "El esas mediko.", "output": "Ŝi estas kuracisto."}
+{"input": "Ŝi estas kuracistino.", "output": "El esas kuracisto."}
+{"input": "El esas mediko.", "output": "Ŝi estas kuracisto."}
+{"input": "Ŝi estas kuracisto.", "output": "El esas kuracisto."}
+{"input": "Tom esas homo.", "output": "Tomo estas homo."}
+{"input": "Tom estas homo.", "output": "Tom esas homo."}
+{"input": "Li enoyas.", "output": "Ili enojas."}
+{"input": "Ili enuas.", "output": "Li enusas."}
+{"input": "Tu igas me revar.", "output": "Vi faras min malvar."}
+{"input": "Vi igas min revi.", "output": "Tu facas me revivar."}
+{"input": "Tu es importanta.", "output": "Vi estas gravema."}
+{"input": "Vi estas grava.", "output": "Tu esas grave."}
+{"input": "Tu es importanta.", "output": "Vi estas gravema."}
+{"input": "Vi estas gravaj.", "output": "Tu esas importanta."}
+{"input": "Tu es importanta.", "output": "Vi estas gravema."}
+{"input": "Vi gravas.", "output": "Tu gravas."}
+{"input": "Tu importas.", "output": "Vi gravas."}
+{"input": "Vi estas grava.", "output": "Tu esas grave."}
+{"input": "Tu importas.", "output": "Vi gravas."}
+{"input": "Vi estas gravaj.", "output": "Tu esas importanta."}
+{"input": "Tu importas.", "output": "Vi gravas."}
+{"input": "Vi gravas.", "output": "Tu gravas."}
+{"input": "Ka co esas sango?", "output": "Ĉu tio estas sango?"}
+{"input": "Ĉu tio ĉi estas sango?", "output": "Ka to esas sango?"}
+{"input": "Ka to esas sango?", "output": "Ĉu tio estas sango?"}
+{"input": "Ĉu tio ĉi estas sango?", "output": "Ka to esas sango?"}
+{"input": "La vetero es pluvoza.", "output": "La vetero estas pluvoja."}
+{"input": "La vetero estas pluveca.", "output": "La vetero esas pluvaca."}
+{"input": "La vetero es pluvoza.", "output": "La vetero estas pluvoja."}
+{"input": "Pluvemas.", "output": "Pluvem."}
+{"input": "Ube tu volas habitar?", "output": "Kie vi volas loĝi?"}
+{"input": "Kie vi volas loĝi?", "output": "Ube vu volas lojisar?"}
+{"input": "Ube tu volas habitar?", "output": "Kie vi volas loĝi?"}
+{"input": "Kie vi ŝatus vivi?", "output": "Ube tu volas vivar?"}
+{"input": "Ube vu volas habitar?", "output": "Kie vi volas loĝi?"}
+{"input": "Kie vi volas loĝi?", "output": "Ube vu volas lojisar?"}
+{"input": "Ube vu volas habitar?", "output": "Kie vi volas loĝi?"}
+{"input": "Kie vi ŝatus vivi?", "output": "Ube tu volas vivar?"}
+{"input": "Me nomesas Shu.", "output": "Mi nomiĝas Ŝu."}
+{"input": "Mi nomiĝas Shuu.", "output": "Me nomesas Shuu."}
+{"input": "Me nomesas Shu.", "output": "Mi nomiĝas Ŝu."}
+{"input": "Mia nomo estas Shu.", "output": "Mea nomo esas Shu."}
+{"input": "Me nomesas Shuu.", "output": "Mi nomiĝas Ŝu."}
+{"input": "Mi nomiĝas Shuu.", "output": "Me nomesas Shuu."}
+{"input": "Tu esas tale forta.", "output": "Vi estas tia forta."}
+{"input": "Vi estas tiel forta.", "output": "Tu esas tale forta."}
+{"input": "Tu esas tale forta.", "output": "Vi estas tia forta."}
+{"input": "Vi tiel fortas.", "output": "Tu esas forta."}
+{"input": "Vi esas tale forta.", "output": "Vi estas tia forta."}
+{"input": "Vi estas tiel forta.", "output": "Tu esas tale forta."}
+{"input": "Vi esas tale forta.", "output": "Vi estas tia forta."}
+{"input": "Vi tiel fortas.", "output": "Tu esas forta."}
+{"input": "Vu esas tale forta.", "output": "Vi estas tia forta."}
+{"input": "Vi estas tiel forta.", "output": "Tu esas tale forta."}
+{"input": "Vu esas tale forta.", "output": "Vi estas tia forta."}
+{"input": "Vi tiel fortas.", "output": "Tu esas forta."}
+{"input": "Me ne es miniona!", "output": "Mi ne estas minia!"}
+{"input": "Mi ne estas ĉarma!", "output": "Me ne esas charma!"}
+{"input": "Me ne es miniona!", "output": "Mi ne estas minia!"}
+{"input": "Mi ne ĉarmas!", "output": "Me ne charmas!"}
+{"input": "Me ne esas miniona!", "output": "Mi ne estas minia!"}
+{"input": "Mi ne estas ĉarma!", "output": "Me ne esas charma!"}
+{"input": "Me ne esas miniona!", "output": "Mi ne estas minia!"}
+{"input": "Mi ne ĉarmas!", "output": "Me ne charmas!"}
+{"input": "Tom pagos por omno.", "output": "Tomo pagos por ĉio."}
+{"input": "Tom pagos por ĉio.", "output": "Tom pagos por omno."}
+{"input": "Tom pagos por omno.", "output": "Tomo pagos por ĉio."}
+{"input": "Tom pagos ĉion.", "output": "Tom pagos omno."}
+{"input": "Ka nivas?", "output": "Ĉu nivas?"}
+{"input": "Ĉu neĝas?", "output": "Ka neĝas?"}
+{"input": "Me prizas kavali.", "output": "Mi ŝatas ĉevalojn."}
+{"input": "Mi ŝatas ĉevalojn.", "output": "Me prizas chevi."}
+{"input": "Ka me kalveskas?", "output": "Ĉu mi kalvigos?"}
+{"input": "Ĉu mi kalviĝas?", "output": "Ka me kalvis?"}
+{"input": "Ka me kalveskas?", "output": "Ĉu mi kalvigos?"}
+{"input": "Ĉu mi senhariĝas?", "output": "Ka me senhariesas?"}
+{"input": "Tu mustas venar.", "output": "Vi devas veni."}
+{"input": "Vi devas veni.", "output": "Tu devas venar."}
+{"input": "Tu mustas venar.", "output": "Vi devas veni."}
+{"input": "Vi venu.", "output": "Tu venos."}
+{"input": "Vu mustas venar.", "output": "Vi devas veni."}
+{"input": "Vi devas veni.", "output": "Tu devas venar."}
+{"input": "Tom odias Boston.", "output": "Tomo malamas Bostonon."}
+{"input": "Tomo malamas Bostonon.", "output": "Tom odias Boston."}
+{"input": "La lago es blua.", "output": "La lago estas blua."}
+{"input": "La lago estas blua.", "output": "La lago esas blua."}
+{"input": "Qua esas Peter?", "output": "Kiu estas Petero?"}
+{"input": "Kiu estas Petro?", "output": "Qua esas Pietro?"}
+{"input": "Vu aspektas stupida.", "output": "Vi aspektas stupida."}
+{"input": "Vi aspektas stulta.", "output": "Tu aspektas stulta."}
+{"input": "Vu aspektas stupida.", "output": "Vi aspektas stupida."}
+{"input": "Vi stulte aspektas.", "output": "Tu aspektas stulta."}
+{"input": "Vu aspektas stupida.", "output": "Vi aspektas stupida."}
+{"input": "Vi ŝajnas stulta.", "output": "Tu semblas stulta."}
+{"input": "Me nomesas Hugo.", "output": "Mi nomiĝas Hugo."}
+{"input": "Mia nomo estas Hugo.", "output": "Mea nomo esas Hugo."}
+{"input": "Li havas jemeli.", "output": "Ili havas ŝtelojn."}
+{"input": "Ili havas ĝemelojn.", "output": "Li havas jemeli."}
+{"input": "Me nur jus komencis.", "output": "Mi nur juste komencis."}
+{"input": "Mi ĵus komencis.", "output": "Me komencis."}
+{"input": "Komprez kelka pomi.", "output": "Komprez kelkajn pomojn."}
+{"input": "Aĉetu kelkajn pomojn.", "output": "Kompren kelka pomi."}
+{"input": "Li ne esis malada.", "output": "Ili ne estis malsana."}
+{"input": "Ili ne estis malsanaj.", "output": "Li ne esis malsani."}
+{"input": "Li ne esis malada.", "output": "Ili ne estis malsana."}
+{"input": "Ili ne malsanis.", "output": "Li ne malsanis."}
+{"input": "Li ne maladesis.", "output": "Ili ne malsaniĝis."}
+{"input": "Ili ne estis malsanaj.", "output": "Li ne esis malsani."}
+{"input": "Li ne maladesis.", "output": "Ili ne malsaniĝis."}
+{"input": "Ili ne malsanis.", "output": "Li ne malsanis."}
+{"input": "Quon tu timas?", "output": "Kion vi timas?"}
+{"input": "Kion vi timas?", "output": "Quon tu timas?"}
+{"input": "La giganto vekis!", "output": "La giganto vekis!"}
+{"input": "La giganto vekiĝis!", "output": "La giganto vekis!"}
+{"input": "Maria audas male.", "output": "Manjo malaudas."}
+{"input": "Manjo surdetas.", "output": "Manjo esas detasita."}
+{"input": "Maria audas male.", "output": "Manjo malaudas."}
+{"input": "Maria malbone aŭdas.", "output": "Maria ne audas."}
+{"input": "Maria esas surdeta.", "output": "Maria estas surdeto."}
+{"input": "Manjo surdetas.", "output": "Manjo esas detasita."}
+{"input": "Maria esas surdeta.", "output": "Maria estas surdeto."}
+{"input": "Maria malbone aŭdas.", "output": "Maria ne audas."}
+{"input": "Maria havas orelo mala.", "output": "Maria havas malbonan orelon."}
+{"input": "Manjo surdetas.", "output": "Manjo esas detasita."}
+{"input": "Maria havas orelo mala.", "output": "Maria havas malbonan orelon."}
+{"input": "Maria malbone aŭdas.", "output": "Maria ne audas."}
+{"input": "Me posedas violino.", "output": "Mi posedas violonon."}
+{"input": "Mi posedas violonon.", "output": "Me posedas violono."}
+{"input": "Il kantas bone.", "output": "Li kantas bone."}
+{"input": "Li bele kantas.", "output": "Ilu bela kantas."}
+{"input": "Il kantas bone.", "output": "Li kantas bone."}
+{"input": "Li kantas bone.", "output": "Il kantas bone."}
+{"input": "Me riviveskis.", "output": "Mi revenis."}
+{"input": "Mi reviviĝis.", "output": "Me revivis."}
+{"input": "Ok e du esas dek.", "output": "Ok kaj du estas dek."}
+{"input": "Ok kaj du estas dek.", "output": "Ok e du esas dek."}
+{"input": "Ok plus du esas dek.", "output": "Ok plus du estas dek."}
+{"input": "Ok kaj du estas dek.", "output": "Ok e du esas dek."}
+{"input": "Bonesas esar rejo.", "output": "Bona estas esti reĝo."}
+{"input": "Bonas esti reĝo.", "output": "Bona esas regeo."}
+{"input": "Ya!", "output": "Ja!"}
+{"input": "Fakte!", "output": "Fakte!"}
+{"input": "Ka tu esas gravida?", "output": "Ĉu vi estas gravida?"}
+{"input": "Ĉu vi estas graveda?", "output": "Ka tu esas gravida?"}
+{"input": "Li amis li.", "output": "Ili amis li."}
+{"input": "Ili amis ilin.", "output": "Li amis li."}
+{"input": "Tom vidis jirafo.", "output": "Tomo vidis jirafon."}
+{"input": "Tomo vidis ĝirafon.", "output": "Tom vidis girafino."}
+{"input": "Tom tardigesis.", "output": "Tomo malfruis."}
+{"input": "Tomo malfruiĝis.", "output": "Tom malfruijis."}
+{"input": "Me ne havas pekunio.", "output": "Mi ne havas monon."}
+{"input": "Mi ne havas monon.", "output": "Me ne havas mono."}
+{"input": "Me skribas letro.", "output": "Mi skribas leteron."}
+{"input": "Mi leteras.", "output": "Me leteras."}
+{"input": "Me skribas letro.", "output": "Mi skribas leteron."}
+{"input": "Mi skibantas leteron.", "output": "Me skribas letero."}
+{"input": "Me skribas letro.", "output": "Mi skribas leteron."}
+{"input": "Mi skribas leteron.", "output": "Me skribas letero."}
+{"input": "Ni ne serchis el.", "output": "Ni ne serĉis ĝin."}
+{"input": "Ni ne serĉis ŝin.", "output": "Ni ne serchas el."}
+{"input": "Li dormas.", "output": "Ili dormas."}
+{"input": "Ili dormas.", "output": "Li dormas."}
+{"input": "Ka to esas stato?", "output": "Ĉu tio estas stato?"}
+{"input": "Ĉu ĝi estas ŝtato?", "output": "Ka Ido esas stato?"}
+{"input": "Vivez Afrika!", "output": "Vivu Afrikon!"}
+{"input": "Vivu Afriko!", "output": "Vivez Afrika!"}
+{"input": "Yes, ibe.", "output": "Jes, tie."}
+{"input": "Jes, tie.", "output": "Yes, tie."}
+{"input": "Me korektigas nulu.", "output": "Mi nenion korektas."}
+{"input": "Mi korektas neniun.", "output": "Me korektas nulu."}
+{"input": "Iraco solvas nulo.", "output": "Irako nenion solveas."}
+{"input": "Kolero nenion solvas.", "output": "Ira nulo solvas."}
+{"input": "Iraco solvas nulo.", "output": "Irako nenion solveas."}
+{"input": "Kolero solvas nenion.", "output": "Ira ne solvas nulo."}
+{"input": "El ludas multa sporti.", "output": "Ŝi ludas multajn sportojn."}
+{"input": "Ŝi ludas multajn sportojn.", "output": "Elu ludas multa sporti."}
+{"input": "El ludas multa sporti.", "output": "Ŝi ludas multajn sportojn."}
+{"input": "Ŝi multe sportas.", "output": "Elu sportas multe."}
+{"input": "El ludas multa sporti.", "output": "Ŝi ludas multajn sportojn."}
+{"input": "Ŝi multe sportludas.", "output": "Elu multe sportas."}
+{"input": "El multe ludas sporto.", "output": "Ŝi ludas sporton multe."}
+{"input": "Ŝi ludas multajn sportojn.", "output": "Elu ludas multa sporti."}
+{"input": "El multe ludas sporto.", "output": "Ŝi ludas sporton multe."}
+{"input": "Ŝi multe sportas.", "output": "Elu sportas multe."}
+{"input": "El multe ludas sporto.", "output": "Ŝi ludas sporton multe."}
+{"input": "Ŝi multe sportludas.", "output": "Elu multe sportas."}
+{"input": "El multe sportas.", "output": "Ŝi multe sportas."}
+{"input": "Ŝi ludas multajn sportojn.", "output": "Elu ludas multa sporti."}
+{"input": "El multe sportas.", "output": "Ŝi multe sportas."}
+{"input": "Ŝi multe sportas.", "output": "Elu sportas multe."}
+{"input": "El multe sportas.", "output": "Ŝi multe sportas."}
+{"input": "Ŝi multe sportludas.", "output": "Elu multe sportas."}
+{"input": "Tu vendas shui.", "output": "Vi vendas ŝuojn."}
+{"input": "Vi vendas ŝuojn.", "output": "Tu vendas shui."}
+{"input": "Vu vendas shui.", "output": "Vi vendas ŝuojn."}
+{"input": "Vi vendas ŝuojn.", "output": "Tu vendas shui."}
+{"input": "Sami komprenis.", "output": "Samio komprenis."}
+{"input": "Sami komprenis.", "output": "Sami komprenis."}
+{"input": "Noruz felica!", "output": "Noruz feliĉas!"}
+{"input": "Bonan Noruzon!", "output": "Bona Noruzo!"}
+{"input": "Noruz felica!", "output": "Noruz feliĉas!"}
+{"input": "Feliĉan Noruzon!", "output": "Felicanez Noruzo!"}
+{"input": "Noruz felica!", "output": "Noruz feliĉas!"}
+{"input": "Ĝojan Noruzon!", "output": "Joya Noruzo!"}
+{"input": "Tu esas tre bela.", "output": "Vi estas tre bela."}
+{"input": "Vi estas tre bela.", "output": "Tu esas tre bela."}
+{"input": "Tu esas tre bela.", "output": "Vi estas tre bela."}
+{"input": "Vi estas tre belaj.", "output": "Tu esas tre bela."}
+{"input": "Tu esas tre bela.", "output": "Vi estas tre bela."}
+{"input": "Vi tre belas.", "output": "Tu tre belas."}
+{"input": "Tom es yusta.", "output": "Tomo estas justa."}
+{"input": "Tomo estas justa.", "output": "Tom esas justa."}
+{"input": "Deo esas floro.", "output": "Deo estas floro."}
+{"input": "Dio estas floro.", "output": "Deo esas floro."}
+{"input": "Komunismo vinkos.", "output": "Komunismo vinkos."}
+{"input": "Komunismo venkos.", "output": "Komunismo vinkos."}
+{"input": "Me ploras.", "output": "Mi ploras."}
+{"input": "Mi ploras.", "output": "Me ploras."}
+{"input": "Me habitas en Etiopia.", "output": "Mi loĝas en Etiopio."}
+{"input": "Mi loĝas en Etiopio.", "output": "Me habitas en Etiopia."}
+{"input": "Me habitas en Etiopia.", "output": "Mi loĝas en Etiopio."}
+{"input": "Mi loĝas en Etiopujo.", "output": "Me habitas en Etiopujo."}
+{"input": "Me lojas en Etiopia.", "output": "Mi loĝas en Etiopio."}
+{"input": "Mi loĝas en Etiopio.", "output": "Me habitas en Etiopia."}
+{"input": "Me lojas en Etiopia.", "output": "Mi loĝas en Etiopio."}
+{"input": "Mi loĝas en Etiopujo.", "output": "Me habitas en Etiopujo."}
+{"input": "Me plene aprobas!", "output": "Mi plene aprobas!"}
+{"input": "Mi plene aprobas!", "output": "Me aprobas."}
+{"input": "Me manjas piri.", "output": "Mi manĝas pirojn."}
+{"input": "Mi manĝas pirojn.", "output": "Me manjas piro."}
+{"input": "Me violacis el.", "output": "Mi violacis ĝin."}
+{"input": "Mi seksatencis ŝin.", "output": "Me seksas el."}
+{"input": "Me violacis el.", "output": "Mi violacis ĝin."}
+{"input": "Mi seksperfortis ŝin.", "output": "Me seksperfortis el."}
+{"input": "Il falis en la rivero.", "output": "Li falis en la rivero."}
+{"input": "Li falis en la riveron.", "output": "Ilu cadis en la rivero."}
+{"input": "Il falis en la rivero.", "output": "Li falis en la rivero."}
+{"input": "Ĝi falis riveren.", "output": "Ol cadis en la rivero."}
+{"input": "Il falis en la rivero.", "output": "Li falis en la rivero."}
+{"input": "Ŝi falis en la riveron.", "output": "Elu cadis en la rivero."}
+{"input": "Adio!", "output": "Adiaŭ!"}
+{"input": "Adiaŭ!", "output": "Adiau!"}
+{"input": "Adio!", "output": "Adiaŭ!"}
+{"input": "Ĝis la revido!", "output": "Hike til la revido!"}
+{"input": "Adio!", "output": "Adiaŭ!"}
+{"input": "Ĝis la!", "output": "Hike til la!"}
+{"input": "Adio!", "output": "Adiaŭ!"}
+{"input": "Ĝis revido!", "output": "Valez!"}
+{"input": "Adio!", "output": "Adiaŭ!"}
+{"input": "Ĝis!", "output": "Hike!"}
+{"input": "Chao!", "output": "Ĉu!"}
+{"input": "Ĝis la revido!", "output": "Hike til la revido!"}
+{"input": "Chao!", "output": "Ĉu!"}
+{"input": "Ĝis revido!", "output": "Valez!"}
+{"input": "Chao!", "output": "Ĉu!"}
+{"input": "Ĝis!", "output": "Hike!"}
+{"input": "Til la rivido!", "output": "Ĝis la rivero!"}
+{"input": "Ĝis la revido!", "output": "Hike til la revido!"}
+{"input": "Til la rivido!", "output": "Ĝis la rivero!"}
+{"input": "Ĝis revido!", "output": "Valez!"}
+{"input": "Til rivido!", "output": "Ĝis la rivero!"}
+{"input": "Adiaŭ!", "output": "Adiau!"}
+{"input": "Til rivido!", "output": "Ĝis la rivero!"}
+{"input": "Adiaŭ.", "output": "Adiau."}
+{"input": "Til rivido!", "output": "Ĝis la rivero!"}
+{"input": "Ĝis la revido!", "output": "Hike til la revido!"}
+{"input": "Til rivido!", "output": "Ĝis la rivero!"}
+{"input": "Ĝis la revido.", "output": "Hike til la revido."}
+{"input": "Til rivido!", "output": "Ĝis la rivero!"}
+{"input": "Ĝis la!", "output": "Hike til la!"}
+{"input": "Til rivido!", "output": "Ĝis la rivero!"}
+{"input": "Ĝis revido!", "output": "Valez!"}
+{"input": "Til rivido!", "output": "Ĝis la rivero!"}
+{"input": "Ĝis!", "output": "Hike!"}
+{"input": "Til rivido!", "output": "Ĝis la rivero!"}
+{"input": "Ĝis.", "output": "Hike."}
+{"input": "Eli es mea kuzini.", "output": "Ili estas miaj kuzojn."}
+{"input": "Ili estas miaj gekuzoj.", "output": "Li esas mea geykui."}
+{"input": "Eli es mea kuzini.", "output": "Ili estas miaj kuzojn."}
+{"input": "Ili estas miaj kuzinoj.", "output": "Li esas mea kuzini."}
+{"input": "Eli es mea kuzini.", "output": "Ili estas miaj kuzojn."}
+{"input": "Ili estas miaj kuzoj.", "output": "Li esas mea kuzi."}
+{"input": "Ili es mea kuzuli.", "output": "Ili estas miaj kuzoj."}
+{"input": "Ili estas miaj gekuzoj.", "output": "Li esas mea geykui."}
+{"input": "Ili es mea kuzuli.", "output": "Ili estas miaj kuzoj."}
+{"input": "Ili estas miaj kuzinoj.", "output": "Li esas mea kuzini."}
+{"input": "Ili es mea kuzuli.", "output": "Ili estas miaj kuzoj."}
+{"input": "Ili estas miaj kuzoj.", "output": "Li esas mea kuzi."}
+{"input": "Ili es mea kuzuli.", "output": "Ili estas miaj kuzoj."}
+{"input": "Jen miaj kuzoj.", "output": "Hike esas mea kuzi."}
+{"input": "Li es mea kuzi.", "output": "Ili estas miaj kuzoj."}
+{"input": "Ili estas miaj gekuzoj.", "output": "Li esas mea geykui."}
+{"input": "Li es mea kuzi.", "output": "Ili estas miaj kuzoj."}
+{"input": "Ili estas miaj kuzinoj.", "output": "Li esas mea kuzini."}
+{"input": "Li es mea kuzi.", "output": "Ili estas miaj kuzoj."}
+{"input": "Ili estas miaj kuzoj.", "output": "Li esas mea kuzi."}
+{"input": "Tom esas malo.", "output": "Tomo estas malfacila."}
+{"input": "Tomo estas malbona ulo.", "output": "Tom esas mala homo."}
+{"input": "Tom esas malo.", "output": "Tomo estas malfacila."}
+{"input": "Tomo estas malbonulo.", "output": "Tom esas mala."}
+{"input": "Tom esas malulo.", "output": "Tomo estas malsana."}
+{"input": "Tomo estas malbona ulo.", "output": "Tom esas mala homo."}
+{"input": "Tom esas malulo.", "output": "Tomo estas malsana."}
+{"input": "Tomo estas malbonulo.", "output": "Tom esas mala."}
+{"input": "Tom esas malulo.", "output": "Tomo estas malsana."}
+{"input": "Tomo estas malica homo.", "output": "Tom esas mala homo."}
+{"input": "Ne vartez!", "output": "Ne vartu!"}
+{"input": "Ne atendu!", "output": "Ne atendez!"}
+{"input": "Ne vartez.", "output": "Ne vartu."}
+{"input": "Ne atendu!", "output": "Ne atendez!"}
+{"input": "Ne vartez.", "output": "Ne vartu."}
+{"input": "Ne atendu.", "output": "Ne atendez."}
+{"input": "Ne vartez.", "output": "Ne vartu."}
+{"input": "Ne esperu.", "output": "Ne esperez."}
+{"input": "Me ne kantis.", "output": "Mi ne kantis."}
+{"input": "Mi ne kantis.", "output": "Me ne kantis."}
+{"input": "Me mortigos tu.", "output": "Mi mortigos vin."}
+{"input": "Mi mortigos vin.", "output": "Me mortigos tu."}
+{"input": "Qua diferis?", "output": "Kiu diferencas?"}
+{"input": "Kiu malkonsentis?", "output": "Qua ne konsentis?"}
+{"input": "Esis tre obskura.", "output": "Estis tre obskura."}
+{"input": "Estis tre mallume.", "output": "Il esis tre mala."}
+{"input": "Esis tre obskura.", "output": "Estis tre obskura."}
+{"input": "Tiel mallumis.", "output": "Tale diktis."}
+{"input": "To ne esas nivo.", "output": "Tio ne estas nivo."}
+{"input": "Tio ne estas neĝo.", "output": "To ne esas neyo."}
+{"input": "Me kaptis gripo.", "output": "Mi kaptis gripon."}
+{"input": "Mi kaptis malvarmumon.", "output": "Me kaptis malvarmo."}
+{"input": "Me kaptis gripo.", "output": "Mi kaptis gripon."}
+{"input": "Min trafis malvarmumo.", "output": "Me trafis kalma."}
+{"input": "Me sempre dicis to.", "output": "Mi ĉiam diris tion."}
+{"input": "Mi ĉiam diris tion.", "output": "Me sempre dicis to."}
+{"input": "Helpo!", "output": "Hilfu!"}
+{"input": "Helpon!", "output": "Helpo!"}
+{"input": "Helpo!", "output": "Hilfu!"}
+{"input": "Helpu!", "output": "Helpez!"}
+{"input": "Ol ne es reala.", "output": "Tio ne estas vera."}
+{"input": "Tio ne estas reala.", "output": "To ne esas reala."}
+{"input": "Ol ne es reala.", "output": "Tio ne estas vera."}
+{"input": "Ĝi ne veras.", "output": "Ol ne esas vera."}
+{"input": "Me ne esas katino.", "output": "Mi ne estas kato."}
+{"input": "Mi ne estas katino.", "output": "Me ne esas kato."}
+{"input": "Me ne esas katino.", "output": "Mi ne estas kato."}
+{"input": "Mi ne estas kato.", "output": "Me ne esas kato."}
+{"input": "Me ne esas kato.", "output": "Mi ne estas kato."}
+{"input": "Mi ne estas katino.", "output": "Me ne esas kato."}
+{"input": "Me ne esas kato.", "output": "Mi ne estas kato."}
+{"input": "Mi ne estas kato.", "output": "Me ne esas kato."}
+{"input": "Me ne esas kato.", "output": "Mi ne estas kato."}
+{"input": "Mi ne estas virkato.", "output": "Me ne esas virkato."}
+{"input": "Me ne esas katulo.", "output": "Mi ne estas katulo."}
+{"input": "Mi ne estas katino.", "output": "Me ne esas kato."}
+{"input": "Me ne esas katulo.", "output": "Mi ne estas katulo."}
+{"input": "Mi ne estas kato.", "output": "Me ne esas kato."}
+{"input": "Me ne esas katulo.", "output": "Mi ne estas katulo."}
+{"input": "Mi ne estas virkato.", "output": "Me ne esas virkato."}
+{"input": "Tu trovis me!", "output": "Vi trovis min!"}
+{"input": "Vi trovis min!", "output": "Tu trovis me!"}
+{"input": "Uzez Instagram.", "output": "Uzuĝu Instagramon."}
+{"input": "Uzu Instagramon.", "output": "Uzez Instagram."}
+{"input": "Nulu es ferpekta.", "output": "Neniu estas ferpekta."}
+{"input": "Neniu estas ferpekta.", "output": "Nulu esas ferpekta."}
+{"input": "Nulu es ferpekta.", "output": "Neniu estas ferpekta."}
+{"input": "Neniu estas snerara.", "output": "Nulu esas snerara."}
+{"input": "Lo esas sorco.", "output": "Tio estas sorĉo."}
+{"input": "Tio estas sorĉo.", "output": "To esas magio."}
+{"input": "El es autismoza.", "output": "Ŝi estas autizma."}
+{"input": "Ŝi estas aŭtisma.", "output": "Elu esas autisma."}
+{"input": "Pri quo tu ridis?", "output": "Kion vi ridis?"}
+{"input": "Pri kio vi ridis?", "output": "Pro quo tu ridis?"}
+{"input": "Tom es jaluza.", "output": "Tomo estas jaluza."}
+{"input": "Tomo estas ĵaluza.", "output": "Tom esas jaluza."}
+{"input": "Ni es enemiki.", "output": "Ni estas enemiki."}
+{"input": "Ni estas malamikoj.", "output": "Ni esas enemiki."}
+{"input": "Ni esas enemiki.", "output": "Ni estas enemiki."}
+{"input": "Ni estas malamikoj.", "output": "Ni esas enemiki."}
+{"input": "Il esas nia patro.", "output": "Li estas nia patro."}
+{"input": "Li estas nia patro.", "output": "Il esas nia patro."}
+{"input": "Tom es hakisto.", "output": "Tomo estas hakisto."}
+{"input": "Tomo estas arbohakisto.", "output": "Tom esas arborhakisto."}
+{"input": "Quala bela gambi!", "output": "Kia belaj piedoj!"}
+{"input": "Kiaj belaj gamboj!", "output": "Qua bela gambo!"}
+{"input": "Tom es teroristo.", "output": "Tomo estas teroristo."}
+{"input": "Tom estas teroristo.", "output": "Tom esas terroristo."}
+{"input": "Me esas Vikingo.", "output": "Mi estas vikingo."}
+{"input": "Mi estas vikingino.", "output": "Me esas vikingino."}
+{"input": "Me esas Vikingo.", "output": "Mi estas vikingo."}
+{"input": "Mi estas vikingo.", "output": "Me esas vikingo."}
+{"input": "Quale tu konocas me?", "output": "Kiel vi konas min?"}
+{"input": "Kiel vi konas min?", "output": "Quale tu konocas me?"}
+{"input": "Amez el!", "output": "Mortigu ĝin!"}
+{"input": "Amu ŝin!", "output": "Amez el!"}
+{"input": "Me lektas la libro.", "output": "Mi legas la libron."}
+{"input": "Mi legis la libron.", "output": "Me lektis la libro."}
+{"input": "Me lektis la libro.", "output": "Mi legis la libron."}
+{"input": "Mi legis la libron.", "output": "Me lektis la libro."}
+{"input": "Elu ne prontesos.", "output": "Ŝi ne prontos."}
+{"input": "Ŝi ne pretos.", "output": "El ne pretas."}
+{"input": "Me ne prizas sablo.", "output": "Mi ne ŝatas sablon."}
+{"input": "Mi ne ŝatas sablon.", "output": "Me ne prizas sablo."}
+{"input": "Me havas lakto.", "output": "Mi havas lakton."}
+{"input": "Mi havas lakton.", "output": "Me havas lakto."}
+{"input": "To esas lanco.", "output": "Tio estas lanĉilo."}
+{"input": "Tio estas lanco.", "output": "To esas lanco."}
+{"input": "Parolez plu klare.", "output": "Parolu plu klare."}
+{"input": "Parolu pli klare.", "output": "Parolu plu klare."}
+{"input": "Liberigez Kurdistan!", "output": "Liberez Kurdistanon!"}
+{"input": "Liberigu Kurdion!", "output": "Liberez la Kurdi!"}
+{"input": "Liberigez Kurdistan!", "output": "Liberez Kurdistanon!"}
+{"input": "Liberigu Kurdistanon!", "output": "Liberez la Kurdistano!"}
+{"input": "El admiris el.", "output": "Ŝi admiris lin."}
+{"input": "Ŝi admiris ŝin.", "output": "Elu admiris el."}
+{"input": "Ni vidas tu.", "output": "Ni vidas vin."}
+{"input": "Ni vidas vin.", "output": "Ni vidas vu."}
+{"input": "Ni vidas vi.", "output": "Ni vidas vin."}
+{"input": "Ni vidas vin.", "output": "Ni vidas vu."}
+{"input": "Ni vidas vu.", "output": "Ni vidas vin."}
+{"input": "Ni vidas vin.", "output": "Ni vidas vu."}
+{"input": "Me amas la naturo.", "output": "Mi amas la naturon."}
+{"input": "Mi amas la naturon.", "output": "Me amas la naturo."}
+{"input": "Tom faliis.", "output": "Tomo falis."}
+{"input": "Tomo fiaskis.", "output": "Tom esfalis."}
+{"input": "Tom faliis.", "output": "Tomo falis."}
+{"input": "Tomo malsukcesis.", "output": "Tom ne sucesis."}
+{"input": "Sendube el eroris.", "output": "Ĉiese li eroris."}
+{"input": "Sendube ŝi eraris.", "output": "Probable el eraris."}
+{"input": "Forsan pose.", "output": "Forsane poste."}
+{"input": "Eble poste.", "output": "Probable."}
+{"input": "Tom havas fratini.", "output": "Tomo havas fratinojn."}
+{"input": "Tomo havas fratinojn.", "output": "Tom havas fratini."}
+{"input": "Me esas sklavo.", "output": "Mi estas sklavino."}
+{"input": "Mi estas sklavino.", "output": "Me esas skavino."}
+{"input": "Me esas sklavo.", "output": "Mi estas sklavino."}
+{"input": "Mi estas sklavo.", "output": "Me esas sklavino."}
+{"input": "El es kun il.", "output": "Ŝi estas kun li."}
+{"input": "Ŝi estas kun li.", "output": "Elu esas kun il."}
+{"input": "Tom flatuis.", "output": "Tomo flatis."}
+{"input": "Tomo furzis.", "output": "Tom furzis."}
+{"input": "Ni esas komplici.", "output": "Ni estas komplici."}
+{"input": "Ni estas komplicoj.", "output": "Ni esas komplici."}
+{"input": "Me ludas teniso.", "output": "Mi ludas tenison."}
+{"input": "Mi ludis tenison.", "output": "Me ludis teniso."}
+{"input": "Me ludas teniso.", "output": "Mi ludas tenison."}
+{"input": "Mi tenisis.", "output": "Me ludis teniso."}
+{"input": "Il esas ruzoza foxo.", "output": "Li estas ruĝa vulpo."}
+{"input": "Li estas ruza vulpo.", "output": "Il esas rusa vulpo."}
+{"input": "Me havas jemelo.", "output": "Mi havas ŝtonon."}
+{"input": "Mi havas ĝemelon.", "output": "Me havas jemelo."}
+{"input": "Ube esas mea shui?", "output": "Kie estas mia ŝujo?"}
+{"input": "Kie estas miaj ŝuoj?", "output": "Ube esas mea shui?"}
+{"input": "To esas impero.", "output": "Tio estas imperio."}
+{"input": "Tio estas komando.", "output": "To esas komando."}
+{"input": "To esas impero.", "output": "Tio estas imperio."}
+{"input": "Tio estas ordono.", "output": "To esas ordo."}
+{"input": "To esas impero.", "output": "Tio estas imperio."}
+{"input": "Ĉi tio estas ordono.", "output": "To esas ordono."}
+{"input": "Me ne ludas ludi.", "output": "Mi ne ludas ludon."}
+{"input": "Mi ne ludas ludojn.", "output": "Me ne ludas ludi."}
+{"input": "Ni ludas per Uno.", "output": "Ni ludas per Unu."}
+{"input": "Ni ludas Unon.", "output": "Ni ludas Uneso."}
+{"input": "Me ne demandos ad il.", "output": "Mi ne petos al li."}
+{"input": "Mi ne demandos lin.", "output": "Me ne demandos il."}
+{"input": "Me ne pregos il.", "output": "Mi ne petos lin."}
+{"input": "Mi ne demandos lin.", "output": "Me ne demandos il."}
+{"input": "Il esas tre malada.", "output": "Li estas tre mala."}
+{"input": "Li estas tre malsana.", "output": "Il esas tre mala."}
+{"input": "Il esas tre malada.", "output": "Li estas tre mala."}
+{"input": "Li tre malsanas.", "output": "Il esas tre mala."}
+{"input": "Tu esas justa.", "output": "Vi estas justa."}
+{"input": "Vi pravas.", "output": "Tu pravas."}
+{"input": "Vu esas justa.", "output": "Vi estas justa."}
+{"input": "Vi pravas.", "output": "Tu pravas."}
+{"input": "Vu esas korekta.", "output": "Vi estas korekta."}
+{"input": "Tio estas ĝusta.", "output": "To esas justa."}
+{"input": "Vu esas korekta.", "output": "Vi estas korekta."}
+{"input": "Vi pravas.", "output": "Tu pravas."}
+{"input": "El volas plu.", "output": "Ŝi volas pli."}
+{"input": "Ŝi volas pli.", "output": "El volas plu."}
+{"input": "Me habitis en Alaska.", "output": "Mi loĝis en Alasko."}
+{"input": "Mi loĝis en Alasko.", "output": "Me habitis en Alaska."}
+{"input": "Me habitis en Alaska.", "output": "Mi loĝis en Alasko."}
+{"input": "Mi vivis en Alasko.", "output": "Me habitis en Alaska."}
+{"input": "Me manjis sablo.", "output": "Mi manĝis sablon."}
+{"input": "Mi manĝis sablon.", "output": "Me manjis sablo."}
+{"input": "L'amoro chanjas omno.", "output": "Amoro ŝanĝas ĉion."}
+{"input": "Amo ŝanĝas ĉion.", "output": "L'amoro chanjas omno."}
+{"input": "Vi laboris.", "output": "Vi laboris."}
+{"input": "Vi estis laborantaj.", "output": "Tu laboris."}
+{"input": "Vi laboris.", "output": "Vi laboris."}
+{"input": "Vi laboris.", "output": "Tu laboris."}
+{"input": "Tom kalveskas.", "output": "Tomo kalvas."}
+{"input": "Tomo kalviĝas.", "output": "Tom kalvis."}
+{"input": "Tom kalveskas.", "output": "Tomo kalvas."}
+{"input": "Tomo perdas siajn harojn.", "output": "Tom perdas sua hari."}
+{"input": "Tom kalveskas.", "output": "Tomo kalvas."}
+{"input": "Tomo senhariĝas.", "output": "Tom senhariesas."}
+{"input": "Me probos itere.", "output": "Mi provos ĝi denove."}
+{"input": "Mi provos denove.", "output": "Me provos denove."}
+{"input": "Facez pazo adflanke.", "output": "Fakigu pazon ĉe flanko."}
+{"input": "Paŝu flanken.", "output": "Pasez flanke."}
+{"input": "Me ne esas brava.", "output": "Mi ne estas brava."}
+{"input": "Mi ne estas kuraĝa.", "output": "Me ne esas kuraĝa."}
+{"input": "Me ne esas kurajoza.", "output": "Mi ne estas kuracema."}
+{"input": "Mi ne estas kuraĝa.", "output": "Me ne esas kuraĝa."}
+{"input": "Me esas volfino.", "output": "Mi estas volfino."}
+{"input": "Mi estas lupino.", "output": "Me esas lupino."}
+{"input": "Me esas volfo.", "output": "Mi estas volfo."}
+{"input": "Mi estas lupino.", "output": "Me esas lupino."}
+{"input": "Me esas volfo.", "output": "Mi estas volfo."}
+{"input": "Mi estas lupo.", "output": "Me esas lupulo."}
+{"input": "Hundi esas komika.", "output": "Hundi estas komika."}
+{"input": "Hundoj estas komikaj.", "output": "Hundi esas komika."}
+{"input": "Mea boko sikeskis.", "output": "Mia kato siskis."}
+{"input": "Mia buŝo estis seka.", "output": "Mea buxo esis seka."}
+{"input": "Me decidis.", "output": "Mi decidis."}
+{"input": "Mi decidis.", "output": "Me decidis."}
+{"input": "Me ilun mortigos.", "output": "Mi mortigos ilin."}
+{"input": "Mi mortigos lin.", "output": "Me mortigos il."}
+{"input": "Me ilun ocidos.", "output": "Mi mortigas ilin."}
+{"input": "Mi mortigos lin.", "output": "Me mortigos il."}
+{"input": "Me mortigos il.", "output": "Mi mortigos lin."}
+{"input": "Mi mortigos lin.", "output": "Me mortigos il."}
+{"input": "Me mortigos ilu.", "output": "Mi mortigos lin."}
+{"input": "Mi mortigos lin.", "output": "Me mortigos il."}
+{"input": "Me ocidos ilu.", "output": "Mi mortigas lin."}
+{"input": "Mi mortigos lin.", "output": "Me mortigos il."}
+{"input": "Elu lavas pomo.", "output": "Ŝi lavas poman."}
+{"input": "Ŝi lavas pomon.", "output": "El lavas pom."}
+{"input": "Me ne esas bebeo.", "output": "Mi ne estas infano."}
+{"input": "Mi ne estas suĉinfano.", "output": "Me ne esas sucino."}
+{"input": "Ne, me pagos.", "output": "Ne, mi pagos."}
+{"input": "Ne, mi pagos.", "output": "Ne, me payos."}
+{"input": "Simple fingez.", "output": "Fingiĝu simple."}
+{"input": "Simple ŝajnigu.", "output": "Simple shajnez."}
+{"input": "Tom progresas.", "output": "Tomo progresas."}
+{"input": "Tomo progresas.", "output": "Tom progresas."}
+{"input": "Ni esas amiki.", "output": "Ni estas amikoj."}
+{"input": "Ni estas amikinoj.", "output": "Ni esas amiki."}
+{"input": "Ni esas amiki.", "output": "Ni estas amikoj."}
+{"input": "Ni estas amikoj.", "output": "Ni esas amiki."}
+{"input": "Ni esas amiki.", "output": "Ni estas amikoj."}
+{"input": "Ni estas geamikoj.", "output": "Ni esas amiki."}
+{"input": "To esas surprizo.", "output": "Tio estas surprizo."}
+{"input": "Tio estas surprizo.", "output": "To esas surprizo."}
+{"input": "Il krieskis.", "output": "Li kriis."}
+{"input": "Li komencis krii.", "output": "Il komencis kriar."}
+{"input": "Ni facis l'amoro.", "output": "Ni faris la amon."}
+{"input": "Ni amoris.", "output": "Ni amoris."}
+{"input": "Ni facis l'amoro.", "output": "Ni faris la amon."}
+{"input": "Ni koitis.", "output": "Ni kuitis."}
+{"input": "Ni facis l'amoro.", "output": "Ni faris la amon."}
+{"input": "Ni seksumis.", "output": "Ni seksis."}
+{"input": "Ni koitis.", "output": "Ni kuiris."}
+{"input": "Ni koitis.", "output": "Ni kuitis."}
+{"input": "Ni koitis.", "output": "Ni kuiris."}
+{"input": "Ni seksumis.", "output": "Ni seksis."}
+{"input": "Ka co ne bluesas?", "output": "Ĉu ĉi tio ne bluas?"}
+{"input": "Ĉu tio ne estas blua?", "output": "Ka to ne esas blua?"}
+{"input": "Ka co ne bluesas?", "output": "Ĉu ĉi tio ne bluas?"}
+{"input": "Ĉu tio ĉi ne bluas?", "output": "Ka to ne blusas?"}
+{"input": "Ka co ne bluesas?", "output": "Ĉu ĉi tio ne bluas?"}
+{"input": "Ĉu tio ĉi ne estas blua?", "output": "Ka to ne esas blua?"}
+{"input": "Ka co ne esas blua?", "output": "Ĉu tio ne estas blua?"}
+{"input": "Ĉu tio ne estas blua?", "output": "Ka to ne esas blua?"}
+{"input": "Ka co ne esas blua?", "output": "Ĉu tio ne estas blua?"}
+{"input": "Ĉu tio ĉi ne bluas?", "output": "Ka to ne blusas?"}
+{"input": "Ka co ne esas blua?", "output": "Ĉu tio ne estas blua?"}
+{"input": "Ĉu tio ĉi ne estas blua?", "output": "Ka to ne esas blua?"}
+{"input": "Ka to ne esas blua?", "output": "Ĉu tio ne estas blua?"}
+{"input": "Ĉu tio ne estas blua?", "output": "Ka to ne esas blua?"}
+{"input": "Ka to ne esas blua?", "output": "Ĉu tio ne estas blua?"}
+{"input": "Ĉu tio ĉi ne estas blua?", "output": "Ka to ne esas blua?"}
+{"input": "Quala bela floro!", "output": "Kiu bela floro!"}
+{"input": "Kia bela floro!", "output": "Quale bela floro!"}
+{"input": "Quala bela floro!", "output": "Kiu bela floro!"}
+{"input": "Kia belega floro!", "output": "Quale bela floro!"}
+{"input": "Quala bela floro!", "output": "Kiu bela floro!"}
+{"input": "Kiel bela floro!", "output": "Quale bela floro!"}
+{"input": "Quala bela floro!", "output": "Kiu bela floro!"}
+{"input": "Kiom bela floro!", "output": "Quale bela floro!"}
+{"input": "Me dankas vu multe.", "output": "Mi dankas vin multe."}
+{"input": "Mi multe dankas vin.", "output": "Me multe dankas tu."}
+{"input": "Ka tu odias me?", "output": "Ĉu vi mi malamas?"}
+{"input": "Ĉu vi malamas min?", "output": "Ka tu odias me?"}
+{"input": "Me savas tua nomo.", "output": "Mi scias via nomon."}
+{"input": "Mi konas vian nomon.", "output": "Me konocas vua nomo."}
+{"input": "La ondi esas alta.", "output": "La ondoj estas alta."}
+{"input": "La ondoj estas altaj.", "output": "La ondi esas alta."}
+{"input": "To eventas kelkfoye.", "output": "Tio okazas kelkfoje."}
+{"input": "Tio fojfoje okazas.", "output": "To foje okazas."}
+{"input": "To eventas kelkfoye.", "output": "Tio okazas kelkfoje."}
+{"input": "Tio kelkfoje okazas.", "output": "To kelke okasas."}
+{"input": "Me vidis muso.", "output": "Mi vidis muson."}
+{"input": "Mi vidis muson!", "output": "Me vidis muso!"}
+{"input": "Me vidis muso.", "output": "Mi vidis muson."}
+{"input": "Mi vidis muson.", "output": "Me vidis muso."}
+{"input": "Ni havas du hundi.", "output": "Ni havas du hundojn."}
+{"input": "Ni havas du hundojn.", "output": "Ni havas du hundi."}
