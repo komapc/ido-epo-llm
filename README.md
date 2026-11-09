@@ -53,11 +53,19 @@ instruction string.
 
 ## Model & training
 
-- Base: **LLaMA 3.2 3B Instruct** (path to 8B documented in the notebook).
-- Method: **QLoRA 4-bit via Unsloth**, fits free-Colab T4. GPU work runs on
-  **Colab**, never EC2 (project steering rule).
-- `finetune_colab.ipynb` — self-contained: pulls the jsonl, trains, pushes
-  adapter to HF Hub (or Drive).
+Two candidates, same data and same test split, so scores compare 1:1:
+
+- `finetune_colab.ipynb` — **LLaMA 3.2 3B Instruct**, QLoRA 4-bit with plain
+  transformers+peft+trl (Unsloth dropped: incompatible with transformers 5.x).
+  bf16 on T4 is software-emulated, so it is capped at 300 steps (~3h).
+- `finetune_nllb.ipynb` — **NLLB-200 distilled 600M**, full fine-tune in fp16
+  AMP. Dedicated encoder-decoder MT model that already knows Esperanto; Ido gets
+  a new `ido_Latn` language token (init = mean of epo/ita/spa). Small enough to
+  serve on CPU. Weights are CC-BY-NC-4.0. Generated from
+  `train/build_nllb_notebook.py` (edit there; `SMOKE=1 ... --smoke` runs the
+  cells on CPU on a tiny subset).
+
+GPU work runs on **Kaggle** (T4 x2, Save & Run All) or Colab, never EC2.
 
 ## Eval
 
