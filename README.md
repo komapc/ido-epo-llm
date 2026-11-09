@@ -88,6 +88,8 @@ dropped. The Kaggle predictions are in `eval/preds/`. To re-score:
 
 **Published model:** [komapc/nllb-ido-epo-600m](https://huggingface.co/komapc/nllb-ido-epo-600m)
 (CC-BY-NC-4.0, with a usage snippet in the model card).
+**Try it:** [browser demo Space](https://huggingface.co/spaces/komapc/ido-epo-translator)
+(runs locally via transformers.js; build in [`space/`](space/README.md)).
 
 ## Serving (deferred)
 
