@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="io">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ido ↔ Esperanto</title>
+<meta name="description" content="Neural Ido–Esperanto translation running entirely in your browser (NLLB-200 600M fine-tune).">
+<style>
+  :root {
+    --bg: #f7f7f4; --card: #ffffff; --fg: #1d1f1c; --muted: #6a6f68; --line: #dcddd6;
+    --accent: #2f7d4f; --accent-fg: #ffffff; --warn: #9a5b00;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #151714; --card: #1e211d; --fg: #e8eae4; --muted: #9ba196; --line: #343830;
+            --accent: #5fbf85; --accent-fg: #0f1a12; --warn: #e0a64a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+         font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 920px; margin: 0 auto; padding: 28px 16px 48px; }
+  h1 { font-size: 1.6rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 20px; }
+  a { color: var(--accent); }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px; }
+  .bar { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
+  .lang { font-weight: 600; min-width: 92px; text-align: center; }
+  button { font: inherit; border: 1px solid var(--line); background: var(--card); color: var(--fg);
+           border-radius: 8px; padding: 8px 14px; cursor: pointer; }
+  button.primary { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); font-weight: 600; }
+  button:disabled { opacity: .55; cursor: default; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 680px) { .grid { grid-template-columns: 1fr; } }
+  textarea { width: 100%; min-height: 170px; resize: vertical; font: inherit; color: var(--fg);
+             background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 10px; }
+  #out { background: var(--bg); }
+  .status { margin-top: 12px; color: var(--muted); font-size: .92rem; min-height: 1.4em; }
+  .status.err { color: var(--warn); }
+  progress { width: 100%; height: 8px; accent-color: var(--accent); }
+  .ex { margin-top: 14px; display: flex; gap: 6px; flex-wrap: wrap; }
+  .ex button { font-size: .88rem; padding: 4px 10px; }
+  footer { margin-top: 22px; color: var(--muted); font-size: .88rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Ido ↔ Esperanto</h1>
+  <p class="sub">Neural translation that runs <b>entirely in your browser</b>: nothing is sent to a server.
+    Model: <a href="https://huggingface.co/komapc/nllb-ido-epo-600m">komapc/nllb-ido-epo-600m</a>
+    (NLLB-200 600M fine-tuned for Ido). For comparison, see the rule-based translator at
+    <a href="https://tradukilo.lipu.dev/">tradukilo.lipu.dev</a>.</p>
+
+  <div class="card">
+    <div class="bar">
+      <span class="lang" id="srcName">Ido</span>
+      <button id="swap" title="Swap direction" aria-label="Swap direction">⇄</button>
+      <span class="lang" id="tgtName">Esperanto</span>
+      <span style="flex:1"></span>
+      <button id="load" class="primary">Load model (~560 MB, once)</button>
+      <button id="go" class="primary" hidden>Translate</button>
+    </div>
+    <div class="grid">
+      <textarea id="src" maxlength="1500" placeholder="Skribez hike…" aria-label="Source text"></textarea>
+      <textarea id="out" readonly placeholder="Traduko" aria-label="Translation"></textarea>
+    </div>
+    <div id="prog" hidden><progress id="pbar" max="1" value="0"></progress></div>
+    <div class="status" id="status">The model is downloaded once and then cached by your browser.</div>
+    <div class="ex" id="examples"></div>
+  </div>
+
+  <footer>
+    It was trained on short sentences, so long text is translated one sentence at a time.
+    This build has a reduced vocabulary and int8 weights (chrF 73.0 vs 73.4 for the full model on the held-out test set).
+    Model license: CC-BY-NC 4.0 (non-commercial). Training data includes <a href="https://tatoeba.org">Tatoeba</a>
+    (CC-BY 2.0 FR). Code: <a href="https://github.com/komapc/ido-epo-llm">komapc/ido-epo-llm</a>.
+  </footer>
+</main>
+<script type="module">
+  const NAMES = { ido: "Ido", epo: "Esperanto" };
+  const EXAMPLES = [
+    ["ido", "Me volas lernar Ido nam ol esas facila."],
+    ["ido", "Ka vu parolas Esperanto?"],
+    ["ido", "La hundo kuras rapide en la parko."],
+    ["epo", "Mi ne scias, ĉu li venos morgaŭ."],
+    ["epo", "La urbo havas multajn belajn domojn."],
+  ];
+  const $ = (id) => document.getElementById(id);
+  let dir = ["ido", "epo"], ready = false, busy = false, reqId = 0;
+  const worker = new Worker("worker.js", { type: "module" });
+  const files = new Map();
+
+  function setStatus(msg, err = false) { $("status").textContent = msg; $("status").classList.toggle("err", err); }
+  function renderDir() { $("srcName").textContent = NAMES[dir[0]]; $("tgtName").textContent = NAMES[dir[1]]; }
+
+  function startLoad() {
+    $("load").disabled = true; $("prog").hidden = false;
+    setStatus("Downloading the model…");
+    worker.postMessage({ type: "load" });
+  }
+
+  worker.onmessage = ({ data }) => {
+    if (data.type === "progress") {
+      files.set(data.file, [data.loaded, data.total]);
+      let l = 0, t = 0; for (const [a, b] of files.values()) { l += a; t += b; }
+      $("pbar").value = t ? l / t : 0;
+      setStatus(`Downloading the model… ${(l / 1e6).toFixed(0)} / ${(t / 1e6).toFixed(0)} MB`);
+    } else if (data.type === "ready") {
+      ready = true; $("prog").hidden = true; $("load").hidden = true; $("go").hidden = false;
+      setStatus("Ready. Ctrl+Enter translates.");
+    } else if (data.type === "result") {
+      if (data.id !== reqId) return;
+      busy = false; $("go").disabled = false; $("out").value = data.text; setStatus("Ready.");
+    } else if (data.type === "error") {
+      busy = false; $("go").disabled = false; $("load").disabled = false;
+      setStatus("Error: " + data.message, true);
+    }
+  };
+
+  function translate() {
+    const text = $("src").value.trim();
+    if (!ready || busy || !text) return;
+    busy = true; $("go").disabled = true; setStatus("Translating…");
+    worker.postMessage({ type: "translate", id: ++reqId, text, src: dir[0], tgt: dir[1] });
+  }
+
+  $("load").onclick = startLoad;
+  $("go").onclick = translate;
+  $("src").addEventListener("keydown", (e) => { if (e.key === "Enter" && (e.ctrlKey || e.metaKey)) translate(); });
+  $("swap").onclick = () => {
+    dir = [dir[1], dir[0]]; renderDir();
+    if ($("out").value) { $("src").value = $("out").value; $("out").value = ""; }
+  };
+  for (const [lang, text] of EXAMPLES) {
+    const b = document.createElement("button"); b.textContent = text;
+    b.onclick = () => { dir = lang === "ido" ? ["ido", "epo"] : ["epo", "ido"]; renderDir();
+                        $("src").value = text; $("out").value = ""; translate(); };
+    $("examples").append(b);
+  }
+  renderDir();
+
+  // Auto-load when the model is already in the browser cache (a returning visitor).
+  try {
+    if ("caches" in self && (await caches.keys()).includes("transformers-cache")) {
+      const c = await caches.open("transformers-cache");
+      if ((await c.keys()).some((r) => r.url.includes("decoder_model_merged_quantized"))) startLoad();
+    }
+  } catch { /* cache API unavailable: wait for the button */ }
+</script>
+</body>
+</html>
