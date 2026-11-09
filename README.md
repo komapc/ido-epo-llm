@@ -73,9 +73,25 @@ GPU work runs on **Kaggle** (T4 x2, Save & Run All) or Colab, never EC2.
 vs. Apertium side by side. Ship only if the LLM wins (or wins on the subset
 where Apertium emits `*`/`#`).
 
+### Results (2026-11-09, clean split, 1000 real pairs)
+
+| | chrF | BLEU | chrF where Apertium fails (25%) |
+|---|---|---|---|
+| Apertium ido-epo (current) | 65.2 | 45.4 | 45.0 |
+| **NLLB-200 600M** | **73.4** | **53.9** | **66.9** |
+| Llama-3.2-3B QLoRA | 60.9 | 38.7 | 51.9 |
+
+NLLB wins in both directions (ido→epo 74.0 vs 68.3; epo→ido 72.7 vs 62.0), and it
+also wins on the inputs Apertium handles cleanly. Llama loses to Apertium and is
+dropped. The Kaggle predictions are in `eval/preds/`. To re-score:
+`python3 eval/eval_chrf.py --apertium --pred eval/preds/nllb-600m.jsonl`.
+
+**Published model:** [komapc/nllb-ido-epo-600m](https://huggingface.co/komapc/nllb-ido-epo-600m)
+(CC-BY-NC-4.0, with a usage snippet in the model card).
+
 ## Serving (deferred)
 
-When a model exists, add an `engine` field to the worker's `/api/translate`
+The NLLB model is published (see above) but not served yet. To serve it, add an `engine` field to the worker's `/api/translate`
 handler and fan out to whatever backend hosts the adapter (serverless GPU vs.
 hosted API decided then). The frontend already has room for a side-by-side
 compare UI to gather preference data for a later DPO pass.

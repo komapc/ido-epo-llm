@@ -8,3 +8,4 @@ train/outputs/
 *.zip
 ido-epo-lora/
 ido-epo-merged/
+models/
