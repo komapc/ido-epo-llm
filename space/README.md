@@ -33,5 +33,5 @@ EOF
 cp models/onnx-fp32/{config,generation_config}.json models/ido-epo-nllb-pruned/tokenizer*.json models/web/
 ```
 
-Measured on 2026-11-09 against `data/test.jsonl`, with greedy decoding in transformers.js 4.3.1 under Node:
+Measured on 2026-11-09 against `datasets/v1-io-eo/test.jsonl`, with greedy decoding in transformers.js 4.3.1 under Node:
 **chrF 73.0 / BLEU 53.3**. The full model with beam 4 scores 73.4 / 53.9. The download is 562 MB.

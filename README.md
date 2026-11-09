@@ -1,12 +1,28 @@
-# ido-epo-llm — dataset
+# ido-epo-llm — neural translation for Ido
 
-Ido↔Esperanto parallel data for fine-tuning a neural translation engine
-plus the pipeline that builds it (clone into the apertium-dev workspace as `llm/`).
-The current Apertium-based translator is live at [tradukilo.lipu.dev](https://tradukilo.lipu.dev/).
+Parallel data, training notebooks and evaluation for neural Ido translation
+(clone into the apertium-dev workspace as `llm/`). The first model is
+Ido↔Esperanto, [komapc/nllb-ido-epo-600m](https://huggingface.co/komapc/nllb-ido-epo-600m),
+served in the browser on [tradukilo.lipu.dev](https://tradukilo.lipu.dev/) next to Apertium.
 
-- `data/train.jsonl` — 34,813 instruction pairs (Tatoeba real ×3 weight + Apertium synthetic)
-- `data/val.jsonl`   — 1,002 real held-out pairs
-- `data/test.jsonl`  — 1,000 real held-out pairs (eval split)
+## Layout
+
+| path | what |
+|---|---|
+| `mtlib/` | shared code: paths, the language registry (`langs.py`: Tatoeba code ↔ NLLB token ↔ Apertium mode), chrF/BLEU |
+| `corpus/` | builders: Tatoeba pairs, Apertium synthetic pairs, the leakage-safe split; `cache/` and `out/` are local and gitignored |
+| `datasets/<name>/` | published splits; frozen once a published model used them ([list](datasets/README.md)) |
+| `eval/` | `eval_chrf.py` scorer; `preds/<dataset>/` model predictions |
+| `train/` | generator for `finetune_nllb.ipynb` |
+| `space/` | browser build (vocab pruning, ONNX) and the HF Space |
+
+Adding a language means a line in `mtlib/langs.py`; the pair builder, the scorer
+and the notebook generator take languages and datasets as arguments.
+
+Current dataset `datasets/v1-io-eo/`:
+- `train.jsonl` — 34,813 instruction pairs (Tatoeba real ×3 weight + Apertium synthetic)
+- `val.jsonl`   — 1,002 real held-out pairs
+- `test.jsonl`  — 1,000 real held-out pairs (eval split)
 
 Real pairs derive from [Tatoeba](https://tatoeba.org) (CC-BY 2.0 FR — attribution
 required). Synthetic pairs are high-precision Apertium ido-epo output (zero
@@ -25,12 +41,12 @@ fluency. If the LLM only ever matches Apertium, it isn't worth serving, so the
 There is essentially **no sentence-level IO↔EO parallel corpus in the world**,
 so we build one from three sources of decreasing trust:
 
-1. **Tatoeba** (`data/build_tatoeba_pairs.py`) — real human IO↔EO sentence
+1. **Tatoeba** (`corpus/build_tatoeba_pairs.py`) — real human IO↔EO sentence
    pairs, direct and pivoted (IO↔EN↔EO, IO↔fre↔EO, etc.). Small but the only
    ground truth. Used for the **held-out test/val split** and as high-weight
    training data. Never let synthetic data leak into eval.
 
-2. **Apertium-filtered synthetic** (`data/build_apertium_synthetic.py`) — run
+2. **Apertium-filtered synthetic** (`corpus/build_apertium_synthetic.py`) — run
    Apertium over iowiki/sourceswiki Ido text, keep **only** sentences whose
    translation contains zero `*` (unknown) and `#` (gen-fail) markers. This is
    high-precision weak supervision: bulk volume + grammaticality. It **caps the
@@ -41,7 +57,7 @@ so we build one from three sources of decreasing trust:
    Used to (a) inject relevant term hints into prompts and (b) sanity-filter
    synthetic pairs. Not training data on its own.
 
-`data/make_dataset.py` merges, deduplicates (by normalized source), holds out a
+`corpus/make_dataset.py` merges, deduplicates (by normalized source), holds out a
 real-pairs-only test/val split, and emits instruction-formatted jsonl.
 
 ### Instruction format
@@ -84,7 +100,7 @@ where Apertium emits `*`/`#`).
 NLLB wins in both directions (ido→epo 74.0 vs 68.3; epo→ido 72.7 vs 62.0), and it
 also wins on the inputs Apertium handles cleanly. Llama loses to Apertium and is
 dropped. The Kaggle predictions are in `eval/preds/`. To re-score:
-`python3 eval/eval_chrf.py --apertium --pred eval/preds/nllb-600m.jsonl`.
+`python3 eval/eval_chrf.py --apertium --pred eval/preds/v1-io-eo/nllb-600m.jsonl`.
 
 **Published model:** [komapc/nllb-ido-epo-600m](https://huggingface.co/komapc/nllb-ido-epo-600m)
 (CC-BY-NC-4.0, with a usage snippet in the model card).
@@ -100,28 +116,32 @@ compare UI to gather preference data for a later DPO pass.
 
 ## Run order
 ```bash
-python3 data/build_tatoeba_pairs.py      # → data/out/tatoeba_io_eo.jsonl
-python3 data/build_apertium_synthetic.py # → data/out/apertium_synth.jsonl
-python3 data/make_dataset.py             # → data/out/{train,val,test}.jsonl
+python3 corpus/build_tatoeba_pairs.py      # → corpus/out/tatoeba_ido_epo.jsonl (--src/--tgt for other pairs)
+python3 corpus/build_apertium_synthetic.py # → corpus/out/apertium_synth.jsonl
+python3 corpus/make_dataset.py             # → corpus/out/{train,val,test}.jsonl
 ```
 
-### Publish the dataset for Colab
-This repo is cloned into the apertium-dev workspace as `llm/` (the scripts
-resolve `apertium-ido-epo` etc. via `parents[1]`). The notebook `git clone`s
-this repo and reads `data/{train,val,test}.jsonl`. To refresh:
-```bash
-cp data/out/{train,val,test}.jsonl data/ && python3 data/check_split.py && git commit -am "dataset: refresh" && git push
-```
-Then open `finetune_colab.ipynb` on Colab (T4), run all cells → `preds.jsonl`.
+### Publish a dataset
+This repo is cloned into the apertium-dev workspace as `llm/` (`mtlib/paths.py`
+finds `apertium-ido-epo` as a sibling). The notebook `git clone`s this repo and
+reads `datasets/<DATASET>/{train,val,test}.jsonl`. A published dataset is never
+rebuilt in place; a new split gets a new directory (steps in
+[datasets/README.md](datasets/README.md)), then
+`DATASET=<name> python3 train/build_nllb_notebook.py` points the notebook at it.
+Reproducibility: with the Tatoeba dump cached in June 2026 and the
+`apertium_synth.jsonl` built then (both local, not committed), `corpus/make_dataset.py`
+writes `v1-io-eo` byte for byte. A fresh Apertium run gives different synthetic
+pairs, because the Apertium pair has changed since.
 
 ### Score the result
 ```bash
-python3 eval/eval_chrf.py --apertium --pred preds.jsonl   # LLM vs Apertium baseline
+python3 eval/eval_chrf.py --apertium --pred preds.jsonl   # LLM vs Apertium baseline (default dataset v1-io-eo)
 ```
 The scorer refuses preds whose `input`s don't line up row-by-row with
-`data/test.jsonl`, so predictions made on another split can't be scored by accident.
+the dataset's `test.jsonl`, so predictions made on another split can't be scored by accident.
 
-`python3 data/check_split.py` (also run in CI) fails if the published
-`data/{train,val,test}.jsonl` share any sentence text. Before 2026-09-26 the
+`python3 corpus/check_split.py` (also run in CI) fails if a published dataset's
+splits share any sentence text; CI also checks each dataset's `SHA256SUMS` and
+that the v1 predictions still score chrF 73.40. Before 2026-09-26 the
 committed split predated the union-find fix and ~90% of val/test texts were in
 train, so any model trained on it has inflated scores.
