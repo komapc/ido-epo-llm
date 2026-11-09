@@ -12,7 +12,7 @@ substituted for, the real Tatoeba pairs, and is excluded from eval downstream
 Source sentences are the Tatoeba monolingual dumps already cached by
 build_tatoeba_pairs.py (clean, no wikitext). Re-run that first.
 
-Output: data/out/apertium_synth.jsonl  (records like the Tatoeba builder).
+Output: corpus/out/apertium_synth.jsonl  (records like the Tatoeba builder).
 """
 from __future__ import annotations
 
@@ -20,13 +20,12 @@ import bz2
 import csv
 import json
 import subprocess
+import sys
 from pathlib import Path
 
-HERE = Path(__file__).resolve().parent
-CACHE = HERE / "cache"
-OUT = HERE / "out"
-REPO = HERE.parents[1]                      # apertium-dev/
-PAIR_DIR = REPO / "apertium-ido-epo"        # has modes/ + compiled .bin
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from mtlib.langs import APERTIUM_MODES, APERTIUM_PAIR_DIR as PAIR_DIR  # noqa: E402
+from mtlib.paths import CACHE, OUT  # noqa: E402
 
 # Cap per direction so synthetic doesn't drown the real data. EO has 800k+
 # sentences; we don't need them all.
@@ -93,8 +92,8 @@ def main() -> None:
         raise SystemExit(f"no Apertium pair at {PAIR_DIR}")
     total = 0
     with open(OUT / "apertium_synth.jsonl", "w", encoding="utf-8") as fh:
-        total += build_direction("ido", "epo", "ido-epo", fh)
-        total += build_direction("epo", "ido", "epo-ido", fh)
+        for (src, tgt), mode in APERTIUM_MODES.items():
+            total += build_direction(src, tgt, mode, fh)
     print(f"wrote {total} synthetic records to {OUT / 'apertium_synth.jsonl'}")
 
 

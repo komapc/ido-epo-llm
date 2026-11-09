@@ -10,8 +10,13 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+from mtlib.paths import DEFAULT_DATASET  # noqa: E402
 
-INTRO = """# Fine-tune NLLB-200 (600M) for Ido↔Esperanto
+# Split under datasets/ that the notebook trains and predicts on.
+DATASET = os.environ.get("DATASET", DEFAULT_DATASET)
+
+INTRO = f"""# Fine-tune NLLB-200 (600M) for Ido↔Esperanto
 
 Second candidate next to the Llama-3.2-3B QLoRA notebook (`finetune_colab.ipynb`).
 NLLB is a dedicated encoder-decoder MT model; it already knows Esperanto
@@ -28,8 +33,8 @@ Same data and same test split as the Llama notebook, so the scores compare 1:1.
 3. **Save Version → Save & Run All (Commit)**. ~2–3h.
 4. Output tab → download `preds.jsonl` (+ `ido-epo-nllb.zip`, the fp16 model).
 
-Score locally: `python3 eval/eval_chrf.py --apertium --pred preds.jsonl`
-(Apertium baseline on this test split: chrF 58.1 / BLEU 35.3).
+Dataset: `datasets/{DATASET}/` of the repo.
+Score locally: `python3 eval/eval_chrf.py --dataset {DATASET} --apertium --pred preds.jsonl`.
 
 License note: NLLB-200 weights are CC-BY-NC-4.0 (non-commercial).
 """
@@ -49,11 +54,11 @@ REPO_URL = "https://github.com/komapc/ido-epo-llm.git"
 REPO_DIR = "ido-epo-llm"
 if not os.path.isdir(REPO_DIR):
     subprocess.run(["git", "clone", "--depth", "1", REPO_URL], check=True)
-DATA_DIR = os.path.join(REPO_DIR, "data")
+DATA_DIR = os.path.join(REPO_DIR, "datasets", "%s")
 for split in ("train", "val", "test"):
     p = os.path.join(DATA_DIR, f"{split}.jsonl")
     assert os.path.exists(p), f"missing {p}"
-    print(split, sum(1 for _ in open(p)), "rows")""",
+    print(split, sum(1 for _ in open(p)), "rows")""" % DATASET,
 
     # 3 model + language token
     """import os, json, torch
@@ -178,7 +183,7 @@ with open("preds.jsonl", "w", encoding="utf-8") as f:
         f.write(json.dumps({"input": r["input"], "output": p}, ensure_ascii=False) + "\\n")
 for r, p in list(zip(test_rows, preds))[:4] + list(zip(test_rows, preds))[-4:]:
     print(f"[{r['src_lang']}->{r['tgt_lang']}] {r['input']}\\n  ref : {r['output']}\\n  pred: {p}\\n")
-print("wrote preds.jsonl — download it and run: python3 eval/eval_chrf.py --apertium --pred preds.jsonl")""",
+print("wrote preds.jsonl — download it and run: python3 eval/eval_chrf.py --dataset %s --apertium --pred preds.jsonl")""" % DATASET,
 ]
 
 
@@ -200,12 +205,12 @@ def build():
 
 
 def smoke():
-    """Run cells 3-7 on CPU against the local data/ dir (skips pip + git clone)."""
+    """Run cells 3-7 on CPU against the local datasets/<DATASET>/ dir (skips pip + git clone)."""
     os.environ["SMOKE"] = "1"
     workdir = Path(os.environ.get("SMOKE_DIR", "/tmp/nllb_smoke"))
     workdir.mkdir(parents=True, exist_ok=True)
     os.chdir(workdir)
-    g = {"DATA_DIR": str(ROOT / "data")}
+    g = {"DATA_DIR": str(ROOT / "datasets" / DATASET)}
     for i, src in enumerate(CELLS[2:], start=3):
         print(f"===== cell {i} =====", flush=True)
         exec(compile(src, f"cell{i}", "exec"), g)

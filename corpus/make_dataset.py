@@ -1,16 +1,21 @@
 #!/usr/bin/env python3
 """Merge sources into train/val/test jsonl for instruction fine-tuning.
 
-Inputs (data/out/):
-  tatoeba_io_eo.jsonl   real human pairs (provenance "tatoeba")
-  apertium_synth.jsonl  weak-supervision pairs (provenance "apertium_synth")
+Usage: python3 corpus/make_dataset.py [--real FILE ...] [--synthetic FILE ...]
+
+Inputs (corpus/out/, names relative to it):
+  --real       real human pairs (default tatoeba_ido_epo.jsonl, provenance "tatoeba")
+  --synthetic  weak-supervision pairs (default apertium_synth.jsonl)
+Outputs corpus/out/{train,val,test}.jsonl. Publishing is a separate, manual
+step (copy into a NEW datasets/<name>/ directory); an existing dataset is never
+overwritten, because published models were scored on it.
 
 Rules:
   * Normalize whitespace; drop empties, near-duplicates (by normalized src+tgt),
     and pairs with a leading "*" Tatoeba marker or wild length ratios.
   * Eval (val/test) is drawn ONLY from real DIRECT+pivot pairs — never
     synthetic — so the metric reflects true generalization vs Apertium.
-  * Output instruction format consumed by train/finetune_colab.ipynb:
+  * Output instruction format consumed by the training notebooks:
       {"instruction","input","output","src_lang","tgt_lang","provenance","weight"}
     Real pairs get weight 3, synthetic 1 (so the trainer can upweight real
     data by repetition or a weighted loss).
@@ -43,25 +48,23 @@ Split strategy — leakage-safe "units" via union-find over raw sentence text:
 """
 from __future__ import annotations
 
+import argparse
 import json
 import random
 import re
+import sys
 from collections import defaultdict
 from pathlib import Path
 
-HERE = Path(__file__).resolve().parent
-OUT = HERE / "out"
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from mtlib.langs import instruction  # noqa: E402
+from mtlib.paths import OUT  # noqa: E402
+
 SEED = 42
 VAL_N = 1000
 TEST_N = 1000
 MAX_LEN = 400          # chars; drop runaway sentences
 LEN_RATIO = 3.0        # drop pairs where one side is >3x the other
-
-INSTR = {
-    ("ido", "epo"): "Translate Ido to Esperanto:",
-    ("epo", "ido"): "Translate Esperanto to Ido:",
-}
-
 
 def norm(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
@@ -129,9 +132,13 @@ class UnionFind:
 
 
 def main() -> None:
+    ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
+    ap.add_argument("--real", nargs="+", default=["tatoeba_ido_epo.jsonl"])
+    ap.add_argument("--synthetic", nargs="*", default=["apertium_synth.jsonl"])
+    args = ap.parse_args()
     rng = random.Random(SEED)
-    tat = read(OUT / "tatoeba_io_eo.jsonl")
-    syn = read(OUT / "apertium_synth.jsonl")
+    tat = [r for name in args.real for r in read(OUT / name)]
+    syn = [r for name in args.synthetic for r in read(OUT / name)]
 
     tat, syn = clean(tat), clean(syn)
     print(f"after clean/dedup: tatoeba={len(tat)} synth={len(syn)}")
@@ -208,7 +215,7 @@ def main() -> None:
 
     def to_instruct(r):
         return {
-            "instruction": INSTR[(r["src_lang"], r["tgt_lang"])],
+            "instruction": instruction(r["src_lang"], r["tgt_lang"]),
             "input": r["src"], "output": r["tgt"],
             "src_lang": r["src_lang"], "tgt_lang": r["tgt_lang"],
             "provenance": r["provenance"], "weight": r.get("weight", 3),

@@ -1,6 +1,6 @@
-# Regeneratable — rebuild with data/*.py (see README run order)
-data/cache/
-data/out/
+# Regeneratable — rebuild with corpus/*.py (see README run order)
+corpus/cache/
+corpus/out/
 **/__pycache__/
 *.pyc
 # Training artifacts
