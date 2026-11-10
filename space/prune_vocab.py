@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
 """Shrink the NLLB vocabulary (256k tokens for 200 languages) to the tokens that
-Ido/Esperanto text actually uses, so the browser (transformers.js) build is small.
+text in the chosen languages actually uses, so the browser (transformers.js) build is small.
 
-Keeps: every token seen when tokenizing the IO/EO corpora below, every
+Keeps: every token seen when tokenizing the corpora below (published datasets,
+the cached Tatoeba sentences of each --langs language, the io.wiki word list), every
 single-character token outside CJK (so unseen words still tokenize, with no
 <unk>), the special and language tokens, and the closure under BPE merges.
 That closure makes the tokenization identical to the original's for any word
 whose final tokens were all kept.
 
-Usage: python prune_vocab.py SRC_MODEL_DIR OUT_DIR
+Usage: python prune_vocab.py SRC_MODEL_DIR OUT_DIR [--langs ido epo eng ...]
+The kept token set depends only on the tokenizer and the corpus, so models that share a
+tokenizer (e.g. the two halves of a split-decoder build) get identical new ids.
 """
+import argparse
 import bz2
 import json
 import sys
@@ -19,22 +23,31 @@ import torch
 from tokenizers import Tokenizer
 from transformers import AutoModelForSeq2SeqLM
 
-ROOT = Path(__file__).resolve().parents[2]
-SRC, OUT = Path(sys.argv[1]), Path(sys.argv[2])
-KEEP_SPECIAL = ["<s>", "<pad>", "</s>", "<unk>", "<mask>", "eng_Latn", "epo_Latn", "ido_Latn"]
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from mtlib.langs import LANGS  # noqa: E402
+from mtlib.paths import CACHE, DATASETS, WORKSPACE  # noqa: E402
+
+ap = argparse.ArgumentParser()
+ap.add_argument("src", type=Path)
+ap.add_argument("out", type=Path)
+ap.add_argument("--langs", nargs="+", default=["ido", "epo"])
+args = ap.parse_args()
+SRC, OUT = args.src, args.out
+# eng_Latn stays in for the io/eo build too (it was in the original keep list)
+KEEP_SPECIAL = ["<s>", "<pad>", "</s>", "<unk>", "<mask>"] + sorted(
+    {LANGS[l].nllb for l in args.langs} | {"eng_Latn"})
 
 
 def corpus():
-    data = ROOT / "llm" / "data"
-    for p in [*data.glob("*.jsonl"), *(data / "out").glob("*.jsonl")]:
+    for p in sorted(DATASETS.glob("*/*.jsonl")):
         for line in open(p, encoding="utf-8"):
             r = json.loads(line)
             yield r.get("input", ""); yield r.get("output", "")
-    for name in ("epo_sentences.tsv.bz2", "ido_sentences.tsv.bz2"):
-        with bz2.open(data / "cache" / name, "rt", encoding="utf-8") as f:
+    for lang in args.langs:
+        with bz2.open(CACHE / f"{lang}_sentences.tsv.bz2", "rt", encoding="utf-8") as f:
             for line in f:
                 yield line.rstrip("\n").split("\t")[-1]
-    freq = json.load(open(ROOT / "extractor" / "work" / "io_wiki_frequency.json"))
+    freq = json.load(open(WORKSPACE / "extractor" / "work" / "io_wiki_frequency.json"))
     for it in freq["items"]:
         w = it["token"]
         yield w; yield w[:1].upper() + w[1:]
