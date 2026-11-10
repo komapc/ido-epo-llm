@@ -1,0 +1,100 @@
+{"input": "Karin estas aŭstrino.", "ref": "Karin is Austrian.", "output": "Karin is Austrian."}
+{"input": "La linio dek du haltas proksime de la operejo.", "ref": "Route 12 stops near the opera house.", "output": "The line twelve stops near the opera house."}
+{"input": "Mi estas nur kliento.", "ref": "I'm only a customer.", "output": "I'm just a customer."}
+{"input": "Kial vi parolas pri li kvazaŭ li estus maljunulo?", "ref": "Why do you talk about him as if he were an old man?", "output": "Why do you talk about him like he's an old man?"}
+{"input": "Li devos iri al la stacidomo.", "ref": "He will have to go to the station.", "output": "He'll have to go to the station."}
+{"input": "Li estos hejme morgaŭ.", "ref": "He will be at home tomorrow.", "output": "He'll be home tomorrow."}
+{"input": "Ekzistas multaj bonaj kialoj por ne fari ĝin.", "ref": "There are many good reasons not to do it.", "output": "There are many good reasons not to do it."}
+{"input": "Jakitori estas japana manĝaĵo.", "ref": "Yakitori is a Japanese food.", "output": "Jakitori is a Japanese dish."}
+{"input": "Li superas ĉiujn je elokvento en la politika kampo.", "ref": "He is second to none in eloquence in the world of politics.", "output": "He is above everyone in political speech."}
+{"input": "Ŝi ne vidis lin dum longa tempo.", "ref": "She has not seen him for a long time.", "output": "She hasn't seen him in a long time."}
+{"input": "Kie regas konkordo, tie regas ordo.", "ref": "Where there's harmony, there's order.", "output": "Where there is harmony, there is order."}
+{"input": "Mi tiel parolis kun la intenco komplezi al li.", "ref": "I said so with a view to pleasing him.", "output": "I spoke in this way with the intention of pleasing him."}
+{"input": "Ŝi tre interesiĝas pri muziko.", "ref": "She has a great interest in music.", "output": "She's very interested in music."}
+{"input": "Mi ellitiĝis je la sepa horo.", "ref": "I got up at seven.", "output": "I got up at seven."}
+{"input": "Magio ludas gravan rolon en primitivaj socioj.", "ref": "Magic plays an important part in primitive society.", "output": "Magic plays an important role in primitive societies."}
+{"input": "La instruisto juste traktis ĉiujn lernantojn.", "ref": "The teacher treated all the students fairly.", "output": "The teacher treated all the students fairly."}
+{"input": "Tom ne havas iun ajn por diskuti siajn problemojn.", "ref": "Tom doesn't have anyone to discuss his problems with.", "output": "Tom has no one to discuss his problems with."}
+{"input": "Mi tre ŝatas bazopilkon.", "ref": "I like baseball very much.", "output": "I like baseball a lot."}
+{"input": "Mi ŝanĝis la enpaĝigon de mia paĝo.", "ref": "I've changed my website's layout.", "output": "I changed the layout of my page."}
+{"input": "Ĉu vi iam aŭdis ion tian?", "ref": "Have you ever heard of such a thing?", "output": "Have you ever heard anything like this?"}
+{"input": "La koro de Tom subite komencis bati pli rapide.", "ref": "Tom's heart suddenly began to beat faster.", "output": "Tom's heart suddenly started beating faster."}
+{"input": "Oni asignis al mi novan ĉambron.", "ref": "A new room was assigned to me.", "output": "I was assigned a new room."}
+{"input": "Prenu mezan pozicion en ĉio.", "ref": "Take a mean position in everything.", "output": "Take a middle ground in everything."}
+{"input": "Ĉu vi scias, kiun libron ŝi deziras legi?", "ref": "Do you know which book she wants to read?", "output": "Do you know what book she wants to read?"}
+{"input": "Tom devis restadi tri semajnojn en la malsanulejo.", "ref": "Tom had to stay in the hospital for three weeks.", "output": "Tom had to stay in the hospital for three weeks."}
+{"input": "Ne manĝu nur fiŝaĵon, sed ankaŭ viandon.", "ref": "Don't just eat fish. Eat some meat, too.", "output": "Don't just eat fish, but also meat."}
+{"input": "Lasu ŝin!", "ref": "Let her go!", "output": "Let her go!"}
+{"input": "Kie estas la fajroestingilo?", "ref": "Where is the fire extinguisher?", "output": "Where's the fire extinguisher?"}
+{"input": "Neniu povas ami lin.", "ref": "Nobody can love him.", "output": "No one can love him."}
+{"input": "Terpomfingroj ne bonas por vi.", "ref": "Potato chips are not good for you.", "output": "Potatoes aren't good for you."}
+{"input": "Poŝtoficejo estas antaŭ la stacidomo.", "ref": "There is a post office in front of the station.", "output": "A post office is in front of the station."}
+{"input": "Oni venenis Tomon.", "ref": "Tom was poisoned.", "output": "Tom was poisoned."}
+{"input": "Tomo ĉiam mensogas.", "ref": "Tom is always lying.", "output": "Tom always lies."}
+{"input": "Mi ne povas iri al la polico.", "ref": "I can't go to the police.", "output": "I can't go to the police."}
+{"input": "Li scipovas ripari komputilojn.", "ref": "He knows how to repair computers.", "output": "He can fix computers."}
+{"input": "Pli aŭ malpli baldaŭ oni scios tion.", "ref": "It'll be known sooner or later.", "output": "Sooner or later, we'll know."}
+{"input": "Mi devis mensogi denove.", "ref": "I had to lie again.", "output": "I had to lie again."}
+{"input": "Ne gravas, kio vi volas nomi min.", "ref": "It's not important to me what you decide to call me.", "output": "It doesn't matter what you want to call me."}
+{"input": "Hieraŭ mi foriris de la domo sen matenmanĝi.", "ref": "I left home without having breakfast yesterday.", "output": "I left the house yesterday without having breakfast."}
+{"input": "Estas en ordo, gardu vian tempon, mi ne volas fortiri vin de via laboro.", "ref": "That's okay, take your time, I don't want to distract you from your work.", "output": "It's okay, take your time, I don't want to force you from your job."}
+{"input": "Mi estas leganta tiun ĉi frazon.", "ref": "I am reading this sentence.", "output": "I'm reading this sentence."}
+{"input": "Mi sincere petas pardonon.", "ref": "I sincerely apologize.", "output": "I sincerely apologize."}
+{"input": "Ĉu vi havas televidilon?", "ref": "Do you have a TV?", "output": "Do you have a TV?"}
+{"input": "Vi estas pigra.", "ref": "You're lazy.", "output": "You are lazy."}
+{"input": "Mi iros ĉiuokaze.", "ref": "I'll go no matter what.", "output": "I'll go anyway."}
+{"input": "Ĉu vi disponas dorlotbeston?", "ref": "Do you have a pet?", "output": "Do you have a pet?"}
+{"input": "Eĉ Tomo ne farus tion.", "ref": "Even Tom wouldn't do that.", "output": "Even Tom wouldn't do that."}
+{"input": "Tom abomenis la ideon.", "ref": "Tom hated the idea.", "output": "Tom abhorred the idea."}
+{"input": "Tom diris, ke mi foriru.", "ref": "Tom said that I should leave.", "output": "Tom said I should leave."}
+{"input": "Tomo ne kapablis diri la tempon, ĝis li estis dektrijara.", "ref": "Tom couldn't tell time until he was thirteen.", "output": "Tom couldn't tell the time until he was thirteen."}
+{"input": "Nu, kiu estas ŝia nomo?", "ref": "Come on, what's her name?", "output": "Well, what's her name?"}
+{"input": "Ŝi havas du braceletojn sur sia dekstra brako.", "ref": "She has two bangles on her right arm.", "output": "She has two bracelets on her right arm."}
+{"input": "Vi probable estas malsata.", "ref": "You're probably hungry.", "output": "You're probably hungry."}
+{"input": "Mi pardonpetu.", "ref": "I have to say that I'm sorry.", "output": "I'm sorry about that."}
+{"input": "Odiseo petis, ke liaj viroj ligu lin al la masto.", "ref": "Ulysses asked his men to tie him to the mast.", "output": "Odysseus asked his men to tie him to the mast."}
+{"input": "Ankaŭ ekzistas landoj, kie la libero esprimi sian opinion estas limigata.", "ref": "There are also countries in which freedom of speech is limited.", "output": "There are also countries where the freedom to express their opinion is restricted."}
+{"input": "Mi vizitos vin ĉiun duan lundon.", "ref": "I'll visit you every other Monday.", "output": "I'll visit you every Monday."}
+{"input": "La ora regulo estas, ke ne ekzistas ora regulo.", "ref": "The golden rule is that there is no golden rule.", "output": "The golden rule is that there is no golden rule."}
+{"input": "Tomo estas tre enuiga.", "ref": "Tom is very annoying.", "output": "Tom is very boring."}
+{"input": "Tomo estis tute senmona.", "ref": "Tom was dead broke.", "output": "Tom was completely cashless."}
+{"input": "Ju pli baldaŭ ili foriros des pli bone.", "ref": "The sooner they leave, the better.", "output": "The sooner they leave, the better."}
+{"input": "Ĉu vi vere povas kulpigi ŝin?", "ref": "Can you really blame her?", "output": "Can you really blame her?"}
+{"input": "Ni vivas kun ili.", "ref": "We live with them.", "output": "We live with them."}
+{"input": "Tiu KD estas ŝia.", "ref": "This CD is hers.", "output": "This CD is hers."}
+{"input": "Ĉi tiu estas la dua fojo, ke mi alvenis al Ĉinio memstare.", "ref": "This is the second time I have arrived in China on my own.", "output": "This is the second time I have come to China on my own."}
+{"input": "Kiam vi spektis televidon lastafoje?", "ref": "When was the last time you watched TV?", "output": "When was the last time you watched TV?"}
+{"input": "Kiom da edziĝofestoj vi ĉeestis?", "ref": "How many weddings have you been to?", "output": "How many weddings have you been to?"}
+{"input": "Ni provu fari ion.", "ref": "Let's try to do something.", "output": "Let's try to do something."}
+{"input": "Ĝi estas tro malfacila!", "ref": "It's too difficult.", "output": "It's too difficult!"}
+{"input": "Kiam vi estis en Aŭstralio?", "ref": "When were you in Australia?", "output": "When were you in Australia?"}
+{"input": "Ŝi tre volas vidi vin.", "ref": "She really wants to see you.", "output": "She wants to see you very much."}
+{"input": "Mi ne ŝatas mensogi.", "ref": "I don't like to lie.", "output": "I don't like to lie."}
+{"input": "Estingu la cigaredon! Fumi ĉi tie estas malpermesite.", "ref": "Put out your cigarette. Smoking's not permitted here.", "output": "Turn off the cigarette! Smoking is forbidden here."}
+{"input": "Parapsiĥologio estas pseŭdoscienco.", "ref": "Parapsychology is a pseudoscience.", "output": "Parapsychology is pseudoscience."}
+{"input": "La gepardo estas la plej rapida besto.", "ref": "The cheetah is the fastest animal.", "output": "The cheetah is the fastest animal."}
+{"input": "Kiel mi povas lerni la francan?", "ref": "How can I learn French?", "output": "How can I learn French?"}
+{"input": "Mi lernas la sardan.", "ref": "I'm learning Sardinian.", "output": "I'm learning Sardinian."}
+{"input": "Ĉu vi sukcesis ŝaklude venki Tomon?", "ref": "Did you manage to beat Tom at chess?", "output": "Did you manage to beat Tom on a chess game?"}
+{"input": "Tio igis min hontgrimaci.", "ref": "It made me cringe.", "output": "It made me smile."}
+{"input": "Oni ne povas manĝi esperon.", "ref": "You can't eat hope.", "output": "You can't eat hope."}
+{"input": "La rado deiĝis.", "ref": "The wheel came off.", "output": "The wheel was spinning."}
+{"input": "Kial vi tiel portis al ni katastrofon?", "ref": "Why did you bring calamity to us in this way?", "output": "Why have you brought us such a disaster?"}
+{"input": "Ĉi tiu skatolo estas tre peza.", "ref": "This box is very heavy.", "output": "This box is very heavy."}
+{"input": "Mi certe scias, ke Tomo ne volus fari tion.", "ref": "I'm sure Tom wouldn't want to do that.", "output": "I'm sure Tom wouldn't want to do that."}
+{"input": "Tomo kaj Manjo ĉiam estas hejme kun la infanoj.", "ref": "Tom and Mary are always home with the kids.", "output": "Tom and Mary are always at home with the children."}
+{"input": "Ĉu iam iu proksima al vi mortigis sin mem?", "ref": "Has anyone close to you ever committed suicide?", "output": "Has anyone close to you ever killed himself?"}
+{"input": "Butikŝtelado ne estas malbona.", "ref": "Shoplifting is OK.", "output": "Shoplifting is not bad."}
+{"input": "Mi sopiras pri li.", "ref": "I miss him.", "output": "I miss him."}
+{"input": "La suno blindigas.", "ref": "The sun is blinding.", "output": "The sun is blinding."}
+{"input": "Li ne estas sola.", "ref": "He's not alone.", "output": "He's not alone."}
+{"input": "Oni ne povas transvivi sen mono.", "ref": "You can't survive without money.", "output": "You can't survive without money."}
+{"input": "Ŝi permesis al mi stiri sian aŭton.", "ref": "She let me drive her car.", "output": "She allowed me to drive her car."}
+{"input": "Mia ĉefo neniam invitis min al sia domo.", "ref": "My boss has never invited me to her house.", "output": "My boss never invited me to his house."}
+{"input": "Legu malrapide.", "ref": "Read slowly.", "output": "Read slowly."}
+{"input": "Falkoj estas rabobirdoj.", "ref": "Falcons are birds of prey.", "output": "Falcons are birds of prey."}
+{"input": "Ĝi estas tro multekosta por mi.", "ref": "It's too expensive for me.", "output": "It's too expensive for me."}
+{"input": "Dankon, tio fakte sukcesis!", "ref": "Thanks, that actually worked!", "output": "Thank you, it actually worked!"}
+{"input": "Pli facilas skribi malĝustan programon ol kompreni ĝustan.", "ref": "It is easier to write an incorrect program than understand a correct one.", "output": "It's easier to write the wrong program than to understand the right one."}
+{"input": "Multaj judoj mortis pro kovimo, kiel ĉiuj aliaj. La samo veras pri ĉinoj.", "ref": "A lot of Jews died of COVID, like everyone else. The same is true of Chinese people.", "output": "Many Jews died of covid, like all others. The same is true of Chinese."}
+{"input": "Ĉu vi povas plenigi ĉi tiun formularon por ni?", "ref": "Can you fill this form out for us?", "output": "Can you fill out this form for us?"}

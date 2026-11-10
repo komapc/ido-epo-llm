@@ -1,0 +1,7 @@
+base keys 512 ours keys 509
+decoder  params=  151.2M  rel|Δ|=0.0191  share of Δ²=0.004
+encoder  params=  201.6M  rel|Δ|=0.0184  share of Δ²=0.005
+embed    params=  262.4M  rel|Δ|=0.2509  share of Δ²=0.990
+encoder rank for 90% of Δ energy / full: median 0.298 min 0.149 max 0.599 n 120
+decoder rank for 90% of Δ energy / full: median 0.263 min 0.182 max 0.546 n 120
+

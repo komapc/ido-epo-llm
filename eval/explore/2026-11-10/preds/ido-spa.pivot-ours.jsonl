@@ -1,0 +1,114 @@
+{"input": "Altra mondo esas posibla.", "ref": "Otro mundo es posible.", "output": "Ultra mondo es posible."}
+{"input": "Altra mondo posiblesas.", "ref": "Otro mundo es posible.", "output": "Ultra mondo es posible."}
+{"input": "Betty mortigis il.", "ref": "Betty lo mató.", "output": "Beti lo ocidis."}
+{"input": "Ca piro esas verda.", "ref": "Esta pera está verde.", "output": "Ica piro es verda."}
+{"input": "Chanjez la flago.", "ref": "Cambiá la bandera.", "output": "Chanjez la bandera."}
+{"input": "Chao!", "ref": "¡Chau!", "output": "O!"}
+{"input": "Deo esas floro.", "ref": "Dios es una flor.", "output": "Deo esas floro."}
+{"input": "Deo esas omnaloke.", "ref": "Dios está en todas partes.", "output": "Deo esas omnaloke."}
+{"input": "Deo ne es real.", "ref": "Dios no es real.", "output": "Deo ne esas reala."}
+{"input": "Donez exemplo a me.", "ref": "Dame un ejemplo.", "output": "Donez un exemplo a me."}
+{"input": "El havas bela kulo.", "ref": "Ella tiene un buen culo.", "output": "El havas bela kulo."}
+{"input": "Esis nokto.", "ref": "Era de noche.", "output": "Esis nokto."}
+{"input": "Forsan pose.", "ref": "Quizá más tarde.", "output": "Posiblemente."}
+{"input": "Homi mentias.", "ref": "La gente miente.", "output": "La homi mentias."}
+{"input": "Hundi esas amuzanta.", "ref": "Los perros son divertidos.", "output": "Hundi es amuziva."}
+{"input": "Il falis en la rivero.", "ref": "Se cayó al río.", "output": "Il falis en la rivero."}
+{"input": "Il havas bela kulo.", "ref": "Tiene un lindo culo.", "output": "Il havas bela kulo."}
+{"input": "Ili es mea kuzuli.", "ref": "Son mis primos.", "output": "Esas mea kuzini."}
+{"input": "Ka la vetero es pluvoza?", "ref": "¿Está lluvioso?", "output": "Ka la vetero es pluvoza?"}
+{"input": "Ka me es kato?", "ref": "¿Soy un gato?", "output": "Ka me esas kato?"}
+{"input": "Ka pluvas?", "ref": "¿Llueve?", "output": "Ka pluvas?"}
+{"input": "Ka tu odias me?", "ref": "¿Me odias?", "output": "Ka tu odias me?"}
+{"input": "Ka tu prizas nivo?", "ref": "¿Le gusta a usted la nieve?", "output": "Ka tu prizas la nivo?"}
+{"input": "Kande?", "ref": "¿Cuando?", "output": "Kande?"}
+{"input": "Kati es animali.", "ref": "Los gatos son animales.", "output": "La kati esas animali."}
+{"input": "L'amoro chanjas omno.", "ref": "El amor lo cambia todo.", "output": "La amoro chanjas omno."}
+{"input": "L'uceli es reda.", "ref": "Los pájaros son rojos.", "output": "La uceli es reda."}
+{"input": "La arbori esas verda.", "ref": "Los árboles son verdes.", "output": "Los arbori es verda."}
+{"input": "La giganto vekis!", "ref": "¡El gigante se despertó!", "output": "La gigante vekeskis!"}
+{"input": "La hundo flatuis.", "ref": "El perro se tiró un pedo.", "output": "La hundo flatuar."}
+{"input": "La kati odias aquo.", "ref": "Los gatos odian el agua.", "output": "La kati odias aquo."}
+{"input": "La kati odias l'aquo.", "ref": "Los gatos odian el agua.", "output": "La kati odias aquo."}
+{"input": "La milito esas mala.", "ref": "La guerra es mala.", "output": "La milito esas mala."}
+{"input": "La muliero esas nuda.", "ref": "La mujer está desnuda.", "output": "La muliero esas nuda."}
+{"input": "La ondi esas alta.", "ref": "Las olas están altas.", "output": "La ondi esas alta."}
+{"input": "La vetero es sunoza.", "ref": "Está soleado.", "output": "La vetero esas sunniza."}
+{"input": "Liberigez Katalunia!", "ref": "¡Liberad a Cataluña!", "output": "Liberigez la Kataluniana!"}
+{"input": "Manjez la pano!", "ref": "¡Cómete el pan!", "output": "Manjez la pano!"}
+{"input": "Maria ne esas malada.", "ref": "María no está enferma.", "output": "Mary ne es malada."}
+{"input": "Maria ne maladesas.", "ref": "María no está enferma.", "output": "Mary ne es malada."}
+{"input": "Mary es autismoza.", "ref": "Mary es autista.", "output": "Mary es autismoza."}
+{"input": "Me amas Tatoeba.", "ref": "Amo a Tatoeba.", "output": "Me prizas Tatoeba."}
+{"input": "Me amas l'oranji!", "ref": "¡Me encantan las naranjas!", "output": "Me prizas oranji!"}
+{"input": "Me esas Vikingo.", "ref": "Yo soy un vikingo.", "output": "Me esas un vikingo."}
+{"input": "Me esas danjeroza.", "ref": "Soy peligrosa.", "output": "Me es danjeroza."}
+{"input": "Me esas fatigita nun.", "ref": "Ahora estoy cansado.", "output": "Me esas fatigita nun."}
+{"input": "Me esas tu.", "ref": "Soy tú.", "output": "Me esas tu."}
+{"input": "Me esas tua rejulo.", "ref": "Soy tu rey.", "output": "Me es tua rejo."}
+{"input": "Me esis en Paris.", "ref": "Estuve en París.", "output": "Me esis en Paris."}
+{"input": "Me esis nuda.", "ref": "Estaba desnudo.", "output": "Me esis nuda."}
+{"input": "Me habitis en Alaska.", "ref": "Vivía en Alaska.", "output": "Me habitis en Alaska."}
+{"input": "Me ilun mortigos.", "ref": "Le mataré.", "output": "Me mortigos il."}
+{"input": "Me lektas libro.", "ref": "Leo un libro.", "output": "Me lektas libro."}
+{"input": "Me mortigos il.", "ref": "Le mataré.", "output": "Me mortigos il."}
+{"input": "Me mortigos ilu.", "ref": "Le mataré.", "output": "Me mortigos il."}
+{"input": "Me mortigos tu.", "ref": "Te mataré.", "output": "Me matarás tu."}
+{"input": "Me mustas vidar ol.", "ref": "Yo debo verlo.", "output": "Me mustas vidar ol."}
+{"input": "Me ne esas kato.", "ref": "No soy un gato.", "output": "Me ne esas kato."}
+{"input": "Me ne esas katulo.", "ref": "No soy un gato.", "output": "Me ne esas kato."}
+{"input": "Me ne esas kurajoza.", "ref": "No soy valiente.", "output": "Me ne es valiente."}
+{"input": "Me ne prizas ito.", "ref": "Eso no me gusta.", "output": "Me ne prizas to."}
+{"input": "Me ne prizas sablo.", "ref": "No me gusta la arena.", "output": "Me ne prizas la sablo."}
+{"input": "Me ne questionis.", "ref": "Yo no pregunté.", "output": "Me ne questionis."}
+{"input": "Me ne savas.", "ref": "No sé.", "output": "Me ne savas."}
+{"input": "Me odias ed amas.", "ref": "Odio y amo.", "output": "Me odias e amas."}
+{"input": "Me povas venar.", "ref": "Puedo venir.", "output": "Me povas venar."}
+{"input": "Me prizas kavali.", "ref": "Me gustan los caballos.", "output": "Me prizas kavali."}
+{"input": "Me regardas televisiono.", "ref": "Estoy viendo la televisión.", "output": "Me regardas la televidio."}
+{"input": "Me savas tua nomo.", "ref": "Yo sé tu nombre.", "output": "Me konocas tua nomo."}
+{"input": "Me vidas jirafo.", "ref": "Estoy viendo una jirafa.", "output": "Me vidas jirafo."}
+{"input": "Me volas kisar tu.", "ref": "Quiero besarte.", "output": "Me volas kisar tu."}
+{"input": "Mea hundo miaulas.", "ref": "Mi perro hace miau.", "output": "Mea hundo miaulas."}
+{"input": "Mea kati amas me.", "ref": "Mis gatos me quieren.", "output": "Mea kati amas me."}
+{"input": "Ne vartez.", "ref": "No esperes.", "output": "No vartez."}
+{"input": "Ni havas la sama evo.", "ref": "Tenemos la misma edad.", "output": "Ni esas la sama evo."}
+{"input": "Ni omna mortos.", "ref": "Todos morimos.", "output": "Ni mortaremos."}
+{"input": "Ni skribis multe.", "ref": "Escribíamos mucho.", "output": "Ni skribis multa."}
+{"input": "Nivis en Ierusalem.", "ref": "Nevó en Jerusalén.", "output": "Niveskis en Israel."}
+{"input": "Noruz felica!", "ref": "¡Feliz Nouruz!", "output": "Feliz Noruego!"}
+{"input": "Nulu es ferpekta.", "ref": "Nadie es ferpecto.", "output": "Nulu es desvelala."}
+{"input": "Nun me sentas ol.", "ref": "Ahora lo siento.", "output": "Me lo sentas."}
+{"input": "Ok plus du esas dek.", "ref": "Ocho más dos son diez.", "output": "Ocho plus du esas dek."}
+{"input": "Omni mortos.", "ref": "Todo el mundo muere.", "output": "Omni mortos."}
+{"input": "Omno esas logikoza.", "ref": "Todo es lógico.", "output": "To es logico."}
+{"input": "Parolez plu laute!", "ref": "Habla más fuerte.", "output": "Parolez plu laute!"}
+{"input": "Parolez plu laute.", "ref": "Habla más fuerte.", "output": "Parolez plu laute."}
+{"input": "Por qua tu laboras?", "ref": "¿Por quién trabajas?", "output": "Por qua tu laboras?"}
+{"input": "Qua esas Peter?", "ref": "¿Quién es Pedro?", "output": "Qua es Peter?"}
+{"input": "Qua?", "ref": "¿Quién?", "output": "Qua?"}
+{"input": "Quala bela floro!", "ref": "¡Qué bella flor!", "output": "Quala bela floro!"}
+{"input": "Quala bela gambi!", "ref": "¡Qué bellas piernas!", "output": "Quala bela gambi!"}
+{"input": "Quala bela gardeno!", "ref": "Qué hermoso jardín.", "output": "Quala bela gardeno!"}
+{"input": "Quo es libereso?", "ref": "¿Qué es la libertad?", "output": "Quo es la liberadozo?"}
+{"input": "Quo es pandemio?", "ref": "¿Qué es una pandemia?", "output": "Quo es pandemia?"}
+{"input": "Quo esas feliceso?", "ref": "¿Qué es la felicidad?", "output": "Quo es feliceso?"}
+{"input": "Quo esas libereso?", "ref": "¿Qué es la libertad?", "output": "Quo es la liberadozo?"}
+{"input": "Quo esas pandemio?", "ref": "¿Qué es una pandemia?", "output": "Quo es pandemia?"}
+{"input": "Quon tu regardas?", "ref": "¿Qué estás mirando?", "output": "Quon tu regardas?"}
+{"input": "Quon vi regardas?", "ref": "¿Qué estáis mirando?", "output": "Quon tu regardas?"}
+{"input": "Quon vu regardas?", "ref": "¿Qué está mirando?", "output": "Quon tu regardas?"}
+{"input": "Til rivido!", "ref": "Hasta la vista.", "output": "A adeo!"}
+{"input": "To esas surprizo.", "ref": "Es una sorpresa.", "output": "Esas surprizo."}
+{"input": "To eventas kelkfoye.", "ref": "Eso pasa a veces.", "output": "To sucesas kelkafoye."}
+{"input": "To ne esas herbo.", "ref": "Eso no es hierba.", "output": "To ne esas herbo."}
+{"input": "To ne esas muzeo.", "ref": "Eso no es un museo.", "output": "To ne esas muzeo."}
+{"input": "Tom esas nuda.", "ref": "Tom está desnudo.", "output": "Tom es desvestita."}
+{"input": "Tom ne esas kato.", "ref": "Tom no es un gato.", "output": "Tom ne esas kato."}
+{"input": "Tom vidis jirafo.", "ref": "Tom vio una jirafa.", "output": "Tom vi-"}
+{"input": "Tom volas kurar.", "ref": "Tom quiere correr.", "output": "Tom volas kurar."}
+{"input": "Tu importas.", "ref": "Tú importas.", "output": "Tu importas."}
+{"input": "Ube tu volas habitar?", "ref": "¿Dónde querés vivir?", "output": "Ube tu volas habitar?"}
+{"input": "Ube vu volas habitar?", "ref": "¿Dónde quiere vivir usted?", "output": "Ube tu volas habitar?"}
+{"input": "Vivez la libereso!", "ref": "¡Viva la libertad!", "output": "Vivez la liberado!"}
+{"input": "Vu aspektas stupida.", "ref": "Pareces estúpido.", "output": "Vu semblas stulta."}

@@ -1,0 +1,9 @@
+seen tokens 8628
+rel change seen 0.04448222741484642 unseen 0.26082560420036316
+tied: True
+   e.g. ['Otra mondo es posible.', 'Otra mondo es posible.', 'Betty mató el.']
+ours {'ido-spa': 32.3, 'epo-spa': 22.4, 'ido-deu': 70.0, 'v1 ido-epo': 73.4, 'v1 epo-ido': 73.2}
+   e.g. ['Otro mundo es posible.', 'Otro mundo es posible.', 'Betty mató el.']
+restore-unseen {'ido-spa': 42.1, 'epo-spa': 30.9, 'ido-deu': 75.5, 'v1 ido-epo': 73.4, 'v1 epo-ido': 70.9}
+   e.g. ['Otro mundo es posible.', 'Otro mundo es posible.', 'Betty mató el.']
+restore-all-but-ido {'ido-spa': 46.2, 'epo-spa': 29.8, 'ido-deu': 74.4, 'v1 ido-epo': 73.6, 'v1 epo-ido': 71.3}
