@@ -84,5 +84,8 @@ per pass on CPU (Ido↔X rows are the exploration sets, which overlap v1 val; no
 | eng / spa / fra / deu → ido, via epo | – | **75.4 / 79.2 / 78.8 / 79.2** |
 
 Download: 612 MB for Ido→any (encoder + one decoder), 987 MB for both directions.
-Not published yet; the tradukilo worker would need to load the two decoders against one
-cached encoder.
+Published as [komapc/nllb-ido-multi-onnx](https://huggingface.co/komapc/nllb-ido-multi-onnx).
+The HF layout uses folders instead of the views: `onnx/` = encoder + read decoder, `onnx_ido/` =
+Ido decoder + a 327-byte placeholder encoder from `space/make_stub_encoder.py`, so transformers.js
+loads `onnx_ido/` with `subfolder: "onnx_ido"` and the app points its encoder session at the real
+one (usage in the model card; checked under Node: identical output to `view-write`).
