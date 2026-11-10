@@ -1,0 +1,11 @@
+seen tokens 8628
+rel change seen 0.04448222741484642 unseen 0.26082560420036316
+tied: True
+   e.g. ['Otro mundo es posible.', 'Otro mundo es posible.', 'Betty lo mató.']
+blend-0.5 {'ido-spa': 73.4, 'epo-spa': 64.9, 'ido-deu': 78.4, 'v1 ido-epo': 73.1, 'v1 epo-ido': 49.3}
+   e.g. ['Otro mundo es posible.', 'Otro mundo es posible.', 'Betty mató a él.']
+blend-0.75 {'ido-spa': 68.4, 'epo-spa': 59.6, 'ido-deu': 78.5, 'v1 ido-epo': 74.1, 'v1 epo-ido': 64.6}
+   e.g. ['Otro mundo es posible.', 'Otro mundo es posible.', 'Betty mató a él.']
+blend-0.9 {'ido-spa': 57.5, 'epo-spa': 46.3, 'ido-deu': 76.2, 'v1 ido-epo': 73.6, 'v1 epo-ido': 70.2}
+enc1-dec0 {'ido-spa': 77.1, 'epo-spa': 64.7, 'ido-deu': 82.1, 'v1 ido-epo': 75.1, 'v1 epo-ido': 18.7}
+enc1-dec0.5 {'ido-spa': 75.1, 'epo-spa': 62.5, 'ido-deu': 79.2, 'v1 ido-epo': 74.5, 'v1 epo-ido': 52.6}

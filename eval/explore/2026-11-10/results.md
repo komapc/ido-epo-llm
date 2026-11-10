@@ -42,10 +42,12 @@ Predictions are in `preds/`, inputs in `sets/`.
 1. **Into Ido works from every language, zero-shot** (chrF 68–76), and pivoting
    through Esperanto inside our own model is even better (73–80). No training needed
    for X→Ido.
-2. **Out of Ido, the fine-tune forgot how to write languages close to Ido.**
-   Esperanto→Spanish fell from 68.9 to 22.5 (French −26, German −24, English −7).
-   The output drifts into Ido/Esperanto ("Otra mondo es posible."). English and
-   German survive zero-shot from Ido (73.0 / 66.6); Spanish and French do not (31.2 / 59.9).
+2. **Out of Ido / Esperanto, the fine-tune forgot every target except English.**
+   Esperanto→X vs base: Spanish 68.9→22.5, French 67.1→40.7, German 69.6→45.5,
+   English 72.8→65.4. The failure differs by language: Spanish outputs copy the
+   input (51% of ido→spa outputs have chrF ≥ 60 against the *input*), French mixes in
+   Ido words ("Tu aurais pu esar felica"), German loses quality and 2/100 outputs fall
+   into repetition loops (without them: 49.6, still −20).
 3. **Two models work today:** ours for ido→epo, base NLLB for epo→X gives 72–81
    for all four languages, but costs a second ~600 MB model.
 
@@ -54,12 +56,39 @@ Predictions are in `preds/`, inputs in `sets/`.
 99% of the squared weight change is in the shared embedding matrix (tied with the
 output projection; relative change 25% vs ~2% in the encoder/decoder layers). Rows of
 tokens that never occur in v1 train moved 26%, rows of seen tokens 4%: the softmax
-gradient touches every vocabulary row and Adafactor scales those tiny gradients up.
+gradient touches every vocabulary row; that the optimizer (Adafactor, wd 0.01) amplifies those
+tiny gradients is a hypothesis, not measured.
 
 ### Can it be undone without training? Partly (`embedding_surgery.py`, `.log`)
 
 Putting base rows back for the 247k tokens unseen in v1 train: ido→deu 70.0→75.5,
 ido→spa 32.3→42.1, epo→spa 22.4→30.9, v1 ido→epo unchanged (73.4), v1 epo→ido 73.2→70.9
-(first 60/100 rows only). Spanish stays far below the two-model pivot (72.5), so the
-encoder/decoder layers are also biased toward Ido for Romance targets. Retraining with
-replay data (and frozen/restored unseen embedding rows) is needed for a single model.
+(first 60/100 rows only). Both Spanish and German improve, neither recovers (two-model pivot: 72.5 / 81.1),
+so the encoder/decoder layers are damaged too. Restoring *all* embeddings except
+`ido_Latn` costs ~0 on ido→epo and ~2 on epo→ido: v2 can freeze embeddings almost for free.
+A single model needs retraining with replay data; its gate must include this
+epo→X forgetting check, not only the v1 io↔eo test. Differences of 1–2 chrF at
+n = 100–200 are noise.
+
+### Reading vs writing Ido (`body_blend.py`, `body_blend.log`)
+
+Embeddings = base + our `ido_Latn` row; encoder/decoder layers = base + α·(ours − base),
+same small sets as above (60 rows per X, 100 per v1 direction; exploration only):
+
+| variant | ido→spa | epo→spa | ido→deu | v1 ido→epo | v1 epo→ido |
+|---|---|---|---|---|---|
+| ours (v1) | 32.3 | 22.4 | 70.0 | 73.4 | 73.2 |
+| α = 0.5 | 73.4 | 64.9 | 78.4 | 73.1 | 49.3 |
+| α = 0.75 | 68.4 | 59.6 | 78.5 | 74.1 | 64.6 |
+| α = 0.9 | 57.5 | 46.3 | 76.2 | 73.6 | 70.2 |
+| **encoder ours, decoder base** | **77.1** | 64.7 | **82.1** | **75.1** | 18.7 |
+| encoder ours, decoder α = 0.5 | 75.1 | 62.5 | 79.2 | 74.5 | 52.6 |
+
+**Reading Ido lives in the encoder; writing Ido lives in the decoder, and the decoder
+change is what destroyed the other targets.** Our encoder with the untouched base decoder
+translates Ido into every language tested (ido→epo included) at least as well as the
+two-model pivot, while only our decoder can write Ido. Consequences:
+- one package with shared embeddings (base + `ido_Latn`), our encoder and two decoders
+  (base for Ido→X, ours for X→Ido) is ~770M parameters instead of two 615M models;
+- for v2 training: Ido-as-source data only needs the encoder; Ido-as-target data needs
+  the decoder, and that is where replay of other targets is required.
