@@ -1,0 +1,100 @@
+{"input": "¿Dónde has estado hasta ahora?", "ref": "Kie vi estis ĝis nun?", "output": "Kie vi estis ĝis nun?"}
+{"input": "Buenas tardes, ¿cómo está?", "ref": "Bonan vesperon, kiel vi fartas?", "output": "Bonan nokton, kiel vi fartas?"}
+{"input": "El cielo se está nublando.", "ref": "La ĉielo nubiĝas.", "output": "La ĉielo estas nuboza."}
+{"input": "Ya no vive aquí.", "ref": "Ŝi ne plu loĝas ĉi tie.", "output": "Vi ne plu vivas tie ĉi."}
+{"input": "Respondió a las preguntas con amabilidad.", "ref": "Li afable respondis la demandojn.", "output": "Ŝi respondis al la demandoj kun afableco."}
+{"input": "Él fue a caminar antes de desayunar.", "ref": "Antaŭ la matenmanĝo li promenis.", "output": "Li iris promeni antaŭ la matenmanĝo."}
+{"input": "Esta manzana está podrida.", "ref": "Tiu ĉi pomo estas putra.", "output": "Tiu ĉi pomo estas putra."}
+{"input": "El verde te queda.", "ref": "Verdo konvenas al vi.", "output": "La verdaĵo restas por vi."}
+{"input": "¡Eso no sirve!", "ref": "Tio ne funkcias!", "output": "Tio ne helpas!"}
+{"input": "Ella se sentó a mi lado.", "ref": "Ŝi sidis apud mi.", "output": "Ŝi sidis apud mi."}
+{"input": "Ella tiene un anillo que vale más de lo que ella puede imaginar.", "ref": "Ŝi havas ringon, kiu valoras pli ol ŝi povas imagi.", "output": "Ŝi havas ringon, kiu valoras pli ol ŝi povas imagi."}
+{"input": "Le prometí traducir la interfaz completa.", "ref": "Mi promesis al li traduki la tutan interfacon.", "output": "Mi promesis al vi traduki la tutan interfacon."}
+{"input": "Por favor, espera un poco más.", "ref": "Bonvolu atendi iomete plu.", "output": "Bonvolu atendi iomete pli."}
+{"input": "¿Papá está en la cocina?", "ref": "Ĉu patro estas en la kuirejo?", "output": "Ĉu paĉjo estas en la kuirejo?"}
+{"input": "Me gusta él.", "ref": "Li plaĉas al mi.", "output": "Mi ŝatas ŝin."}
+{"input": "Este escritorio está hecho de madera.", "ref": "Ĉi tiu skribotablo estas el ligno.", "output": "Tiu ĉi tablo estas farita el ligno."}
+{"input": "Ella estaba muy ocupada.", "ref": "Ŝi estis tre okupata.", "output": "Ŝi estis tre okupata."}
+{"input": "El plástico no se quema con facilidad.", "ref": "Plasto ne facile brulas.", "output": "La plasto ne brulas facile."}
+{"input": "Peter y Eve hacen buena pareja.", "ref": "Petro kaj Evo estas bela paro.", "output": "Petro kaj Evo estas bona parenco."}
+{"input": "Esta clase está constituida por 35 alumnos.", "ref": "Tiu klaso konsistas el 35 lernantoj.", "output": "Ĉi tiu klaso konsistas el 35 lernantoj."}
+{"input": "¿Puedo hacer un par de preguntas?", "ref": "Ĉu mi rajtas meti kelkajn demandojn?", "output": "Ĉu mi rajtas fari al vi kelkajn demandojn?"}
+{"input": "Él aceptó la nominación.", "ref": "Li akceptis la nomigon.", "output": "Li akceptis la nomumon."}
+{"input": "Esta noche vendrá a mi casa.", "ref": "Li hodiaŭ vespere venos al mia hejmo.", "output": "Ĉi-vespere vi venos al mia domo."}
+{"input": "Al final mi hermana mayor se casó.", "ref": "Finfine mia pli aĝa fratino edziniĝis.", "output": "Finfine mia pli aĝa fratino edziĝis."}
+{"input": "Ella pronuncia mal todas las palabras.", "ref": "Ŝi misprononcas ĉiujn vortojn.", "output": "Ŝi malbone prononcas ĉiujn vortojn."}
+{"input": "Pavao ve solo hasta la punta de su nariz.", "ref": "Pavao vidas nur ĝis la pinto de sia nazo.", "output": "Pavao vidas nur ĝis la nazo."}
+{"input": "¿Has ido alguna vez a una ópera?", "ref": "Ĉu vi jam iris al opero?", "output": "Ĉu vi iam iris al opero?"}
+{"input": "Nos volvemos viejos y grises.", "ref": "Ni iĝas maljunaj kaj grizaj.", "output": "Ni iĝas maljuna kaj griza."}
+{"input": "¡El helado se está derritiendo, lámelo!", "ref": "La glaciaĵo fandiĝas, leku ĝin!", "output": "La glacio de la glacio fandiĝas, lamelo!"}
+{"input": "Yo tengo un hermano mayor y dos hermanas menores.", "ref": "Mi havas pli aĝan fraton kaj du pli junajn fratinojn.", "output": "Mi havas unu pli aĝan fraton kaj du pli junajn fratinojn."}
+{"input": "Aunque ya se habían considerado soluciones en el pasado, tan sólo ahora tenemos la posibilidad de emprender los primeros pasos para llevarlas a cabo.", "ref": "Kvankam solvoj estis konsiderataj jam pasinte, ni nur nun havas la eblecon entrepreni la unuajn paŝojn por realigi ilin.", "output": "Kvankam jam estis konsideritaj solvoj en la pasinteco, nur nun ni havas la eblecon entrepreni la unuajn paŝojn por realigi ilin."}
+{"input": "El coste de vida en los Estados Unidos estaba aumentando.", "ref": "En Usono la vivotenaj kostoj kreskadis.", "output": "La vivkosto en Usono kreskis."}
+{"input": "Hay un olmo en mi campo desde 1923.", "ref": "Pirarbo estas en mia kampo ekde 1923.", "output": "En mia kamparo estas grundo ekde 1923."}
+{"input": "No quiero ir fuera.", "ref": "Mi ne volas iri eksteren.", "output": "Mi ne volas iri eksteren."}
+{"input": "¿Te gusta el béisbol, Bin?", "ref": "Ĉu vi ŝatas la basbalon, Bin?", "output": "Ĉu vi ŝatas bazopilkadon, Bino?"}
+{"input": "¿Para ti qué comida sabe mejor?", "ref": "Pri kiu manĝaĵo vi kredas, ke ĝi havas la plej bonan guston?", "output": "Kiu manĝaĵo gustumas al vi pli bone?"}
+{"input": "Tom espera terminar el reporte para la próxima semana.", "ref": "Tom esperas fini la raporton venontsemajne.", "output": "Tomo esperas finigi la raporton por la venonta semajno."}
+{"input": "Tom es un hombre muy fuerte.", "ref": "Tom estas tre forta viro.", "output": "Tomo estas tre forta viro."}
+{"input": "No había ni una persona en la villa.", "ref": "En la vilaĝo estis eĉ ne unu homo.", "output": "Ne estis eĉ unu persono en la vilaĝo."}
+{"input": "Ella sorprendió a su esposo en los brazos de su amante.", "ref": "Ŝi surprizis sian edzon en la brakoj de lia amantino.", "output": "Ŝi surprizis sian edzon en la brakoj de sia koramiko."}
+{"input": "Los caballos son animales.", "ref": "La ĉevaloj estas bestoj.", "output": "Ĉevaloj estas bestoj."}
+{"input": "Ahora estoy cantando.", "ref": "Mi kantas nun.", "output": "Nun mi kantas."}
+{"input": "Quiero mi desayuno.", "ref": "Mi volas mian matenmanĝon.", "output": "Mi volas mian matenmanĝon."}
+{"input": "Desearía que no hubieses hecho eso.", "ref": "Mi dezirus, ke vi ne faris tion.", "output": "Mi dezirus, ke vi ne farintus tion."}
+{"input": "Me cepillo los dientes cada mañana.", "ref": "Mi brosas miajn dentojn ĉiun matenon.", "output": "Mi brosas miajn dentojn ĉiumatene."}
+{"input": "Le dije que saliera del cuarto.", "ref": "Mi petis lin forlasi la ĉambron.", "output": "Mi diris al ŝi eliri el la ĉambro."}
+{"input": "Ciertamente que es posible si se quiere.", "ref": "Tio certe estas ebla, se oni volas tion.", "output": "Certe tio eblas se oni volas."}
+{"input": "La niña siempre se veía alegre, pero no lo era ni un poco.", "ref": "La knabino ĉiam aspektis feliĉa, sed ŝi tute ne estis feliĉa.", "output": "La knabino ĉiam aspektis gaja, sed ne estis tia."}
+{"input": "Esa vez conocí a mi esposa actual.", "ref": "Tiam mi konatiĝis kun mia nuna edzino.", "output": "Tiun fojon mi renkontis mian aktualan edzinon."}
+{"input": "Me gusta montar un caballo de vez en cuando.", "ref": "Mi ŝatas jen kaj jen rajdi sur ĉevalo.", "output": "Mi ŝatas rajdi ĉevalon fojfoje."}
+{"input": "Te he salvado la vida.", "ref": "Mi savis vian vivon.", "output": "Mi savis vian vivon."}
+{"input": "Desde que no fumo, me siento mucho mejor.", "ref": "Ekde kiam mi ĉesis fumi, mi sentas min pli bone.", "output": "Ekde kiam mi ne fumas, mi sentas min multe pli bone."}
+{"input": "No hay manera de traducirlo.", "ref": "Tio ne estas tradukebla.", "output": "Ne estas maniero traduki ĝin."}
+{"input": "Ella no tenía dinero.", "ref": "Ŝi ne havis monon.", "output": "Ŝi ne havis monon."}
+{"input": "Tengo un buen empleo.", "ref": "Mi havas bonan laborpostenon.", "output": "Mi havas bonan laboron."}
+{"input": "No te puedo ayudar porque estoy ocupado.", "ref": "Mi ne povas helpi vin, ĉar mi estas okupata.", "output": "Mi ne povas helpi vin, ĉar mi estas okupita."}
+{"input": "Estoy muy triste de que no me hayas comprado ningún regalo.", "ref": "Mi estas tre trista, ĉar vi ne aĉetis donacon por mi.", "output": "Mi tre malĝojegas, ke vi ne aĉetis por mi donacojn."}
+{"input": "Yo ya he visto un panda una vez.", "ref": "Mi jam unufoje vidis pandon.", "output": "Mi jam vidis pandon unufoje."}
+{"input": "¿Vieron la silla de ruedas del abuelo?", "ref": "Ĉu vi vidis la rulseĝon de avo?", "output": "Ĉu vi vidis la biciklan seĝon de la avo?"}
+{"input": "Tú verdaderamente eres un antídoto para mi melancolía.", "ref": "Vi vere estas kontraŭveneno por mia melankolio.", "output": "Vi vere estas kontraŭdolĉa kontraŭ mia melankolio."}
+{"input": "Empecemos después de que él venga a casa.", "ref": "Ni komencu post lia alveno hejmen.", "output": "Ni komencu post kiam li venos hejmen."}
+{"input": "Toma el medicamento tres veces al día.", "ref": "Prenu tiun medikamenton trifoje en tago.", "output": "Prenu la kuracilon trifoje tage."}
+{"input": "¿Qué deseas alcanzar en la vida?", "ref": "Kion vi volas atingi en la vivo?", "output": "Kion vi deziras atingi en via vivo?"}
+{"input": "Esperanto es mucho más fácil que cualquier lengua natural.", "ref": "Esperanto estas multajn fojojn pli facila, ol ĉiu natura lingvo.", "output": "Esperanto estas multe pli facila ol iu ajn natura lingvo."}
+{"input": "Ayer fui al parque con Mary.", "ref": "Mi iris al la parko kun Mary hieraŭ.", "output": "Hieraŭ mi iris al la parko kun Manjo."}
+{"input": "El futuro no está escrito en piedra.", "ref": "La estonteco ne estas gravurita en ŝtono.", "output": "La estonteco ne estas skribita sur ŝtono."}
+{"input": "Tengo mil cosas que hacer.", "ref": "Mi havas mil farendaĵojn.", "output": "Mi havas mil farendaĵojn."}
+{"input": "¿Es verdad que en Inglaterra la reina reina pero no gobierna?", "ref": "Ĉu veras, ke en Anglujo la reĝino regas, sed ne administras?", "output": "Ĉu estas vere, ke en Anglujo la reĝino reĝas, sed ne regas?"}
+{"input": "¿Por qué estás enfadada con él?", "ref": "Kial vi koleras je li?", "output": "Kial vi koleras kontraŭ li?"}
+{"input": "Este estudiante estudia ingeniería.", "ref": "Tiu studento studas inĝenierion.", "output": "Tiu studento studas inĝenierarton."}
+{"input": "¡Bau, bau, bau!", "ref": "Boj, boj, boj!", "output": "Bovo, bovo, bovo!"}
+{"input": "No sé qué quieres y no me importa.", "ref": "Mi ne scias, kion vi volas, kaj mi ne interesiĝas.", "output": "Mi ne scias, kion vi volas kaj mi fajfas."}
+{"input": "Todo el mundo sabe que ella es una víbora.", "ref": "Ĉiuj scias ke ŝi estas vipero.", "output": "Ĉiu scias, ke ŝi estas serpento."}
+{"input": "No quiero tu opinión.", "ref": "Mi ne volas vian opinion.", "output": "Mi ne volas vian opinion."}
+{"input": "Oculté el libro debajo de la alfombra.", "ref": "Mi kaŝis la libron sub la tapiŝon.", "output": "Mi kaŝis la libron sub la tapiŝo."}
+{"input": "Solo tú me puedes ayudar.", "ref": "Nur vi povas helpi al mi.", "output": "Nur vi povas helpi min."}
+{"input": "Tom y Mary son pareja desde hace un año.", "ref": "Tom kaj Mary estas paro ekde unu jaro.", "output": "Tomo kaj Manjo estas parenco de unu jaro."}
+{"input": "Es peligroso nadar en la laguna.", "ref": "Estas danĝere naĝi en la lageto.", "output": "Estas danĝere naĝi en la lageto."}
+{"input": "Mi perro no tiene los dos ojos del mismo color.", "ref": "Mia hundo ne havas du samkolorajn okulojn.", "output": "Mia hundo ne havas ambaŭ okulojn de la sama koloro."}
+{"input": "¡Resiste!", "ref": "Rezistu!", "output": "Resistu!"}
+{"input": "Si has bebido mucho, es mejor que no conduzcas.", "ref": "Se vi multe drinkis, plej bone estas ne aŭti.", "output": "Se vi trinkis tro multe, vi ne veturu."}
+{"input": "Sólo cuesta una moneda.", "ref": "Ĝi kostas nur moneron.", "output": "Ĝi kostas nur unu monero."}
+{"input": "Tengo clase en una hora.", "ref": "Post unu horo mi havos lecionon.", "output": "Mi havas instruadon post unu horo."}
+{"input": "Sierro madera.", "ref": "Mi segas lignon.", "output": "Vilhelmo."}
+{"input": "Se sentaron alrededor de la mesa a jugar cartas.", "ref": "Ili sidiĝis ĉe la tablon por kartludi.", "output": "Ili sidis ĉirkaŭ la tablo por ludi kartojn."}
+{"input": "Este curso de inglés requiere mucho esfuerzo.", "ref": "Ĉi tiu angla kurso postulas multan penon.", "output": "Ĉi tiu kurso de la angla postulas multan penon."}
+{"input": "¿Dónde está el avión?", "ref": "Kie estas la aviadilo?", "output": "Kie estas la aviadilo?"}
+{"input": "Tom es sonámbulo.", "ref": "Tomo estas somnambulo.", "output": "Tomo estas sonĝulo."}
+{"input": "Tengo doce años y ¿qué es esto?", "ref": "Mi aĝas 12 jarojn, kaj kio estas ĉi tio?", "output": "Mi aĝas dek du jarojn, kaj kio estas tio?"}
+{"input": "Aun siendo un niño, él fue muy valiente.", "ref": "Kvankam infano, li tre bravis.", "output": "Eĉ kiam li estis infano, li estis tre kuraĝa."}
+{"input": "No nos hablamos más.", "ref": "Ni ne plu interparolas.", "output": "Ni ne plu parolu."}
+{"input": "¿Cuál es la dirección del viento?", "ref": "Kio estas la direkto de la vento?", "output": "Kiu estas la vento-direco?"}
+{"input": "Él borró su discurso de la cinta.", "ref": "Li viŝis sian alparoladon de la bendo.", "output": "Li forigis sian paroladon el la filmo."}
+{"input": "Esa casa parece bonita.", "ref": "Tiu domo belaspektas.", "output": "Tiu domo aspektas bela."}
+{"input": "No soy una servienta.", "ref": "Mi ne estas servistino.", "output": "Mi ne estas servistino."}
+{"input": "Si yo hubiera sido un pájaro, podría haber volado hasta ti.", "ref": "Se mi estus birdo, mi povus esti fluginta al vi.", "output": "Se mi estus birdo, mi povus flugi al vi."}
+{"input": "Bruno conduce despacio.", "ref": "Bruno stiras malrapide.", "output": "Bruno stiras malrapide."}
+{"input": "El conocimiento libera. La ignorancia esclaviza.", "ref": "Scio liberigas. Nescio sklavigas.", "output": "Scio liberigas. Scio neĝante sklavigas."}
+{"input": "Mi libro lo tiene Tom.", "ref": "Havas mian libron Tomo.", "output": "Mia libro estas enhavita de Tomo."}
+{"input": "Euclides fue el autor del primer libro de matemáticas.", "ref": "Eŭklido estis la aŭtoro de la unua libro pri matematiko.", "output": "Eŭklido estis la aŭtoro de la unua libro de matematiko."}
