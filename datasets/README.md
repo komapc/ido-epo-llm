@@ -23,7 +23,9 @@ one row per X sentence). Spanish and French are too small to resolve differences
 
 **`v2-ido-mono`** (`corpus/build_ido_mono.py`): sentences from the Ido Wikipedia dump (CC BY-SA) and
 the non-Wikipedia part of FineWeb-2 `ido_Latn` (ODC-By), filtered for shape, Esperanto letters,
-Ido vocabulary share, bot-stub templates, and any text in the datasets above.
+Ido vocabulary share, bot-stub templates, and any text in the datasets above. This is third-party
+text redistributed under CC BY-SA 4.0 (Wikipedia part) and ODC-By 1.0 (FineWeb-2 part); sources
+and attribution in [`v2-ido-mono/README.md`](v2-ido-mono/README.md).
 
 `corpus/check_split.py` also checks across datasets: no val/dev/test text of any dataset may
 appear in any `train.jsonl` or `mono.jsonl.gz`.
