@@ -38,8 +38,9 @@ dropped from chrF 68.9 to 22.5. So this build has one encoder and two decoders:
 |---|---|---|
 | `onnx/encoder_model_quantized.onnx` (237 MB) | fine-tuned encoder; base NLLB embeddings plus the trained `ido_Latn` row | every direction |
 | `onnx/decoder_model_merged_quantized.onnx` (375 MB) | base NLLB decoder | anything → epo / eng / spa / fra / deu |
-| `onnx_ido/decoder_model_merged_quantized.onnx` (375 MB) | fine-tuned decoder | anything → Ido |
-| `onnx_ido/encoder_model_quantized.onnx` (327 bytes) | placeholder that outputs zeros | lets transformers.js load `onnx_ido/` as a model; replace its session with the real encoder (see below) |
+| `onnx_ido_v2/decoder_model_merged_quantized.onnx` (375 MB) | Ido decoder v2: the v1 decoder retrained with back-translated Ido text (see below) | anything → Ido |
+| `onnx_ido_v2/encoder_model_quantized.onnx` (327 bytes) | placeholder that outputs zeros | lets transformers.js load `onnx_ido_v2/` as a model; replace its session with the real encoder (see below) |
+| `onnx_ido/` | the v1 Ido decoder and the same placeholder | kept so that existing links and caches keep working; use `onnx_ido_v2/` |
 
 - **Downloads:** 612 MB for Ido → other languages; the Ido decoder adds 375 MB.
 - **Vocabulary:** pruned to the 79,460 tokens that text in the six languages uses.
@@ -56,8 +57,31 @@ chrF, transformers.js q8, greedy decoding:
 | ido→eng / spa / fra / deu | 73.0 / 31.2 / 59.9 / 66.6 | **76.4 / 77.2 / 75.8 / 80.2** |
 | eng / spa / fra / deu → ido, through epo | – | **75.4 / 79.2 / 78.8 / 79.2** |
 
-The Ido↔X sets are small (114–200 short Tatoeba sentences) and overlap the v1 validation
+The Ido↔X sets in this table are small (114–200 short Tatoeba sentences) and overlap the v1 validation
 split, so read them as indicative, not as a benchmark.
+
+## Ido decoder v2 (2026-11-12)
+
+`onnx_ido_v2/` retrains only the decoder that writes Ido; the encoder and the base decoder are
+unchanged, so translation *from* Ido is the same as before. Training data: the v1 Esperanto→Ido
+pairs plus 43k back-translated pairs, real Ido sentences from Ido Wikipedia and FineWeb-2,
+translated to Esperanto by this build (dataset `v2-ido-mono` in the repo below). The encoder was
+frozen during training.
+
+Scored on the clean Tatoeba set `eval-ido-x-v1` (test; no sentence, translation or translation
+of a translation is in any training data), X → epo → Ido, q8, greedy, chrF with a 95% paired
+bootstrap interval for the difference:
+
+| into Ido | sentences | v1 decoder | v2 decoder | difference |
+|---|---|---|---|---|
+| eng → ido | 755 | 65.9 | 68.2 | +2.3 [+1.4, +3.3] |
+| deu → ido | 589 | 76.3 | 78.8 | +2.5 [+1.6, +3.5] |
+| spa → ido | 167 | 64.0 | 68.1 | +4.0 [+1.9, +6.3] |
+| fra → ido | 249 | 74.9 | 75.4 | +0.5 [−0.9, +1.7] |
+| epo → ido (v1 held-out test) | 500 | 72.2 | 73.9 | +1.8 [+0.1, +3.4] |
+
+These test sentences are longer than the v1 test split, so the numbers are lower than in the
+table above and the two tables should not be compared with each other.
 
 ## Usage (transformers.js)
 
@@ -68,7 +92,7 @@ const id = "komapc/nllb-ido-multi-onnx";
 const tok = await AutoTokenizer.from_pretrained(id);
 const fromIdo = await AutoModelForSeq2SeqLM.from_pretrained(id, { dtype: "q8" });
 // Only needed for translating into Ido:
-const toIdo = await AutoModelForSeq2SeqLM.from_pretrained(id, { dtype: "q8", subfolder: "onnx_ido" });
+const toIdo = await AutoModelForSeq2SeqLM.from_pretrained(id, { dtype: "q8", subfolder: "onnx_ido_v2" });
 await toIdo.sessions.model.release?.();
 toIdo.sessions.model = fromIdo.sessions.model;   // share the real encoder
 

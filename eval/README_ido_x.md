@@ -71,3 +71,31 @@ spa       new            114  60.7        36
 - **French and Spanish sets are small** (±3–4 chrF intervals), so decisions rest on epo (v1 test), eng and deu.
 - **Esperanto→Ido** (72.2) is the step every X→Ido translation ends with. It is the target of
   `finetune_ido_decoder.ipynb` (back-translation, v2 Ido decoder).
+
+## v2 Ido decoder (2026-11-12)
+
+`finetune_ido_decoder.ipynb` on Kaggle (T4, 58 min): 43,425 back-translated pairs (dropped 83:
+copy 47, length ratio 30, loop 5, empty 1) plus the v1 real/synthetic epo→ido pairs, frozen
+encoder, 1 epoch; best checkpoint by v1 val loss (0.608 → 0.520). Published as `onnx_ido_v2/`
+of [komapc/nllb-ido-multi-onnx](https://huggingface.co/komapc/nllb-ido-multi-onnx).
+
+Browser build (transformers.js 4.3.1 q8, greedy, X → epo with the unchanged read path, then
+epo → Ido), `preds/eval-ido-x-v1/browser-v2-q8.jsonl` against `browser-va-q8.jsonl`;
+Δ is the paired-bootstrap 95% interval:
+
+| set | into Ido | n | v1 | v2 | Δ |
+|---|---|---|---|---|---|
+| test | eng | 755 | 65.9 | 68.2 | +2.3 [+1.4, +3.3] |
+| test | deu | 589 | 76.3 | 78.8 | +2.5 [+1.6, +3.5] |
+| test | spa | 167 | 64.0 | 68.1 | +4.0 [+1.9, +6.3] |
+| test | fra | 249 | 74.9 | 75.4 | +0.5 [−0.9, +1.7] |
+| v1 test | epo | 500 | 72.2 | 73.9 | +1.8 [+0.1, +3.4] |
+| dev | eng / deu / fra / spa | 238 / 99 / 76 / 52 | 74.7 / 78.4 / 78.2 / 77.5 | 77.2 / 80.4 / 79.1 / 76.9 | +2.4 / +1.9 / +0.8 / −0.5 |
+
+The full-precision model on Kaggle (`preds/v2-kaggle/preds.jsonl`, pivot through the fp32 read
+path) agrees: test eng +2.3, deu +2.1, spa +3.5, fra −0.1, v1 test epo +0.7. Ido → X is
+unchanged, since the encoder and the base decoder are untouched.
+
+Score again with:
+`python3 eval/score_ido_decoder.py eval/preds/eval-ido-x-v1/browser-va-q8.jsonl eval/preds/eval-ido-x-v1/browser-v2-q8.jsonl`
+(the ido->X rows of the first file have no v2 counterpart and are scored alone).
