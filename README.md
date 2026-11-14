@@ -145,3 +145,7 @@ splits share any sentence text; CI also checks each dataset's `SHA256SUMS` and
 that the v1 predictions still score chrF 73.40. Before 2026-09-26 the
 committed split predated the union-find fix and ~90% of val/test texts were in
 train, so any model trained on it has inflated scores.
+
+## License
+
+Code: MIT ([`LICENSE`](LICENSE)). Trained model weights: CC BY-NC 4.0, inherited from the NLLB-200 base model. Training pairs come from [Tatoeba](https://tatoeba.org) (CC BY 2.0 FR, attribution required) and from Apertium ido-epo output (GPL).
